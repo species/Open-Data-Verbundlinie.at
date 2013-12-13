@@ -1,0 +1,3636 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-71165' action='modify' visible='true' lat='47.159411' lon='14.254276999999998'>
+    <tag k='alt_name' v='Althofen (Murau) Rabenbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rabenbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5572:0:fro' />
+  </node>
+  <node id='-71164' action='modify' visible='true' lat='47.057061999999995' lon='14.217988000000002'>
+    <tag k='alt_name' v='Steirisch Laßnitz Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8408:0:neu' />
+  </node>
+  <node id='-71163' action='modify' visible='true' lat='47.03122100000001' lon='14.416066999999998'>
+    <tag k='alt_name' v='Wildbad Einöd Neudegg Berghof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Neudegg Berghof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8788:0:kaer' />
+  </node>
+  <node id='-71162' action='modify' visible='true' lat='47.085007' lon='13.981588999999998'>
+    <tag k='alt_name' v='Stadl an der Mur Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5590:2:tams' />
+  </node>
+  <node id='-71161' action='modify' visible='true' lat='47.15110399999999' lon='14.413466'>
+    <tag k='alt_name' v='Scheifling (Stmk) Ritter-Ilsung-Platz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ritter-Ilsung-Platz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5516:0:nm' />
+  </node>
+  <node id='-71160' action='modify' visible='true' lat='47.109258000000004' lon='14.173938999999999'>
+    <tag k='alt_name' v='Murau Stolzalpe Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stolzalpe Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5540:2:tams' />
+  </node>
+  <node id='-71159' action='modify' visible='true' lat='47.235203000000006' lon='13.97107'>
+    <tag k='alt_name' v='Krakauhintermühlen Schoberhütte' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schoberhütte' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7899:0:bus' />
+  </node>
+  <node id='-71158' action='modify' visible='true' lat='47.21504000000001' lon='14.28929'>
+    <tag k='alt_name' v='Salchau Brunner Kurve' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brunner Kurve' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8750:0:ple' />
+  </node>
+  <node id='-71157' action='modify' visible='true' lat='47.14883400000001' lon='14.417583'>
+    <tag k='alt_name' v='Scheifling (Stmk) Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:7472:1:zug' />
+  </node>
+  <node id='-71156' action='modify' visible='true' lat='47.189239' lon='14.000534000000002'>
+    <tag k='alt_name' v='Krakauhintermühlen Gartler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gartler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8492:0:mu' />
+  </node>
+  <node id='-71155' action='modify' visible='true' lat='47.047371999999996' lon='14.466813'>
+    <tag k='alt_name' v='Schönhof (Stmk) Oberdorferweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oberdorferweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8317:0:neu' />
+  </node>
+  <node id='-71154' action='modify' visible='true' lat='47.157847000000004' lon='14.080933'>
+    <tag k='alt_name' v='Ranten Dorfplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dorfplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5577:0:mu' />
+  </node>
+  <node id='-71153' action='modify' visible='true' lat='47.093174000000005' lon='14.365857000000002'>
+    <tag k='alt_name' v='Oberdorf (Mariahof) Parkplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Parkplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7985:0:neu' />
+  </node>
+  <node id='-71152' action='modify' visible='true' lat='47.146172' lon='14.375633000000002'>
+    <tag k='alt_name' v='Niederwölz Oberwölz Bahnhof' />
+    <tag k='name' v='Oberwölz Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5600:1:zug' />
+  </node>
+  <node id='-71151' action='modify' visible='true' lat='47.11037700000001' lon='14.060896000000001'>
+    <tag k='alt_name' v='Bodendorf (Stmk) Gh Winter' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Winter' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5546:0:sch' />
+  </node>
+  <node id='-71150' action='modify' visible='true' lat='47.195913' lon='14.346799'>
+    <tag k='alt_name' v='Schönberg/Niederwölz Abzw Lachtal' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Lachtal' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8728:0:schi' />
+  </node>
+  <node id='-71149' action='modify' visible='true' lat='47.18704' lon='13.942414000000001'>
+    <tag k='alt_name' v='Krakauschatten vlg Stefflbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='vlg Stefflbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8498:0:kra' />
+  </node>
+  <node id='-71148' action='modify' visible='true' lat='47.083894' lon='13.940061000000002'>
+    <tag k='alt_name' v='Einach Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5589:1:zug' />
+  </node>
+  <node id='-71147' action='modify' visible='true' lat='47.10124999999999' lon='14.007378'>
+    <tag k='alt_name' v='Falkendorf (Stmk) Pichl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pichl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5551:0:tam' />
+  </node>
+  <node id='-71146' action='modify' visible='true' lat='47.24175999999999' lon='14.082524000000001'>
+    <tag k='alt_name' v='Schöder Dorferhütte' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dorferhütte' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7917:0:schoe' />
+  </node>
+  <node id='-71145' action='modify' visible='true' lat='47.134882' lon='14.153351'>
+    <tag k='alt_name' v='Planitzen (Stmk) Stöcklbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stöcklbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5559:0:kra' />
+  </node>
+  <node id='-71144' action='modify' visible='true' lat='47.081275' lon='14.416771000000002'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Trinkl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trinkl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8395:0:mu' />
+  </node>
+  <node id='-71143' action='modify' visible='true' lat='46.982028' lon='14.391699'>
+    <tag k='alt_name' v='Dürnstein (Stmk) Landesgrenze' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Landesgrenze' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8780:0:ju' />
+  </node>
+  <node id='-71142' action='modify' visible='true' lat='47.17564699999999' lon='14.00584'>
+    <tag k='alt_name' v='Unteretrach Unteretrach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Unteretrach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8482:0:see' />
+  </node>
+  <node id='-71141' action='modify' visible='true' lat='47.133193000000006' lon='14.435493'>
+    <tag k='alt_name' v='Puchfeld Straßenwärterhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Straßenwärterhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5508:0:ju' />
+  </node>
+  <node id='-71140' action='modify' visible='true' lat='47.136641' lon='14.286527000000001'>
+    <tag k='alt_name' v='Katsch an der Mur Abzweigung Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5528:0:tam' />
+  </node>
+  <node id='-71139' action='modify' visible='true' lat='47.075712999999986' lon='14.427939'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Schulen' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schulen' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7978:0:bus' />
+  </node>
+  <node id='-71138' action='modify' visible='true' lat='47.201588' lon='14.284566999999997'>
+    <tag k='alt_name' v='Oberwölz Hauptschule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hauptschule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8732:0:bus' />
+  </node>
+  <node id='-71137' action='modify' visible='true' lat='47.273914' lon='14.148206000000002'>
+    <tag k='alt_name' v='Hölzlerhütte Hölzlerhütte' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hölzlerhütte' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5408:0:poel' />
+  </node>
+  <node id='-71136' action='modify' visible='true' lat='47.185066000000006' lon='14.193292000000001'>
+    <tag k='alt_name' v='St Peter/Kammersberg Hauptschule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hauptschule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5569:0:mu' />
+  </node>
+  <node id='-71135' action='modify' visible='true' lat='47.071018' lon='14.379471'>
+    <tag k='alt_name' v='Graslupp Fischerwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fischerwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7930:0:zeu' />
+  </node>
+  <node id='-71134' action='modify' visible='true' lat='47.093675000000005' lon='14.321764999999997'>
+    <tag k='alt_name' v='Thajagraben Drahtzug' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Drahtzug' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8401:0:neu' />
+  </node>
+  <node id='-71133' action='modify' visible='true' lat='47.014234' lon='14.40726'>
+    <tag k='alt_name' v='Wildbad Einöd Gasthaus Leitner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gasthaus Leitner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8785:0:kaer' />
+  </node>
+  <node id='-71132' action='modify' visible='true' lat='47.112086000000005' lon='14.211153000000001'>
+    <tag k='alt_name' v='Gestüthof Bundesstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bundesstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5534:0:sch' />
+  </node>
+  <node id='-71131' action='modify' visible='true' lat='47.222555' lon='13.913377'>
+    <tag k='alt_name' v='Rantengraben Rantenalm' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rantenalm' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7896:0:ran' />
+  </node>
+  <node id='-71130' action='modify' visible='true' lat='47.06999100000001' lon='14.206021'>
+    <tag k='alt_name' v='Laßnitz bei Murau Santnerbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Santnerbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4985:0:mu' />
+  </node>
+  <node id='-71129' action='modify' visible='true' lat='47.217681' lon='14.217406'>
+    <tag k='alt_name' v='Eselsberg (Stmk) Golli' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Golli' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8738:0:poel' />
+  </node>
+  <node id='-71128' action='modify' visible='true' lat='47.086649' lon='14.069177'>
+    <tag k='alt_name' v='St Lorenzen/Murau Seilbahn Mittelstation' />
+    <tag k='name' v='Seilbahn Mittelstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7820:1:fuss' />
+  </node>
+  <node id='-71127' action='modify' visible='true' lat='47.179418' lon='14.023696999999999'>
+    <tag k='alt_name' v='Krakaudorf Gruber' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gruber' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8489:0:mu' />
+  </node>
+  <node id='-71126' action='modify' visible='true' lat='47.14941400000001' lon='14.273457'>
+    <tag k='alt_name' v='Katsch an der Mur Kropfmoar' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kropfmoar' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5574:0:peter' />
+  </node>
+  <node id='-71125' action='modify' visible='true' lat='47.065465' lon='14.260296'>
+    <tag k='alt_name' v='Im Tal Harmhöhe' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Harmhöhe' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8406:0:mu' />
+  </node>
+  <node id='-71124' action='modify' visible='true' lat='47.053245000000004' lon='14.433466'>
+    <tag k='alt_name' v='Hammerl/St Georgen Siedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Siedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8791:0:ju' />
+  </node>
+  <node id='-71123' action='modify' visible='true' lat='47.058367' lon='14.219502'>
+    <tag k='alt_name' v='Steirisch Laßnitz Umfahrung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Umfahrung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3339:0:mu' />
+  </node>
+  <node id='-71122' action='modify' visible='true' lat='47.07813999999999' lon='14.389903'>
+    <tag k='alt_name' v='Baierdorf/Mariahof Kernmaier' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kernmaier' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7982:0:neu' />
+  </node>
+  <node id='-71121' action='modify' visible='true' lat='47.08410000000001' lon='13.940052'>
+    <tag k='alt_name' v='Einach Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5589:2:tams' />
+  </node>
+  <node id='-71120' action='modify' visible='true' lat='47.14840099999999' lon='14.375551'>
+    <tag k='alt_name' v='Niederwölz Wölzerbachbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wölzerbachbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5519:0:sch' />
+  </node>
+  <node id='-71119' action='modify' visible='true' lat='47.110185' lon='14.183533'>
+    <tag k='alt_name' v='Murau Schulzentrum' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schulzentrum' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5539:0:nm' />
+  </node>
+  <node id='-71118' action='modify' visible='true' lat='47.223532' lon='14.298403'>
+    <tag k='alt_name' v='Salchau Pals' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pals' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8752:0:obe' />
+  </node>
+  <node id='-71117' action='modify' visible='true' lat='47.183356' lon='14.045956'>
+    <tag k='alt_name' v='Künsten Günster Wasserfall' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Günster Wasserfall' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7385:0:mu' />
+  </node>
+  <node id='-71116' action='modify' visible='true' lat='47.10608' lon='14.372495000000002'>
+    <tag k='alt_name' v='Mariahof Mariahof-St Lambrecht Bahnhof' />
+    <tag k='name' v='Mariahof-St Lambrecht Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7473:1:fuss' />
+  </node>
+  <node id='-71115' action='modify' visible='true' lat='47.188215' lon='13.969478000000002'>
+    <tag k='alt_name' v='Krakauebene Gh Fixl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Fixl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8495:0:kra' />
+  </node>
+  <node id='-71114' action='modify' visible='true' lat='47.16190600000001' lon='14.040310999999999'>
+    <tag k='alt_name' v='Seebach bei Ranten Hornwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hornwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5580:0:kra' />
+  </node>
+  <node id='-71113' action='modify' visible='true' lat='47.05214600000001' lon='14.452957999999999'>
+    <tag k='alt_name' v='Schönhof (Stmk) Gruber' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gruber' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8316:0:mueh' />
+  </node>
+  <node id='-71112' action='modify' visible='true' lat='47.090361' lon='14.379118'>
+    <tag k='alt_name' v='Vockenberg/Mariahof Kreuz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreuz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7987:0:ober' />
+  </node>
+  <node id='-71111' action='modify' visible='true' lat='47.111303' lon='14.035676999999998'>
+    <tag k='alt_name' v='Bodendorf (Stmk) Wandritschbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wandritschbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5548:0:tam' />
+  </node>
+  <node id='-71110' action='modify' visible='true' lat='47.185574' lon='14.318831'>
+    <tag k='alt_name' v='Raiming Raiming' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Raiming' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8731:0:oberw' />
+  </node>
+  <node id='-71109' action='modify' visible='true' lat='47.077419000000006' lon='13.926473'>
+    <tag k='alt_name' v='Predlitz Ladin' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ladin' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5556:2:sch' />
+  </node>
+  <node id='-71108' action='modify' visible='true' lat='47.177288' lon='14.336176000000002'>
+    <tag k='alt_name' v='Schiltern (Stmk) Abzw Schönberg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Schönberg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4445:0:nie' />
+  </node>
+  <node id='-71107' action='modify' visible='true' lat='47.071633' lon='13.908471000000002'>
+    <tag k='alt_name' v='Predlitz Turrach Bahnhof' />
+    <tag k='name' v='Turrach Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5587:1:zug' />
+  </node>
+  <node id='-71106' action='modify' visible='true' lat='47.231335' lon='14.235388999999998'>
+    <tag k='alt_name' v='Hinteregg/Oberwölz Kreuter' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreuter' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4790:0:poel' />
+  </node>
+  <node id='-71105' action='modify' visible='true' lat='47.131783999999996' lon='14.320972'>
+    <tag k='alt_name' v='Frojach (Stmk) Naglmoarkreuzung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Naglmoarkreuzung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5141:0:sch' />
+  </node>
+  <node id='-71104' action='modify' visible='true' lat='47.08576899999999' lon='13.978381'>
+    <tag k='alt_name' v='Stadl an der Mur Abzweigung Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5554:0:sch' />
+  </node>
+  <node id='-71103' action='modify' visible='true' lat='47.122710999999995' lon='14.188061999999999'>
+    <tag k='alt_name' v='Stolzalpe Hillberger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hillberger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8450:0:mu' />
+  </node>
+  <node id='-71102' action='modify' visible='true' lat='47.157509' lon='14.113810999999998'>
+    <tag k='alt_name' v='Ranten Rottenmann Gh Mooswirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rottenmann Gh Mooswirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5562:0:fro' />
+  </node>
+  <node id='-71101' action='modify' visible='true' lat='47.105158' lon='14.364413000000003'>
+    <tag k='alt_name' v='Mariahof Gut Zedlacher' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gut Zedlacher' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8398:0:neu' />
+  </node>
+  <node id='-71100' action='modify' visible='true' lat='47.18088' lon='13.985043000000001'>
+    <tag k='alt_name' v='Brandstatt (Murau) Geiergraben' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Geiergraben' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8484:0:pre' />
+  </node>
+  <node id='-71099' action='modify' visible='true' lat='47.107423000000004' lon='14.456844999999996'>
+    <tag k='alt_name' v='Perchau am Sattel Gemeindeamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeindeamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5506:0:nm' />
+  </node>
+  <node id='-71098' action='modify' visible='true' lat='47.13566200000001' lon='14.255178'>
+    <tag k='alt_name' v='Triebendorf (Stmk) Lankenwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lankenwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5531:0:sch' />
+  </node>
+  <node id='-71097' action='modify' visible='true' lat='47.07139599999999' lon='14.390582999999998'>
+    <tag k='alt_name' v='Graslupp Rainberg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rainberg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7976:0:zeu' />
+  </node>
+  <node id='-71096' action='modify' visible='true' lat='47.201115' lon='14.243011'>
+    <tag k='alt_name' v='Winklern/Oberwölz Winklern bei Oberwölz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Winklern bei Oberwölz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8735:0:obe' />
+  </node>
+  <node id='-71095' action='modify' visible='true' lat='47.11932' lon='14.187118000000002'>
+    <tag k='alt_name' v='Stolzalpe Kinderheim' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kinderheim' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8448:0:mu' />
+  </node>
+  <node id='-71094' action='modify' visible='true' lat='46.962769' lon='13.885324000000002'>
+    <tag k='alt_name' v='Turrach Ort Gh Bergmann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort Gh Bergmann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7926:0:kaern' />
+  </node>
+  <node id='-71093' action='modify' visible='true' lat='47.188265' lon='14.158341'>
+    <tag k='alt_name' v='Feistritz/Kammersbg Abzweigung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5567:0:mu' />
+  </node>
+  <node id='-71092' action='modify' visible='true' lat='47.07971100000001' lon='14.314957000000001'>
+    <tag k='alt_name' v='Heiligenstadt (Stmk) Wohlfahrtersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wohlfahrtersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8403:0:mu' />
+  </node>
+  <node id='-71091' action='modify' visible='true' lat='47.03120899999999' lon='14.416409999999999'>
+    <tag k='alt_name' v='Wildbad Einöd Neudegg Berghof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Neudegg Berghof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8788:0:ju' />
+  </node>
+  <node id='-71090' action='modify' visible='true' lat='47.15098900000001' lon='14.413575999999999'>
+    <tag k='alt_name' v='Scheifling (Stmk) Ritter-Ilsung-Platz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ritter-Ilsung-Platz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5516:0:ju' />
+  </node>
+  <node id='-71089' action='modify' visible='true' lat='47.111705' lon='14.186383999999997'>
+    <tag k='alt_name' v='St Egidi Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5536:0:tam' />
+  </node>
+  <node id='-71088' action='modify' visible='true' lat='47.07271' lon='14.303596000000002'>
+    <tag k='alt_name' v='St Lambrecht Alexanderhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Alexanderhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4815:0:neu' />
+  </node>
+  <node id='-71087' action='modify' visible='true' lat='47.21934099999999' lon='13.978734'>
+    <tag k='alt_name' v='Krakauhintermühlen Karlhütte' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Karlhütte' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7898:0:scho' />
+  </node>
+  <node id='-71086' action='modify' visible='true' lat='47.07819799999999' lon='14.423716000000002'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Mariahofer Kreuzung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mariahofer Kreuzung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4988:0:neu' />
+  </node>
+  <node id='-71085' action='modify' visible='true' lat='47.221398' lon='14.205837'>
+    <tag k='alt_name' v='Eselsberg (Stmk) Finster' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Finster' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8741:0:poel' />
+  </node>
+  <node id='-71084' action='modify' visible='true' lat='47.18166500000001' lon='14.021343999999997'>
+    <tag k='alt_name' v='Krakaudorf Postamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Postamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8488:0:kra' />
+  </node>
+  <node id='-71083' action='modify' visible='true' lat='47.05321' lon='14.441101000000002'>
+    <tag k='alt_name' v='Steindorf/St Marein Hartleb' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hartleb' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8312:0:mueh' />
+  </node>
+  <node id='-71082' action='modify' visible='true' lat='47.158046' lon='14.081003'>
+    <tag k='alt_name' v='Ranten Dorfplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dorfplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5577:0:kra' />
+  </node>
+  <node id='-71081' action='modify' visible='true' lat='47.07739099999999' lon='14.203422000000002'>
+    <tag k='alt_name' v='Laßnitz bei Murau Stampfer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stampfer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8409:0:neu' />
+  </node>
+  <node id='-71080' action='modify' visible='true' lat='47.088043' lon='14.381916000000002'>
+    <tag k='alt_name' v='Vockenberg/Mariahof Kapelle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kapelle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7984:0:ober' />
+  </node>
+  <node id='-71079' action='modify' visible='true' lat='47.10934799999999' lon='14.026590999999998'>
+    <tag k='alt_name' v='St Ruprecht/Murau Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5592:1:zug' />
+  </node>
+  <node id='-71078' action='modify' visible='true' lat='47.134949' lon='14.362758000000001'>
+    <tag k='alt_name' v='Teufenbach (Bz MU) Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5521:1:zug' />
+  </node>
+  <node id='-71077' action='modify' visible='true' lat='47.113287' lon='14.162983999999998'>
+    <tag k='alt_name' v='Murau Gießhübltor' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gießhübltor' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5541:0:tam' />
+  </node>
+  <node id='-71076' action='modify' visible='true' lat='47.218358' lon='14.293783000000001'>
+    <tag k='alt_name' v='Salchau Spiegl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Spiegl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8751:0:ple' />
+  </node>
+  <node id='-71075' action='modify' visible='true' lat='47.078452' lon='14.406154000000003'>
+    <tag k='alt_name' v='Baierdorf/Mariahof Dillinger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dillinger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7389:0:neu' />
+  </node>
+  <node id='-71074' action='modify' visible='true' lat='47.100852' lon='14.107621'>
+    <tag k='alt_name' v='Marbach (Murau) Golfplatz Bahnhof' />
+    <tag k='name' v='Golfplatz Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5011:1:zug' />
+  </node>
+  <node id='-71073' action='modify' visible='true' lat='47.18726900000001' lon='13.896973'>
+    <tag k='alt_name' v='Krakauschatten Gh Stadlober' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Stadlober' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7676:0:pre' />
+  </node>
+  <node id='-71072' action='modify' visible='true' lat='47.080013' lon='14.425244000000001'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Strimitzen' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Strimitzen' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4757:0:nm' />
+  </node>
+  <node id='-71071' action='modify' visible='true' lat='47.18903999999999' lon='13.958937'>
+    <tag k='alt_name' v='Krakauschatten Preberblick' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Preberblick' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8497:0:pre' />
+  </node>
+  <node id='-71070' action='modify' visible='true' lat='47.04307500000001' lon='14.476410999999999'>
+    <tag k='alt_name' v='Kalsdorf/Neumarkt Kalsdorf bei Neumarkt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kalsdorf bei Neumarkt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8318:0:neu' />
+  </node>
+  <node id='-71069' action='modify' visible='true' lat='47.163872' lon='14.024913000000003'>
+    <tag k='alt_name' v='Seebach bei Ranten Abzweigung Krakauschatten' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Krakauschatten' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5582:0:see' />
+  </node>
+  <node id='-71068' action='modify' visible='true' lat='47.094883' lon='14.402794'>
+    <tag k='alt_name' v='Hoferdorf Volksschule Mariahof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Volksschule Mariahof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7990:0:neu' />
+  </node>
+  <node id='-71067' action='modify' visible='true' lat='47.15742' lon='14.403915000000001'>
+    <tag k='alt_name' v='Lind bei Scheifling Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5601:1:zug' />
+  </node>
+  <node id='-71066' action='modify' visible='true' lat='47.11147900000001' lon='14.047118999999999'>
+    <tag k='alt_name' v='Bodendorf (Stmk) Cäcilia' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cäcilia' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5547:0:sch' />
+  </node>
+  <node id='-71065' action='modify' visible='true' lat='47.18912600000001' lon='14.341365999999999'>
+    <tag k='alt_name' v='Schönberg/Niederwölz Schmiedhofer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schmiedhofer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8729:0:schi' />
+  </node>
+  <node id='-71064' action='modify' visible='true' lat='47.09981599999999' lon='14.085467000000001'>
+    <tag k='alt_name' v='St Lorenzen/Murau Kreischberg Talstation' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreischberg Talstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7752:1:bus' />
+  </node>
+  <node id='-71063' action='modify' visible='true' lat='47.134753' lon='14.153211'>
+    <tag k='alt_name' v='Planitzen (Stmk) Stöcklbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stöcklbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5559:0:mur' />
+  </node>
+  <node id='-71062' action='modify' visible='true' lat='47.22195599999999' lon='14.309449'>
+    <tag k='alt_name' v='Salchau Schwarzbach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schwarzbach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4448:0:ple' />
+  </node>
+  <node id='-71061' action='modify' visible='true' lat='47.271525' lon='14.079778999999998'>
+    <tag k='alt_name' v='St Nikolai/Sölktal Sölkpass' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sölkpass' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7336:0:nik' />
+  </node>
+  <node id='-71060' action='modify' visible='true' lat='47.169977' lon='14.015427999999996'>
+    <tag k='alt_name' v='Seebach bei Ranten Jessner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jessner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8481:0:pre' />
+  </node>
+  <node id='-71059' action='modify' visible='true' lat='47.093211' lon='14.443238000000001'>
+    <tag k='alt_name' v='Perchau am Sattel Schindlbacher' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schindlbacher' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5503:0:nm' />
+  </node>
+  <node id='-71058' action='modify' visible='true' lat='47.108588000000005' lon='14.179935000000004'>
+    <tag k='alt_name' v='St Egidi Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7481:2:tams' />
+  </node>
+  <node id='-71057' action='modify' visible='true' lat='47.129405999999996' lon='14.33415'>
+    <tag k='alt_name' v='Frojach (Stmk) Wirt in der Lacken' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wirt in der Lacken' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5524:0:tam' />
+  </node>
+  <node id='-71056' action='modify' visible='true' lat='47.065471' lon='14.357675999999996'>
+    <tag k='alt_name' v='Zeutschach Hainzenhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hainzenhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7973:0:zeu' />
+  </node>
+  <node id='-71055' action='modify' visible='true' lat='47.122049000000004' lon='14.186809999999998'>
+    <tag k='alt_name' v='Stolzalpe Postamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Postamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8449:0:sto' />
+  </node>
+  <node id='-71054' action='modify' visible='true' lat='47.27147599999999' lon='14.156222999999999'>
+    <tag k='alt_name' v='Knollihütte/Eselsbg. Knollihütte' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Knollihütte' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5407:0:poel' />
+  </node>
+  <node id='-71053' action='modify' visible='true' lat='47.181212' lon='14.112438999999998'>
+    <tag k='alt_name' v='Schöder Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5564:0:mu' />
+  </node>
+  <node id='-71052' action='modify' visible='true' lat='47.070841' lon='14.379622000000001'>
+    <tag k='alt_name' v='Graslupp Fischerwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fischerwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7930:0:neu' />
+  </node>
+  <node id='-71051' action='modify' visible='true' lat='47.091475' lon='14.402838000000003'>
+    <tag k='alt_name' v='Hoferdorf Abzweigung Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8396:0:mu' />
+  </node>
+  <node id='-71050' action='modify' visible='true' lat='46.989378' lon='14.390157'>
+    <tag k='alt_name' v='Dürnstein (Stmk) Schlosswirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schlosswirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8781:0:ju' />
+  </node>
+  <node id='-71049' action='modify' visible='true' lat='47.139364' lon='14.426875000000004'>
+    <tag k='alt_name' v='Puchfeld Springer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Springer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5509:0:ju' />
+  </node>
+  <node id='-71048' action='modify' visible='true' lat='47.142686999999995' lon='14.282563999999999'>
+    <tag k='alt_name' v='Katsch an der Mur Postamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Postamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5529:0:tam' />
+  </node>
+  <node id='-71047' action='modify' visible='true' lat='47.077157' lon='14.40886'>
+    <tag k='alt_name' v='Baierdorf/Mariahof Springerhalle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Springerhalle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7979:0:ober' />
+  </node>
+  <node id='-71046' action='modify' visible='true' lat='47.217597000000005' lon='14.217686'>
+    <tag k='alt_name' v='Eselsberg (Stmk) Golli' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Golli' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8738:0:oberw' />
+  </node>
+  <node id='-71045' action='modify' visible='true' lat='47.117740999999995' lon='14.182082'>
+    <tag k='alt_name' v='Stolzalpe Rahmhube' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rahmhube' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8447:0:sto' />
+  </node>
+  <node id='-71044' action='modify' visible='true' lat='47.072860999999996' lon='14.303498'>
+    <tag k='alt_name' v='St Lambrecht Alexanderhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Alexanderhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4815:0:mu' />
+  </node>
+  <node id='-71043' action='modify' visible='true' lat='46.922539' lon='13.870656000000002'>
+    <tag k='alt_name' v='Turracherhöhe/Stmk Kornockbahn Talstation' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kornockbahn Talstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7928:1:kaern' />
+  </node>
+  <node id='-71042' action='modify' visible='true' lat='47.17694699999999' lon='14.225004'>
+    <tag k='alt_name' v='Peterdorf Posthaltestelle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Posthaltestelle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5570:0:fro' />
+  </node>
+  <node id='-71041' action='modify' visible='true' lat='47.065331' lon='14.260353999999998'>
+    <tag k='alt_name' v='Im Tal Harmhöhe' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Harmhöhe' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8406:0:neu' />
+  </node>
+  <node id='-71040' action='modify' visible='true' lat='47.018558' lon='14.411878'>
+    <tag k='alt_name' v='Wildbad Einöd ehemaliger Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ehemaliger Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8786:0:kaer' />
+  </node>
+  <node id='-71039' action='modify' visible='true' lat='47.058355' lon='14.219306'>
+    <tag k='alt_name' v='Steirisch Laßnitz Umfahrung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Umfahrung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3339:0:neu' />
+  </node>
+  <node id='-71038' action='modify' visible='true' lat='47.074996000000006' lon='14.053107'>
+    <tag k='alt_name' v='St Lorenzen/Murau Seilbahn Bergstation' />
+    <tag k='name' v='Seilbahn Bergstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7871:1:fuss' />
+  </node>
+  <node id='-71037' action='modify' visible='true' lat='47.110186' lon='14.183585999999996'>
+    <tag k='alt_name' v='Murau Schulzentrum' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schulzentrum' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5539:0:bus' />
+  </node>
+  <node id='-71036' action='modify' visible='true' lat='47.19326199999999' lon='13.981723999999998'>
+    <tag k='alt_name' v='Krakauhintermühlen Ulrichskirche' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ulrichskirche' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7897:0:kra' />
+  </node>
+  <node id='-71035' action='modify' visible='true' lat='47.208180000000006' lon='14.205627'>
+    <tag k='alt_name' v='Pöllau am Greim Schule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8746:0:obe' />
+  </node>
+  <node id='-71034' action='modify' visible='true' lat='47.183469' lon='14.045739999999999'>
+    <tag k='alt_name' v='Künsten Günster Wasserfall' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Günster Wasserfall' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7385:0:fro' />
+  </node>
+  <node id='-71033' action='modify' visible='true' lat='47.187608' lon='14.00789'>
+    <tag k='alt_name' v='Scharnigl Steinbauernbichl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinbauernbichl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8490:0:mu' />
+  </node>
+  <node id='-71032' action='modify' visible='true' lat='47.055811' lon='14.447222'>
+    <tag k='alt_name' v='Rapottendorf Rapottendorferweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rapottendorferweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8314:0:neu' />
+  </node>
+  <node id='-71031' action='modify' visible='true' lat='47.15501' lon='14.103735'>
+    <tag k='alt_name' v='Ranten Abzweigung Kulm Siedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Kulm Siedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5575:0:mu' />
+  </node>
+  <node id='-71030' action='modify' visible='true' lat='47.099904' lon='14.097279999999998'>
+    <tag k='alt_name' v='St Lorenzen/Murau Ostbahnhof' />
+    <tag k='name' v='Ostbahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:3758:1:zug' />
+  </node>
+  <node id='-71029' action='modify' visible='true' lat='47.09594100000001' lon='14.196253000000002'>
+    <tag k='alt_name' v='Wimml Wimml' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wimml' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8411:0:mu' />
+  </node>
+  <node id='-71028' action='modify' visible='true' lat='47.094787' lon='14.302229000000002'>
+    <tag k='alt_name' v='St Blasen Hinterbach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hinterbach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3347:0:mur' />
+  </node>
+  <node id='-71027' action='modify' visible='true' lat='47.081956999999996' lon='14.390554000000002'>
+    <tag k='alt_name' v='Baierdorf/Mariahof Moser' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Moser' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7983:0:neu' />
+  </node>
+  <node id='-71026' action='modify' visible='true' lat='47.101547' lon='14.091125000000002'>
+    <tag k='alt_name' v='St Lorenzen/Murau Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5595:2:tam' />
+  </node>
+  <node id='-71025' action='modify' visible='true' lat='47.128086999999994' lon='14.349331000000001'>
+    <tag k='alt_name' v='Teufenbach (Bz MU) Blutgraben' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Blutgraben' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5523:0:tam' />
+  </node>
+  <node id='-71024' action='modify' visible='true' lat='47.178995' lon='14.332986'>
+    <tag k='alt_name' v='Schiltern (Stmk) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8726:0:oberw' />
+  </node>
+  <node id='-71023' action='modify' visible='true' lat='47.221036000000005' lon='14.312362999999998'>
+    <tag k='alt_name' v='Salchau Brücke Kogler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brücke Kogler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8753:0:obe' />
+  </node>
+  <node id='-71022' action='modify' visible='true' lat='47.073403' lon='14.415145'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:7474:1:zug' />
+  </node>
+  <node id='-71021' action='modify' visible='true' lat='47.188568' lon='13.950527000000001'>
+    <tag k='alt_name' v='Klausen (Murau) Klausen bei Murau' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Klausen bei Murau' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8496:0:kra' />
+  </node>
+  <node id='-71020' action='modify' visible='true' lat='47.083665' lon='14.150678000000003'>
+    <tag k='alt_name' v='Frauenalm (Stmk) Frauenalm' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Frauenalm' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5586:0:bus' />
+  </node>
+  <node id='-71019' action='modify' visible='true' lat='47.11018' lon='14.022773'>
+    <tag k='alt_name' v='St Ruprecht/Murau Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5549:0:tam' />
+  </node>
+  <node id='-71018' action='modify' visible='true' lat='47.250193' lon='14.365706'>
+    <tag k='alt_name' v='Lachtal Sesselbahn Talstation' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sesselbahn Talstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7914:1:bus' />
+  </node>
+  <node id='-71017' action='modify' visible='true' lat='47.077504' lon='13.926192000000002'>
+    <tag k='alt_name' v='Predlitz Ladin' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ladin' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5556:2:tam' />
+  </node>
+  <node id='-71016' action='modify' visible='true' lat='47.107414999999996' lon='14.457425000000002'>
+    <tag k='alt_name' v='Perchau am Sattel Gemeindeamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeindeamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5506:0:ju' />
+  </node>
+  <node id='-71015' action='modify' visible='true' lat='47.13309100000001' lon='14.305368999999999'>
+    <tag k='alt_name' v='Frojach (Stmk) Frojach-Katschtal Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Frojach-Katschtal Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5527:2:sch' />
+  </node>
+  <node id='-71014' action='modify' visible='true' lat='47.071380000000005' lon='14.390648999999998'>
+    <tag k='alt_name' v='Graslupp Rainberg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rainberg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7976:0:neu' />
+  </node>
+  <node id='-71013' action='modify' visible='true' lat='47.18796100000001' lon='14.158419'>
+    <tag k='alt_name' v='Feistritz/Kammersbg Abzweigung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5567:0:fro' />
+  </node>
+  <node id='-71012' action='modify' visible='true' lat='46.922799' lon='13.869751000000003'>
+    <tag k='aerialway' v='station' />
+    <tag k='alt_name' v='Turracherhöhe/Stmk Kornockbahn Talstation' />
+    <tag k='name' v='Kornockbahn Talstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7928:2:bahn' />
+  </node>
+  <node id='-71011' action='modify' visible='true' lat='47.106970000000004' lon='14.348496'>
+    <tag k='alt_name' v='Mariahof Villa im Forst' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Villa im Forst' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8399:0:neu' />
+  </node>
+  <node id='-71010' action='modify' visible='true' lat='46.99508200000001' lon='14.390765'>
+    <tag k='alt_name' v='Dürnstein (Stmk) Gasthaus Stiegenwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gasthaus Stiegenwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8783:0:kaer' />
+  </node>
+  <node id='-71009' action='modify' visible='true' lat='47.12980700000001' lon='14.240432999999996'>
+    <tag k='alt_name' v='Triebendorf (Stmk) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5532:0:sch' />
+  </node>
+  <node id='-71008' action='modify' visible='true' lat='47.20139399999999' lon='13.917034'>
+    <tag k='alt_name' v='Rantengraben Abzw Prebergraben' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Prebergraben' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7894:0:rant' />
+  </node>
+  <node id='-71007' action='modify' visible='true' lat='47.180656' lon='13.990343000000005'>
+    <tag k='alt_name' v='Oberetrach Zitz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Zitz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4983:0:pre' />
+  </node>
+  <node id='-71006' action='modify' visible='true' lat='47.218968000000004' lon='14.232551'>
+    <tag k='alt_name' v='Hinteregg/Oberwölz Gh Karl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Karl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8736:0:poel' />
+  </node>
+  <node id='-71005' action='modify' visible='true' lat='46.933899000000004' lon='13.869753000000003'>
+    <tag k='alt_name' v='Turracherhöhe/Stmk Badwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Badwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7927:0:kaern' />
+  </node>
+  <node id='-71004' action='modify' visible='true' lat='47.169411999999994' lon='14.037796999999998'>
+    <tag k='alt_name' v='Krakaudorf Mösl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mösl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8487:0:mu' />
+  </node>
+  <node id='-71003' action='modify' visible='true' lat='47.15961299999999' lon='14.254493'>
+    <tag k='alt_name' v='Althofen (Murau) Rabenbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rabenbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5572:0:mu' />
+  </node>
+  <node id='-71002' action='modify' visible='true' lat='47.07043900000001' lon='14.299824999999997'>
+    <tag k='alt_name' v='St Lambrecht Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8404:0:mu' />
+  </node>
+  <node id='-71001' action='modify' visible='true' lat='47.038713' lon='14.427284999999998'>
+    <tag k='alt_name' v='Wildbad Einöd Abzweigung St.Veit i.d. Gegend' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung St.Veit i.d. Gegend' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8789:0:ju' />
+  </node>
+  <node id='-71000' action='modify' visible='true' lat='47.156898' lon='14.399674000000001'>
+    <tag k='alt_name' v='Lind bei Scheifling Bundesstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bundesstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5517:0:sch' />
+  </node>
+  <node id='-70999' action='modify' visible='true' lat='47.112753' lon='14.178989000000001'>
+    <tag k='alt_name' v='Murau Abzweigung Stolzalpe' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Stolzalpe' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5537:0:tam' />
+  </node>
+  <node id='-70998' action='modify' visible='true' lat='47.093869000000005' lon='14.310825'>
+    <tag k='alt_name' v='St Blasen Vorderbach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vorderbach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4989:0:neu' />
+  </node>
+  <node id='-70997' action='modify' visible='true' lat='47.215089000000006' lon='14.289011'>
+    <tag k='alt_name' v='Salchau Brunner Kurve' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brunner Kurve' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8750:0:obe' />
+  </node>
+  <node id='-70996' action='modify' visible='true' lat='47.14877400000001' lon='14.417228999999999'>
+    <tag k='alt_name' v='Scheifling (Stmk) Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7472:2:unz' />
+  </node>
+  <node id='-70995' action='modify' visible='true' lat='47.07993999999999' lon='14.425693999999998'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Strimitzen' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Strimitzen' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4757:0:ju' />
+  </node>
+  <node id='-70994' action='modify' visible='true' lat='47.187231' lon='13.979351999999999'>
+    <tag k='alt_name' v='Brandstatt (Murau) Kreuzung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreuzung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8493:0:kra' />
+  </node>
+  <node id='-70993' action='modify' visible='true' lat='47.057207' lon='14.434825999999997'>
+    <tag k='alt_name' v='Steindorf/St Marein Schützenhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schützenhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8313:0:mueh' />
+  </node>
+  <node id='-70992' action='modify' visible='true' lat='47.159957' lon='14.067114'>
+    <tag k='alt_name' v='Ranten Ratschfeld' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ratschfeld' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5578:0:kra' />
+  </node>
+  <node id='-70991' action='modify' visible='true' lat='47.09319200000001' lon='14.365829999999997'>
+    <tag k='alt_name' v='Oberdorf (Mariahof) Parkplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Parkplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7985:0:ober' />
+  </node>
+  <node id='-70990' action='modify' visible='true' lat='47.146354' lon='14.375243999999999'>
+    <tag k='alt_name' v='Niederwölz Oberwölz Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oberwölz Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5600:2:schl' />
+  </node>
+  <node id='-70989' action='modify' visible='true' lat='47.131811' lon='14.360212000000002'>
+    <tag k='alt_name' v='Teufenbach (Bz MU) Raiffeisenbank' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Raiffeisenbank' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5522:0:sch' />
+  </node>
+  <node id='-70988' action='modify' visible='true' lat='47.11057900000001' lon='14.06065'>
+    <tag k='alt_name' v='Bodendorf (Stmk) Gh Winter' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Winter' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5546:0:tam' />
+  </node>
+  <node id='-70987' action='modify' visible='true' lat='47.189129' lon='14.341048999999998'>
+    <tag k='alt_name' v='Schönberg/Niederwölz Schmiedhofer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schmiedhofer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8729:0:schoe' />
+  </node>
+  <node id='-70986' action='modify' visible='true' lat='47.18601' lon='13.913510999999998'>
+    <tag k='alt_name' v='Krakauschatten Abzweigung Gh Figler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Gh Figler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7677:0:pre' />
+  </node>
+  <node id='-70985' action='modify' visible='true' lat='47.187255' lon='13.942338'>
+    <tag k='alt_name' v='Krakauschatten vlg Stefflbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='vlg Stefflbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8498:0:pre' />
+  </node>
+  <node id='-70984' action='modify' visible='true' lat='47.164093' lon='14.002099'>
+    <tag k='alt_name' v='Seebach bei Ranten Weyrer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Weyrer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5583:0:mu' />
+  </node>
+  <node id='-70983' action='modify' visible='true' lat='47.06657700000001' lon='14.429174'>
+    <tag k='alt_name' v='St Marein/Neumarkt Volksschule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Volksschule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7992:0:neu' />
+  </node>
+  <node id='-70982' action='modify' visible='true' lat='47.095223' lon='13.998565'>
+    <tag k='alt_name' v='Falkendorf (Stmk) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5552:0:sch' />
+  </node>
+  <node id='-70981' action='modify' visible='true' lat='47.241773999999985' lon='14.082813999999999'>
+    <tag k='alt_name' v='Schöder Dorferhütte' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dorferhütte' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7917:0:nik' />
+  </node>
+  <node id='-70980' action='modify' visible='true' lat='47.14148300000001' lon='14.1373'>
+    <tag k='alt_name' v='Rinegg bei Murau Rinegg bei Murau' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rinegg bei Murau' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5560:0:kra' />
+  </node>
+  <node id='-70979' action='modify' visible='true' lat='47.091302' lon='14.402726'>
+    <tag k='alt_name' v='Hoferdorf Abzweigung Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8396:0:neu' />
+  </node>
+  <node id='-70978' action='modify' visible='true' lat='47.151399' lon='14.376204999999999'>
+    <tag k='alt_name' v='Niederwölz Gemeindeamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeindeamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4449:0:sch' />
+  </node>
+  <node id='-70977' action='modify' visible='true' lat='47.17572400000001' lon='14.006060999999999'>
+    <tag k='alt_name' v='Unteretrach Unteretrach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Unteretrach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8482:0:pre' />
+  </node>
+  <node id='-70976' action='modify' visible='true' lat='47.09660300000001' lon='14.449797'>
+    <tag k='alt_name' v='Perchau am Sattel Schmiede' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schmiede' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5504:0:nm' />
+  </node>
+  <node id='-70975' action='modify' visible='true' lat='47.11157' lon='14.147954'>
+    <tag k='alt_name' v='Murau West Bahnhof' />
+    <tag k='name' v='West Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:7483:1:zug' />
+  </node>
+  <node id='-70974' action='modify' visible='true' lat='47.087204' lon='14.407747000000002'>
+    <tag k='alt_name' v='Stadlob Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8507:0:mu' />
+  </node>
+  <node id='-70973' action='modify' visible='true' lat='47.142722' lon='14.282497'>
+    <tag k='alt_name' v='Katsch an der Mur Postamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Postamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5529:0:sch' />
+  </node>
+  <node id='-70972' action='modify' visible='true' lat='47.071958' lon='14.373959'>
+    <tag k='alt_name' v='Zeutschach Mitterdorf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mitterdorf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7974:0:zeu' />
+  </node>
+  <node id='-70971' action='modify' visible='true' lat='47.202379' lon='14.280987'>
+    <tag k='alt_name' v='Oberwölz Volksschule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Volksschule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8733:0:bus' />
+  </node>
+  <node id='-70970' action='modify' visible='true' lat='47.181783' lon='14.114525999999998'>
+    <tag k='alt_name' v='Schöder Volksschule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Volksschule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5565:0:froj' />
+  </node>
+  <node id='-70969' action='modify' visible='true' lat='47.070589' lon='14.367572000000001'>
+    <tag k='alt_name' v='Zeutschach Kirchplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kirchplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7931:0:bus' />
+  </node>
+  <node id='-70968' action='modify' visible='true' lat='47.093770000000006' lon='14.321498000000002'>
+    <tag k='alt_name' v='Thajagraben Drahtzug' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Drahtzug' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8401:0:mu' />
+  </node>
+  <node id='-70967' action='modify' visible='true' lat='47.01843499999999' lon='14.412067'>
+    <tag k='alt_name' v='Wildbad Einöd ehemaliger Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ehemaliger Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8786:0:ju' />
+  </node>
+  <node id='-70966' action='modify' visible='true' lat='47.11212499999999' lon='14.210809'>
+    <tag k='alt_name' v='Gestüthof Bundesstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bundesstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5534:0:tam' />
+  </node>
+  <node id='-70965' action='modify' visible='true' lat='47.22251599999999' lon='13.913207000000002'>
+    <tag k='alt_name' v='Rantengraben Rantenalm' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rantenalm' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7896:0:klau' />
+  </node>
+  <node id='-70964' action='modify' visible='true' lat='47.103416' lon='14.376123'>
+    <tag k='alt_name' v='Mariahof Umspannwerk' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Umspannwerk' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4986:0:neu' />
+  </node>
+  <node id='-70963' action='modify' visible='true' lat='47.217649' lon='14.214186'>
+    <tag k='alt_name' v='Eselsberg (Stmk) Funkl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Funkl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8739:0:oberw' />
+  </node>
+  <node id='-70962' action='modify' visible='true' lat='47.18724' lon='13.934791'>
+    <tag k='alt_name' v='Krakauschatten Moos' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Moos' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8486:0:kra' />
+  </node>
+  <node id='-70961' action='modify' visible='true' lat='47.155273' lon='14.103855'>
+    <tag k='alt_name' v='Ranten Abzweigung Kulm Siedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Kulm Siedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5575:0:kra' />
+  </node>
+  <node id='-70960' action='modify' visible='true' lat='47.057084' lon='14.232821000000001'>
+    <tag k='alt_name' v='Steirisch Laßnitz Baumgartner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Baumgartner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8407:0:neu' />
+  </node>
+  <node id='-70959' action='modify' visible='true' lat='47.053166' lon='14.433021000000002'>
+    <tag k='alt_name' v='Hammerl/St Georgen Siedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Siedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8791:0:kaer' />
+  </node>
+  <node id='-70958' action='modify' visible='true' lat='47.07813900000001' lon='14.389837000000004'>
+    <tag k='alt_name' v='Baierdorf/Mariahof Kernmaier' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kernmaier' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7982:0:ober' />
+  </node>
+  <node id='-70957' action='modify' visible='true' lat='47.084717999999995' lon='13.981509'>
+    <tag k='alt_name' v='Stadl an der Mur Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5590:1:zug' />
+  </node>
+  <node id='-70956' action='modify' visible='true' lat='47.148395' lon='14.375208000000002'>
+    <tag k='alt_name' v='Niederwölz Wölzerbachbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wölzerbachbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5519:0:tam' />
+  </node>
+  <node id='-70955' action='modify' visible='true' lat='47.108854' lon='14.174007999999999'>
+    <tag k='alt_name' v='Murau Stolzalpe Bahnhof' />
+    <tag k='name' v='Stolzalpe Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5540:1:zug' />
+  </node>
+  <node id='-70954' action='modify' visible='true' lat='47.197624999999995' lon='14.218534999999997'>
+    <tag k='alt_name' v='Pöllau am Greim Forstboden' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forstboden' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8748:0:obe' />
+  </node>
+  <node id='-70953' action='modify' visible='true' lat='47.073973' lon='14.415322000000002'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7474:1:fuss' />
+  </node>
+  <node id='-70952' action='modify' visible='true' lat='47.188051' lon='13.96938'>
+    <tag k='alt_name' v='Krakauebene Gh Fixl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Fixl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8495:0:pre' />
+  </node>
+  <node id='-70951' action='modify' visible='true' lat='47.05217600000001' lon='14.453167000000002'>
+    <tag k='alt_name' v='Schönhof (Stmk) Gruber' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gruber' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8316:0:neu' />
+  </node>
+  <node id='-70950' action='modify' visible='true' lat='47.161624999999994' lon='14.040191'>
+    <tag k='alt_name' v='Seebach bei Ranten Hornwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hornwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5580:0:mu' />
+  </node>
+  <node id='-70949' action='modify' visible='true' lat='47.077235' lon='14.318869999999999'>
+    <tag k='alt_name' v='Weißenbach/Lambrecht Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3348:0:neu' />
+  </node>
+  <node id='-70948' action='modify' visible='true' lat='47.08735999999999' lon='14.395164000000001'>
+    <tag k='alt_name' v='Vockenberg/Mariahof Kreuzung Furtnerteich' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreuzung Furtnerteich' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7988:0:neu' />
+  </node>
+  <node id='-70947' action='modify' visible='true' lat='47.128147' lon='14.245586'>
+    <tag k='alt_name' v='Triebendorf (Stmk) Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5598:1:zug' />
+  </node>
+  <node id='-70946' action='modify' visible='true' lat='47.107436' lon='14.075883'>
+    <tag k='alt_name' v='Lutzmannsdorf (Stmk) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5545:0:sch' />
+  </node>
+  <node id='-70945' action='modify' visible='true' lat='47.18957100000001' lon='14.346284000000002'>
+    <tag k='alt_name' v='Schönberg/Niederwölz Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8727:0:bus' />
+  </node>
+  <node id='-70944' action='modify' visible='true' lat='47.263242' lon='14.353567000000002'>
+    <tag k='aerialway' v='station' />
+    <tag k='alt_name' v='Lachtal Sesselbahn Bergstation' />
+    <tag k='name' v='Sesselbahn Bergstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7909:1:bahn' />
+  </node>
+  <node id='-70943' action='modify' visible='true' lat='47.07765899999999' lon='13.925882000000001'>
+    <tag k='alt_name' v='Predlitz Ladin' />
+    <tag k='name' v='Ladin' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5556:1:zug' />
+  </node>
+  <node id='-70942' action='modify' visible='true' lat='47.075307' lon='14.427295000000003'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Busbahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Busbahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5501:0:bus1' />
+  </node>
+  <node id='-70941' action='modify' visible='true' lat='47.131862000000005' lon='14.33415'>
+    <tag k='alt_name' v='Puxerboden Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:7480:1:zug' />
+  </node>
+  <node id='-70940' action='modify' visible='true' lat='47.076668' lon='13.920291'>
+    <tag k='alt_name' v='Predlitz Pichl Bahnhof' />
+    <tag k='name' v='Pichl Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5588:1:zug' />
+  </node>
+  <node id='-70939' action='modify' visible='true' lat='47.131937' lon='14.321019'>
+    <tag k='alt_name' v='Frojach (Stmk) Naglmoarkreuzung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Naglmoarkreuzung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5141:0:tam' />
+  </node>
+  <node id='-70938' action='modify' visible='true' lat='47.06277' lon='14.361712000000002'>
+    <tag k='alt_name' v='Zeutschach Markolin' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Markolin' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7971:0:schl' />
+  </node>
+  <node id='-70937' action='modify' visible='true' lat='47.085956' lon='13.978306999999997'>
+    <tag k='alt_name' v='Stadl an der Mur Abzweigung Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5554:0:tam' />
+  </node>
+  <node id='-70936' action='modify' visible='true' lat='47.118807000000004' lon='14.450554000000002'>
+    <tag k='alt_name' v='Perchau am Sattel Hasenbach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hasenbach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5904:0:ju' />
+  </node>
+  <node id='-70935' action='modify' visible='true' lat='47.230259999999994' lon='14.353226000000003'>
+    <tag k='alt_name' v='Gellsee Gasthof Seeblick' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gasthof Seeblick' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7915:0:ober' />
+  </node>
+  <node id='-70934' action='modify' visible='true' lat='47.15764699999999' lon='14.113528'>
+    <tag k='alt_name' v='Ranten Rottenmann Gh Mooswirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rottenmann Gh Mooswirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5562:0:mu' />
+  </node>
+  <node id='-70933' action='modify' visible='true' lat='47.18209199999999' lon='13.967441'>
+    <tag k='alt_name' v='Schatten (Stmk) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8485:0:see' />
+  </node>
+  <node id='-70932' action='modify' visible='true' lat='47.126965999999996' lon='14.439682'>
+    <tag k='alt_name' v='Puchfeld Siedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Siedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5507:0:ju' />
+  </node>
+  <node id='-70931' action='modify' visible='true' lat='47.133258999999995' lon='14.305203999999998'>
+    <tag k='alt_name' v='Frojach (Stmk) Frojach-Katschtal Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Frojach-Katschtal Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5527:2:tam' />
+  </node>
+  <node id='-70930' action='modify' visible='true' lat='47.075341' lon='14.409479'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Mitterfellner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mitterfellner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7977:0:neu' />
+  </node>
+  <node id='-70929' action='modify' visible='true' lat='47.218954000000004' lon='14.232273999999999'>
+    <tag k='alt_name' v='Hinteregg/Oberwölz Gh Karl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Karl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8736:0:oberw' />
+  </node>
+  <node id='-70928' action='modify' visible='true' lat='46.933767' lon='13.869863999999998'>
+    <tag k='alt_name' v='Turracherhöhe/Stmk Badwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Badwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7927:0:stadl' />
+  </node>
+  <node id='-70927' action='modify' visible='true' lat='47.187266' lon='14.171577'>
+    <tag k='alt_name' v='Mitterdorf/Kammersbg Abzweigung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5568:0:fro' />
+  </node>
+  <node id='-70926' action='modify' visible='true' lat='47.070371' lon='14.300077'>
+    <tag k='alt_name' v='St Lambrecht Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8404:0:neu' />
+  </node>
+  <node id='-70925' action='modify' visible='true' lat='46.998817' lon='14.391945000000002'>
+    <tag k='alt_name' v='Dürnstein (Stmk) Herrenhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Herrenhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8784:0:kaer' />
+  </node>
+  <node id='-70924' action='modify' visible='true' lat='47.112618000000005' lon='14.178955'>
+    <tag k='alt_name' v='Murau Abzweigung Stolzalpe' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Stolzalpe' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5537:0:sch' />
+  </node>
+  <node id='-70923' action='modify' visible='true' lat='47.212743' lon='13.916847'>
+    <tag k='alt_name' v='Rantengraben Voralmbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Voralmbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7895:0:ran' />
+  </node>
+  <node id='-70922' action='modify' visible='true' lat='47.078353' lon='14.423841999999997'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Mariahofer Kreuzung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mariahofer Kreuzung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4988:0:mu' />
+  </node>
+  <node id='-70921' action='modify' visible='true' lat='47.223322' lon='14.202920999999998'>
+    <tag k='alt_name' v='Eselsberg (Stmk) Koaser' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Koaser' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8742:0:poel' />
+  </node>
+  <node id='-70920' action='modify' visible='true' lat='47.181526999999996' lon='14.021231000000002'>
+    <tag k='alt_name' v='Krakaudorf Postamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Postamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8488:0:mu' />
+  </node>
+  <node id='-70919' action='modify' visible='true' lat='47.05340700000001' lon='14.441094'>
+    <tag k='alt_name' v='Steindorf/St Marein Hartleb' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hartleb' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8312:0:neu' />
+  </node>
+  <node id='-70918' action='modify' visible='true' lat='47.155012' lon='14.260673'>
+    <tag k='alt_name' v='Katsch an der Mur Abzweigung Prielermühle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Prielermühle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5573:0:peter' />
+  </node>
+  <node id='-70917' action='modify' visible='true' lat='47.077459999999995' lon='14.203721999999999'>
+    <tag k='alt_name' v='Laßnitz bei Murau Stampfer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stampfer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8409:0:mu' />
+  </node>
+  <node id='-70916' action='modify' visible='true' lat='47.080137' lon='14.397848999999999'>
+    <tag k='alt_name' v='Baierdorf/Mariahof Zoatler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Zoatler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7981:0:neu' />
+  </node>
+  <node id='-70915' action='modify' visible='true' lat='47.108855' lon='14.052198999999996'>
+    <tag k='alt_name' v='Bodendorf (Stmk) Cäciliabrücke Bahnhof' />
+    <tag k='name' v='Cäciliabrücke Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5593:1:zug' />
+  </node>
+  <node id='-70914' action='modify' visible='true' lat='47.135594' lon='14.362075000000003'>
+    <tag k='alt_name' v='Teufenbach (Bz MU) Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5521:2:tam' />
+  </node>
+  <node id='-70913' action='modify' visible='true' lat='47.10535' lon='14.124758'>
+    <tag k='alt_name' v='Kaindorf im Murtal Schafferwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schafferwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5542:0:sch' />
+  </node>
+  <node id='-70912' action='modify' visible='true' lat='47.15173300000001' lon='14.373661'>
+    <tag k='alt_name' v='Niederwölz Judmaier' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Judmaier' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8724:0:nie' />
+  </node>
+  <node id='-70911' action='modify' visible='true' lat='47.21849999999999' lon='14.293659000000002'>
+    <tag k='alt_name' v='Salchau Spiegl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Spiegl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8751:0:obe' />
+  </node>
+  <node id='-70910' action='modify' visible='true' lat='47.07845300000001' lon='14.406232999999997'>
+    <tag k='alt_name' v='Baierdorf/Mariahof Dillinger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dillinger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7389:0:ober' />
+  </node>
+  <node id='-70909' action='modify' visible='true' lat='47.185832' lon='13.913598000000002'>
+    <tag k='alt_name' v='Krakauschatten Abzweigung Gh Figler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Gh Figler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7677:0:kra' />
+  </node>
+  <node id='-70908' action='modify' visible='true' lat='47.106142' lon='14.372479000000004'>
+    <tag k='alt_name' v='Mariahof Mariahof-St Lambrecht Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mariahof-St Lambrecht Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7473:2:bus' />
+  </node>
+  <node id='-70907' action='modify' visible='true' lat='47.189835' lon='14.129444'>
+    <tag k='alt_name' v='Baierdorf/Schöder Zehentturm' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Zehentturm' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4760:0:fro' />
+  </node>
+  <node id='-70906' action='modify' visible='true' lat='47.18897900000001' lon='13.965564000000002'>
+    <tag k='alt_name' v='Krakauebene Gh Stiller' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Stiller' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8494:0:kra' />
+  </node>
+  <node id='-70905' action='modify' visible='true' lat='47.03496' lon='14.495837000000003'>
+    <tag k='alt_name' v='Hitzmannsdorf Abzweigung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8319:0:mueh' />
+  </node>
+  <node id='-70904' action='modify' visible='true' lat='47.164336000000006' lon='14.002115000000002'>
+    <tag k='alt_name' v='Seebach bei Ranten Weyrer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Weyrer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5583:0:sal' />
+  </node>
+  <node id='-70903' action='modify' visible='true' lat='47.094834000000006' lon='14.403085000000003'>
+    <tag k='alt_name' v='Hoferdorf Volksschule Mariahof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Volksschule Mariahof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7990:0:mu' />
+  </node>
+  <node id='-70902' action='modify' visible='true' lat='47.11169399999999' lon='14.047097000000003'>
+    <tag k='alt_name' v='Bodendorf (Stmk) Cäcilia' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cäcilia' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5547:0:tam' />
+  </node>
+  <node id='-70901' action='modify' visible='true' lat='47.17166' lon='14.346702999999996'>
+    <tag k='alt_name' v='Fresen (Murau) Fresen bei Murau' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fresen bei Murau' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8730:0:oberw' />
+  </node>
+  <node id='-70900' action='modify' visible='true' lat='47.099192' lon='14.085269'>
+    <tag k='aerialway' v='station' />
+    <tag k='alt_name' v='St Lorenzen/Murau Kreischberg Talstation' />
+    <tag k='name' v='Kreischberg Talstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7752:2:bahn' />
+  </node>
+  <node id='-70899' action='modify' visible='true' lat='47.22216399999999' lon='14.309521'>
+    <tag k='alt_name' v='Salchau Schwarzbach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schwarzbach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4448:0:obe' />
+  </node>
+  <node id='-70898' action='modify' visible='true' lat='47.09656400000001' lon='14.450193'>
+    <tag k='alt_name' v='Perchau am Sattel Schmiede' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schmiede' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5504:0:ju' />
+  </node>
+  <node id='-70897' action='modify' visible='true' lat='47.108927' lon='14.165994'>
+    <tag k='alt_name' v='Murau Murau-St Leonhard Bahnhof' />
+    <tag k='name' v='Murau-St Leonhard Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:7482:1:zug' />
+  </node>
+  <node id='-70896' action='modify' visible='true' lat='47.087162' lon='14.40738'>
+    <tag k='alt_name' v='Stadlob Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8507:0:neu' />
+  </node>
+  <node id='-70895' action='modify' visible='true' lat='47.132411' lon='14.334669999999997'>
+    <tag k='alt_name' v='Frojach (Stmk) Grasser' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Grasser' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5525:0:sch' />
+  </node>
+  <node id='-70894' action='modify' visible='true' lat='47.07191400000001' lon='14.374014'>
+    <tag k='alt_name' v='Zeutschach Mitterdorf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mitterdorf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7974:0:neu' />
+  </node>
+  <node id='-70893' action='modify' visible='true' lat='47.108295' lon='14.138049'>
+    <tag k='alt_name' v='Kaindorf im Murtal Olachgut' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Olachgut' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5140:0:sch' />
+  </node>
+  <node id='-70892' action='modify' visible='true' lat='47.088361' lon='13.982401999999999'>
+    <tag k='alt_name' v='Stadl an der Mur Murbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Murbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5553:0:sch' />
+  </node>
+  <node id='-70891' action='modify' visible='true' lat='47.122187' lon='14.186976'>
+    <tag k='alt_name' v='Stolzalpe Postamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Postamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8449:0:mu' />
+  </node>
+  <node id='-70890' action='modify' visible='true' lat='47.181915' lon='14.114348999999999'>
+    <tag k='alt_name' v='Schöder Volksschule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Volksschule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5565:0:mu' />
+  </node>
+  <node id='-70889' action='modify' visible='true' lat='47.105963' lon='14.38408'>
+    <tag k='alt_name' v='Adendorf Adendorf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Adendorf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8397:0:neu' />
+  </node>
+  <node id='-70888' action='modify' visible='true' lat='46.989361' lon='14.389723999999998'>
+    <tag k='alt_name' v='Dürnstein (Stmk) Schlosswirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schlosswirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8781:0:kaer' />
+  </node>
+  <node id='-70887' action='modify' visible='true' lat='47.13911099999999' lon='14.426752'>
+    <tag k='alt_name' v='Puchfeld Springer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Springer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5509:0:nm' />
+  </node>
+  <node id='-70886' action='modify' visible='true' lat='47.135980999999994' lon='14.267795'>
+    <tag k='alt_name' v='Triebendorf (Stmk) Aibl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aibl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5530:0:sch' />
+  </node>
+  <node id='-70885' action='modify' visible='true' lat='47.08072800000001' lon='14.401409999999997'>
+    <tag k='alt_name' v='Baierdorf/Mariahof Hiasbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hiasbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7980:0:neu' />
+  </node>
+  <node id='-70884' action='modify' visible='true' lat='47.204247' lon='14.254951999999998'>
+    <tag k='alt_name' v='Mainhartsdorf Mainhartsdorf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mainhartsdorf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8734:0:obe' />
+  </node>
+  <node id='-70883' action='modify' visible='true' lat='47.117611' lon='14.181862999999998'>
+    <tag k='alt_name' v='Stolzalpe Rahmhube' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rahmhube' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8447:0:mu' />
+  </node>
+  <node id='-70882' action='modify' visible='true' lat='46.992718999999994' lon='13.905331000000002'>
+    <tag k='alt_name' v='Predlitzgraben Forsthaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forsthaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7925:0:kaern' />
+  </node>
+  <node id='-70881' action='modify' visible='true' lat='47.177212000000004' lon='14.225216999999999'>
+    <tag k='alt_name' v='Peterdorf Posthaltestelle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Posthaltestelle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5570:0:mu' />
+  </node>
+  <node id='-70880' action='modify' visible='true' lat='47.084441' lon='14.317372999999996'>
+    <tag k='alt_name' v='Heiligenstadt (Stmk) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8402:0:mu' />
+  </node>
+  <node id='-70879' action='modify' visible='true' lat='47.022374' lon='14.41578'>
+    <tag k='alt_name' v='Wildbad Einöd Kurhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kurhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8787:0:ju' />
+  </node>
+  <node id='-70878' action='modify' visible='true' lat='47.162686' lon='14.425591000000002'>
+    <tag k='alt_name' v='Scheifling (Stmk) Kochgruber' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kochgruber' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5515:0:ju' />
+  </node>
+  <node id='-70877' action='modify' visible='true' lat='47.07520800000001' lon='14.052914'>
+    <tag k='aerialway' v='station' />
+    <tag k='alt_name' v='St Lorenzen/Murau Seilbahn Bergstation' />
+    <tag k='name' v='Seilbahn Bergstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7871:1:bahn' />
+  </node>
+  <node id='-70876' action='modify' visible='true' lat='47.109116' lon='14.198491000000002'>
+    <tag k='alt_name' v='St Egidi Kalkofen' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kalkofen' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5535:0:tam' />
+  </node>
+  <node id='-70875' action='modify' visible='true' lat='47.193411' lon='13.981982000000002'>
+    <tag k='alt_name' v='Krakauhintermühlen Ulrichskirche' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ulrichskirche' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7897:0:scho' />
+  </node>
+  <node id='-70874' action='modify' visible='true' lat='47.118503' lon='14.171956999999999'>
+    <tag k='alt_name' v='Murau Gassenhube' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gassenhube' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4987:0:kra' />
+  </node>
+  <node id='-70873' action='modify' visible='true' lat='47.207025' lon='14.204986999999997'>
+    <tag k='alt_name' v='Pöllau am Greim Kreuzung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreuzung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8747:0:obe' />
+  </node>
+  <node id='-70872' action='modify' visible='true' lat='47.110561000000004' lon='14.035458'>
+    <tag k='alt_name' v='Wandritsch Wandritsch Bahnhof' />
+    <tag k='name' v='Wandritsch Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5624:1:zug' />
+  </node>
+  <node id='-70871' action='modify' visible='true' lat='47.189725' lon='13.991751'>
+    <tag k='alt_name' v='Krakauhintermühlen Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8491:0:kra' />
+  </node>
+  <node id='-70870' action='modify' visible='true' lat='47.06692900000001' lon='14.430359000000001'>
+    <tag k='alt_name' v='St Marein/Neumarkt Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8311:0:ju' />
+  </node>
+  <node id='-70869' action='modify' visible='true' lat='47.155455999999994' lon='14.097083'>
+    <tag k='alt_name' v='Ranten Trattenbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trattenbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5576:0:kra' />
+  </node>
+  <node id='-70868' action='modify' visible='true' lat='47.10440899999999' lon='14.183015000000003'>
+    <tag k='alt_name' v='Murau Buckelhube' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Buckelhube' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8412:0:neu' />
+  </node>
+  <node id='-70867' action='modify' visible='true' lat='47.094788' lon='14.302295'>
+    <tag k='alt_name' v='St Blasen Hinterbach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hinterbach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3347:0:neu' />
+  </node>
+  <node id='-70866' action='modify' visible='true' lat='47.081956999999996' lon='14.390593000000003'>
+    <tag k='alt_name' v='Baierdorf/Mariahof Moser' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Moser' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7983:0:ober' />
+  </node>
+  <node id='-70865' action='modify' visible='true' lat='47.10327000000001' lon='14.124660000000004'>
+    <tag k='alt_name' v='Kaindorf im Murtal Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5596:1:zug' />
+  </node>
+  <node id='-70864' action='modify' visible='true' lat='47.138690999999994' lon='14.367998'>
+    <tag k='alt_name' v='Teufenbach (Bz MU) Murbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Murbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5520:0:tam' />
+  </node>
+  <node id='-70863' action='modify' visible='true' lat='47.17923100000001' lon='14.333135'>
+    <tag k='alt_name' v='Schiltern (Stmk) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8726:0:nie' />
+  </node>
+  <node id='-70862' action='modify' visible='true' lat='47.220623' lon='14.320076'>
+    <tag k='alt_name' v='Salchau Plenk' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Plenk' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8754:0:bus' />
+  </node>
+  <node id='-70861' action='modify' visible='true' lat='47.073978' lon='14.415611000000002'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7474:2:mari' />
+  </node>
+  <node id='-70860' action='modify' visible='true' lat='47.188672000000004' lon='13.950363999999999'>
+    <tag k='alt_name' v='Klausen (Murau) Klausen bei Murau' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Klausen bei Murau' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8496:0:pre' />
+  </node>
+  <node id='-70859' action='modify' visible='true' lat='47.16517999999999' lon='14.030462000000002'>
+    <tag k='alt_name' v='Seebach bei Ranten Neumann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Neumann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5581:0:mu' />
+  </node>
+  <node id='-70858' action='modify' visible='true' lat='47.0897' lon='14.401611999999998'>
+    <tag k='alt_name' v='Neudorf (Mariahof) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7989:0:neu' />
+  </node>
+  <node id='-70857' action='modify' visible='true' lat='47.102089' lon='14.086688'>
+    <tag k='alt_name' v='St Lorenzen/Murau Kreischberg Bahnhof' />
+    <tag k='name' v='Kreischberg Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:7887:1:zug' />
+  </node>
+  <node id='-70856' action='modify' visible='true' lat='47.10404200000001' lon='14.012394'>
+    <tag k='alt_name' v='Falkendorf (Stmk) vlg Steiner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='vlg Steiner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5550:0:sch' />
+  </node>
+  <node id='-70855' action='modify' visible='true' lat='47.230147' lon='14.353428'>
+    <tag k='alt_name' v='Gellsee Gasthof Seeblick' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gasthof Seeblick' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7915:0:schi' />
+  </node>
+  <node id='-70854' action='modify' visible='true' lat='47.069936000000006' lon='13.913315'>
+    <tag k='alt_name' v='Predlitz Steinerwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinerwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5557:0:sch' />
+  </node>
+  <node id='-70853' action='modify' visible='true' lat='47.18568299999999' lon='14.338921999999998'>
+    <tag k='alt_name' v='Schönberg/Niederwölz Sterner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sterner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4447:0:schoe' />
+  </node>
+  <node id='-70852' action='modify' visible='true' lat='47.09095099999999' lon='14.432241999999999'>
+    <tag k='alt_name' v='Perchau am Sattel Klachl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Klachl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5502:0:nm' />
+  </node>
+  <node id='-70851' action='modify' visible='true' lat='47.108340999999996' lon='14.179708000000002'>
+    <tag k='alt_name' v='St Egidi Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:7481:1:zug' />
+  </node>
+  <node id='-70850' action='modify' visible='true' lat='47.132689000000006' lon='14.305015000000001'>
+    <tag k='alt_name' v='Frojach (Stmk) Frojach-Katschtal Bahnhof' />
+    <tag k='name' v='Frojach-Katschtal Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5527:1:zug' />
+  </node>
+  <node id='-70849' action='modify' visible='true' lat='47.224045' lon='13.977402999999999'>
+    <tag k='alt_name' v='Krakauhintermühlen Etrachsee' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Etrachsee' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5149:0:kra' />
+  </node>
+  <node id='-70848' action='modify' visible='true' lat='47.065594999999995' lon='14.369545999999998'>
+    <tag k='alt_name' v='Zeutschach Kapelle Ursprunger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kapelle Ursprunger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7972:0:zeu' />
+  </node>
+  <node id='-70847' action='modify' visible='true' lat='47.169002' lon='14.114558'>
+    <tag k='alt_name' v='Schöderbichl Veit-Hansl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Veit-Hansl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5563:0:mu' />
+  </node>
+  <node id='-70846' action='modify' visible='true' lat='47.107131' lon='14.348450999999997'>
+    <tag k='alt_name' v='Mariahof Villa im Forst' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Villa im Forst' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8399:0:mu' />
+  </node>
+  <node id='-70845' action='modify' visible='true' lat='46.99850699999998' lon='14.392206'>
+    <tag k='alt_name' v='Dürnstein (Stmk) Herrenhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Herrenhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8784:0:ju' />
+  </node>
+  <node id='-70844' action='modify' visible='true' lat='47.104572999999995' lon='14.183101'>
+    <tag k='alt_name' v='Murau Buckelhube' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Buckelhube' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8412:0:mu' />
+  </node>
+  <node id='-70843' action='modify' visible='true' lat='47.129718' lon='14.239989000000001'>
+    <tag k='alt_name' v='Triebendorf (Stmk) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5532:0:tam' />
+  </node>
+  <node id='-70842' action='modify' visible='true' lat='47.201274000000005' lon='13.916867999999997'>
+    <tag k='alt_name' v='Rantengraben Abzw Prebergraben' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Prebergraben' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7894:0:klau' />
+  </node>
+  <node id='-70841' action='modify' visible='true' lat='47.183577' lon='13.958377'>
+    <tag k='alt_name' v='Schatten (Stmk) Schattensee' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schattensee' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4984:0:see' />
+  </node>
+  <node id='-70840' action='modify' visible='true' lat='47.223124' lon='14.231066'>
+    <tag k='alt_name' v='Hinteregg/Oberwölz Petz im Moos' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Petz im Moos' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8737:0:oberw' />
+  </node>
+  <node id='-70839' action='modify' visible='true' lat='46.922553' lon='13.870865'>
+    <tag k='alt_name' v='Turracherhöhe/Stmk Kornockbahn Talstation' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kornockbahn Talstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7928:1:stadl' />
+  </node>
+  <node id='-70838' action='modify' visible='true' lat='47.15486299999999' lon='14.260389'>
+    <tag k='alt_name' v='Katsch an der Mur Abzweigung Prielermühle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Prielermühle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5573:0:fro' />
+  </node>
+  <node id='-70837' action='modify' visible='true' lat='47.247987' lon='13.898637'>
+    <tag k='alt_name' v='Rantengraben Rantensee' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rantensee' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5941:0:bus' />
+  </node>
+  <node id='-70836' action='modify' visible='true' lat='47.063777' lon='14.291943'>
+    <tag k='alt_name' v='St Lambrecht Paulegger-Kreuz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Paulegger-Kreuz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8405:0:neu' />
+  </node>
+  <node id='-70835' action='modify' visible='true' lat='47.03882399999999' lon='14.426900000000003'>
+    <tag k='alt_name' v='Wildbad Einöd Abzweigung St.Veit i.d. Gegend' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung St.Veit i.d. Gegend' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8789:0:kaer' />
+  </node>
+  <node id='-70834' action='modify' visible='true' lat='47.15699899999999' lon='14.400317000000003'>
+    <tag k='alt_name' v='Lind bei Scheifling Bundesstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bundesstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5517:0:tam' />
+  </node>
+  <node id='-70833' action='modify' visible='true' lat='47.113147999999995' lon='14.169893999999998'>
+    <tag k='alt_name' v='Murau Roseggerkreuzung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Roseggerkreuzung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5538:0:sch' />
+  </node>
+  <node id='-70832' action='modify' visible='true' lat='47.093993' lon='14.310715'>
+    <tag k='alt_name' v='St Blasen Vorderbach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vorderbach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4989:0:mu' />
+  </node>
+  <node id='-70831' action='modify' visible='true' lat='47.21780600000001' lon='14.201848'>
+    <tag k='alt_name' v='Pöllau am Greim Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8744:0:obe' />
+  </node>
+  <node id='-70830' action='modify' visible='true' lat='47.14871999999999' lon='14.417218'>
+    <tag k='alt_name' v='Scheifling (Stmk) Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7472:2:tams' />
+  </node>
+  <node id='-70829' action='modify' visible='true' lat='47.187465' lon='13.979380999999998'>
+    <tag k='alt_name' v='Brandstatt (Murau) Kreuzung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreuzung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8493:0:pre' />
+  </node>
+  <node id='-70828' action='modify' visible='true' lat='47.05733699999999' lon='14.435071000000002'>
+    <tag k='alt_name' v='Steindorf/St Marein Schützenhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schützenhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8313:0:neu' />
+  </node>
+  <node id='-70827' action='modify' visible='true' lat='47.159839000000005' lon='14.067026999999998'>
+    <tag k='alt_name' v='Ranten Ratschfeld' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ratschfeld' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5578:0:mu' />
+  </node>
+  <node id='-70826' action='modify' visible='true' lat='47.088695' lon='14.198412999999997'>
+    <tag k='alt_name' v='Laßnitz bei Murau Steinerbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinerbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8410:0:mu' />
+  </node>
+  <node id='-70825' action='modify' visible='true' lat='47.090442' lon='14.375414000000001'>
+    <tag k='alt_name' v='Vockenberg/Mariahof Spathof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Spathof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7986:0:neu' />
+  </node>
+  <node id='-70824' action='modify' visible='true' lat='47.10176500000001' lon='14.091272999999997'>
+    <tag k='alt_name' v='St Lorenzen/Murau Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5595:1:zug' />
+  </node>
+  <node id='-70823' action='modify' visible='true' lat='47.131914' lon='14.359957'>
+    <tag k='alt_name' v='Teufenbach (Bz MU) Raiffeisenbank' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Raiffeisenbank' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5522:0:tam' />
+  </node>
+  <node id='-70822' action='modify' visible='true' lat='47.104328' lon='14.099018'>
+    <tag k='alt_name' v='St Georgen/Murau St Georgen ob Murau' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='St Georgen ob Murau' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5543:0:sch' />
+  </node>
+  <node id='-70821' action='modify' visible='true' lat='47.16803699999999' lon='14.355135'>
+    <tag k='alt_name' v='Pachern/Niederwölz Pachern bei Niederwölz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pachern bei Niederwölz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8725:0:nie' />
+  </node>
+  <node id='-70820' action='modify' visible='true' lat='47.033652' lon='14.506249999999998'>
+    <tag k='alt_name' v='Mühlen (Stmk) Gemeindeamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeindeamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8320:0:neu' />
+  </node>
+  <node id='-70819' action='modify' visible='true' lat='47.162729' lon='13.976387'>
+    <tag k='alt_name' v='Seebach bei Ranten Abzweigung Fresen' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Fresen' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5584:0:sal' />
+  </node>
+  <node id='-70818' action='modify' visible='true' lat='47.06660299999999' lon='14.429147000000002'>
+    <tag k='alt_name' v='St Marein/Neumarkt Volksschule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Volksschule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7992:0:zeu' />
+  </node>
+  <node id='-70817' action='modify' visible='true' lat='47.095462000000005' lon='13.998383'>
+    <tag k='alt_name' v='Falkendorf (Stmk) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5552:0:tam' />
+  </node>
+  <node id='-70816' action='modify' visible='true' lat='47.25215300000001' lon='14.366188000000001'>
+    <tag k='alt_name' v='Lachtal Sesselbahn Talstation' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sesselbahn Talstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7914:2:fuss' />
+  </node>
+  <node id='-70815' action='modify' visible='true' lat='47.141253999999996' lon='14.137085000000003'>
+    <tag k='alt_name' v='Rinegg bei Murau Rinegg bei Murau' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rinegg bei Murau' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5560:0:mu' />
+  </node>
+  <node id='-70814' action='modify' visible='true' lat='47.151621' lon='14.376065'>
+    <tag k='alt_name' v='Niederwölz Gemeindeamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeindeamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4449:0:tam' />
+  </node>
+  <node id='-70813' action='modify' visible='true' lat='47.179255000000005' lon='13.995722'>
+    <tag k='alt_name' v='Oberetrach Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8483:0:see' />
+  </node>
+  <node id='-70812' action='modify' visible='true' lat='47.10341100000001' lon='14.456300999999998'>
+    <tag k='alt_name' v='Perchau am Sattel Abzweigung Gotthardsdorf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Gotthardsdorf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5505:0:ju' />
+  </node>
+  <node id='-70811' action='modify' visible='true' lat='47.086509' lon='13.989451'>
+    <tag k='alt_name' v='Hagendorf (Murau) Hagendorf Bahnhof' />
+    <tag k='name' v='Hagendorf Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:7484:1:zug' />
+  </node>
+  <node id='-70810' action='modify' visible='true' lat='47.130865' lon='14.326517000000003'>
+    <tag k='alt_name' v='Frojach (Stmk) Graslitz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Graslitz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5526:0:sch' />
+  </node>
+  <node id='-70809' action='modify' visible='true' lat='47.06944200000001' lon='14.385137'>
+    <tag k='alt_name' v='Graslupp Bochmoar' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bochmoar' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7975:0:neu' />
+  </node>
+  <node id='-70808' action='modify' visible='true' lat='47.204343' lon='14.254788999999999'>
+    <tag k='alt_name' v='Mainhartsdorf Mainhartsdorf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mainhartsdorf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8734:0:poel' />
+  </node>
+  <node id='-70807' action='modify' visible='true' lat='46.99285' lon='13.905536000000001'>
+    <tag k='alt_name' v='Predlitzgraben Forsthaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Forsthaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7925:0:stadl' />
+  </node>
+  <node id='-70806' action='modify' visible='true' lat='47.190469' lon='14.131529000000002'>
+    <tag k='alt_name' v='Baierdorf/Schöder Gh Neuwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Neuwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5566:0:fro' />
+  </node>
+  <node id='-70805' action='modify' visible='true' lat='47.084455999999996' lon='14.31724'>
+    <tag k='alt_name' v='Heiligenstadt (Stmk) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8402:0:neu' />
+  </node>
+  <node id='-70804' action='modify' visible='true' lat='46.99344500000001' lon='14.390220000000001'>
+    <tag k='alt_name' v='Dürnstein (Stmk) Gasthaus Brunnwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gasthaus Brunnwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8782:0:kaer' />
+  </node>
+  <node id='-70803' action='modify' visible='true' lat='47.145409' lon='14.418273'>
+    <tag k='alt_name' v='Scheifling (Stmk) Kalvarienberg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kalvarienberg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5510:0:nm' />
+  </node>
+  <node id='-70802' action='modify' visible='true' lat='47.10892900000001' lon='14.198578'>
+    <tag k='alt_name' v='St Egidi Kalkofen' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kalkofen' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5535:0:sch' />
+  </node>
+  <node id='-70801' action='modify' visible='true' lat='47.10355800000001' lon='14.375986'>
+    <tag k='alt_name' v='Mariahof Umspannwerk' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Umspannwerk' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4986:0:mu' />
+  </node>
+  <node id='-70800' action='modify' visible='true' lat='47.217848999999994' lon='14.214322999999998'>
+    <tag k='alt_name' v='Eselsberg (Stmk) Funkl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Funkl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8739:0:poel' />
+  </node>
+  <node id='-70799' action='modify' visible='true' lat='47.187057' lon='13.934615'>
+    <tag k='alt_name' v='Krakauschatten Moos' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Moos' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8486:0:pre' />
+  </node>
+  <node id='-70798' action='modify' visible='true' lat='47.166025' lon='14.241052999999997'>
+    <tag k='alt_name' v='Althofen (Murau) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5571:0:mu' />
+  </node>
+  <node id='-70797' action='modify' visible='true' lat='47.057188' lon='14.232645999999999'>
+    <tag k='alt_name' v='Steirisch Laßnitz Baumgartner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Baumgartner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8407:0:mu' />
+  </node>
+  <node id='-70796' action='modify' visible='true' lat='47.11185' lon='14.174493'>
+    <tag k='alt_name' v='Murau Landesberufsschule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Landesberufsschule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3341:0:bus' />
+  </node>
+  <node id='-70795' action='modify' visible='true' lat='47.08501200000001' lon='13.981799'>
+    <tag k='alt_name' v='Stadl an der Mur Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5590:2:schei' />
+  </node>
+  <node id='-70794' action='modify' visible='true' lat='47.138578' lon='14.368213000000003'>
+    <tag k='alt_name' v='Teufenbach (Bz MU) Murbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Murbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5520:0:sch' />
+  </node>
+  <node id='-70793' action='modify' visible='true' lat='47.109221000000005' lon='14.173927'>
+    <tag k='alt_name' v='Murau Stolzalpe Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stolzalpe Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5540:2:unz' />
+  </node>
+  <node id='-70792' action='modify' visible='true' lat='47.19505' lon='14.228151999999998'>
+    <tag k='alt_name' v='Pöllau am Greim Knapp-Säge' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Knapp-Säge' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8749:0:obe' />
+  </node>
+  <node id='-70791' action='modify' visible='true' lat='47.14856300000001' lon='14.417514000000002'>
+    <tag k='alt_name' v='Scheifling (Stmk) Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7472:1:fuss' />
+  </node>
+  <node id='-70790' action='modify' visible='true' lat='47.189384000000004' lon='14.000581'>
+    <tag k='alt_name' v='Krakauhintermühlen Gartler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gartler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8492:0:kra' />
+  </node>
+  <node id='-70789' action='modify' visible='true' lat='47.047118000000005' lon='14.466716000000002'>
+    <tag k='alt_name' v='Schönhof (Stmk) Oberdorferweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oberdorferweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8317:0:mueh' />
+  </node>
+  <node id='-70788' action='modify' visible='true' lat='47.165395' lon='14.030426000000002'>
+    <tag k='alt_name' v='Seebach bei Ranten Neumann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Neumann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5581:0:sal' />
+  </node>
+  <node id='-70787' action='modify' visible='true' lat='47.048893' lon='14.46139'>
+    <tag k='alt_name' v='Kulm am Zirbitz Kulm am Zirbitz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kulm am Zirbitz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4780:0:neu' />
+  </node>
+  <node id='-70786' action='modify' visible='true' lat='47.077438' lon='14.319152'>
+    <tag k='alt_name' v='Weißenbach/Lambrecht Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3348:0:mu' />
+  </node>
+  <node id='-70785' action='modify' visible='true' lat='47.087387' lon='14.395137'>
+    <tag k='alt_name' v='Vockenberg/Mariahof Kreuzung Furtnerteich' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreuzung Furtnerteich' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7988:0:ober' />
+  </node>
+  <node id='-70784' action='modify' visible='true' lat='47.131308' lon='14.281078'>
+    <tag k='alt_name' v='Saurau Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5599:1:zug' />
+  </node>
+  <node id='-70783' action='modify' visible='true' lat='47.10170600000001' lon='14.087349999999999'>
+    <tag k='alt_name' v='St Lorenzen/Murau Kreischberg Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreischberg Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7887:2:sch' />
+  </node>
+  <node id='-70782' action='modify' visible='true' lat='47.10764100000001' lon='14.075782'>
+    <tag k='alt_name' v='Lutzmannsdorf (Stmk) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5545:0:tam' />
+  </node>
+  <node id='-70781' action='modify' visible='true' lat='47.196016' lon='14.346505'>
+    <tag k='alt_name' v='Schönberg/Niederwölz Abzw Lachtal' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Lachtal' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8728:0:schoe' />
+  </node>
+  <node id='-70780' action='modify' visible='true' lat='47.09074' lon='14.432539000000002'>
+    <tag k='alt_name' v='Perchau am Sattel Klachl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Klachl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5502:0:ju' />
+  </node>
+  <node id='-70779' action='modify' visible='true' lat='47.131648000000006' lon='14.334276999999998'>
+    <tag k='alt_name' v='Puxerboden Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7480:2:fuss' />
+  </node>
+  <node id='-70778' action='modify' visible='true' lat='47.084047' lon='13.940094'>
+    <tag k='alt_name' v='Einach Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5589:2:sch' />
+  </node>
+  <node id='-70777' action='modify' visible='true' lat='47.06557900000001' lon='14.369665'>
+    <tag k='alt_name' v='Zeutschach Kapelle Ursprunger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kapelle Ursprunger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7972:0:neu' />
+  </node>
+  <node id='-70776' action='modify' visible='true' lat='47.101046999999994' lon='14.007558'>
+    <tag k='alt_name' v='Falkendorf (Stmk) Pichl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pichl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5551:0:sch' />
+  </node>
+  <node id='-70775' action='modify' visible='true' lat='47.118744' lon='14.450002'>
+    <tag k='alt_name' v='Perchau am Sattel Hasenbach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hasenbach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5904:0:nm' />
+  </node>
+  <node id='-70774' action='modify' visible='true' lat='47.226859' lon='13.882294'>
+    <tag k='alt_name' v='Prebergraben Moarhütte' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Moarhütte' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7916:0:kra' />
+  </node>
+  <node id='-70773' action='modify' visible='true' lat='47.16908699999999' lon='14.114792'>
+    <tag k='alt_name' v='Schöderbichl Veit-Hansl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Veit-Hansl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5563:0:fro' />
+  </node>
+  <node id='-70772' action='modify' visible='true' lat='47.081118000000004' lon='14.416553'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Trinkl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trinkl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8395:0:neu' />
+  </node>
+  <node id='-70771' action='modify' visible='true' lat='47.182306999999994' lon='13.967418000000002'>
+    <tag k='alt_name' v='Schatten (Stmk) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8485:0:pre' />
+  </node>
+  <node id='-70770' action='modify' visible='true' lat='47.12683500000001' lon='14.439396'>
+    <tag k='alt_name' v='Puchfeld Siedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Siedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5507:0:nm' />
+  </node>
+  <node id='-70769' action='modify' visible='true' lat='47.136199' lon='14.28545'>
+    <tag k='alt_name' v='Katsch an der Mur Abzweigung Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5528:0:sch' />
+  </node>
+  <node id='-70768' action='modify' visible='true' lat='47.07538499999999' lon='14.409424999999997'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Mitterfellner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mitterfellner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7977:0:zeu' />
+  </node>
+  <node id='-70767' action='modify' visible='true' lat='47.18580200000001' lon='14.319033'>
+    <tag k='alt_name' v='Raiming Raiming' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Raiming' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8731:0:nie' />
+  </node>
+  <node id='-70766' action='modify' visible='true' lat='47.18750800000001' lon='14.171527000000001'>
+    <tag k='alt_name' v='Mitterdorf/Kammersbg Abzweigung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5568:0:mu' />
+  </node>
+  <node id='-70765' action='modify' visible='true' lat='47.102367' lon='14.331647'>
+    <tag k='alt_name' v='Thajagraben Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8400:0:mu' />
+  </node>
+  <node id='-70764' action='modify' visible='true' lat='47.014194' lon='14.407562999999998'>
+    <tag k='alt_name' v='Wildbad Einöd Gasthaus Leitner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gasthaus Leitner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8785:0:ju' />
+  </node>
+  <node id='-70763' action='modify' visible='true' lat='47.12182299999999' lon='14.224972000000001'>
+    <tag k='alt_name' v='Triebendorf (Stmk) Kühbauersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kühbauersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5533:0:tam' />
+  </node>
+  <node id='-70762' action='modify' visible='true' lat='47.21283699999999' lon='13.916632'>
+    <tag k='alt_name' v='Rantengraben Voralmbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Voralmbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7895:0:klau' />
+  </node>
+  <node id='-70761' action='modify' visible='true' lat='47.069931' lon='14.205681000000002'>
+    <tag k='alt_name' v='Laßnitz bei Murau Santnerbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Santnerbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4985:0:neu' />
+  </node>
+  <node id='-70760' action='modify' visible='true' lat='47.224001' lon='14.199777'>
+    <tag k='alt_name' v='Eselsberg (Stmk) Mühlhans' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mühlhans' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8743:0:poel' />
+  </node>
+  <node id='-70759' action='modify' visible='true' lat='47.179582' lon='14.023756000000002'>
+    <tag k='alt_name' v='Krakaudorf Gruber' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gruber' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8489:0:kra' />
+  </node>
+  <node id='-70758' action='modify' visible='true' lat='47.14917700000001' lon='14.273281999999998'>
+    <tag k='alt_name' v='Katsch an der Mur Kropfmoar' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kropfmoar' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5574:0:fro' />
+  </node>
+  <node id='-70757' action='modify' visible='true' lat='47.08867099999999' lon='14.198098000000002'>
+    <tag k='alt_name' v='Laßnitz bei Murau Steinerbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinerbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8410:0:neu' />
+  </node>
+  <node id='-70756' action='modify' visible='true' lat='47.04869600000001' lon='14.432549000000002'>
+    <tag k='alt_name' v='Hammerl/St Georgen Gasthaus Hammerl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gasthaus Hammerl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8790:0:kaer' />
+  </node>
+  <node id='-70755' action='modify' visible='true' lat='47.080154' lon='14.397783'>
+    <tag k='alt_name' v='Baierdorf/Mariahof Zoatler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Zoatler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7981:0:ober' />
+  </node>
+  <node id='-70754' action='modify' visible='true' lat='47.103801999999995' lon='14.075443999999997'>
+    <tag k='alt_name' v='Lutzmannsdorf (Stmk) Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5594:1:zug' />
+  </node>
+  <node id='-70753' action='modify' visible='true' lat='47.15207' lon='14.383921000000004'>
+    <tag k='alt_name' v='Niederwölz Ost' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ost' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5518:0:tam' />
+  </node>
+  <node id='-70752' action='modify' visible='true' lat='47.105399000000006' lon='14.123609999999998'>
+    <tag k='alt_name' v='Kaindorf im Murtal Schafferwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schafferwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5542:0:tam' />
+  </node>
+  <node id='-70751' action='modify' visible='true' lat='47.228702' lon='14.231651000000001'>
+    <tag k='alt_name' v='Hinteregg/Oberwölz Miedl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Miedl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4899:0:poel' />
+  </node>
+  <node id='-70750' action='modify' visible='true' lat='47.151988' lon='14.373863000000002'>
+    <tag k='alt_name' v='Niederwölz Judmaier' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Judmaier' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8724:0:ober' />
+  </node>
+  <node id='-70749' action='modify' visible='true' lat='47.223307' lon='14.298412'>
+    <tag k='alt_name' v='Salchau Pals' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pals' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8752:0:ple' />
+  </node>
+  <node id='-70748' action='modify' visible='true' lat='47.10631' lon='14.372789'>
+    <tag k='alt_name' v='Mariahof Mariahof-St Lambrecht Bahnhof' />
+    <tag k='name' v='Mariahof-St Lambrecht Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:7473:1:zug' />
+  </node>
+  <node id='-70747' action='modify' visible='true' lat='47.190082000000004' lon='14.129223'>
+    <tag k='alt_name' v='Baierdorf/Schöder Zehentturm' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Zehentturm' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4760:0:mu' />
+  </node>
+  <node id='-70746' action='modify' visible='true' lat='47.189151' lon='13.965595999999998'>
+    <tag k='alt_name' v='Krakauebene Gh Stiller' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Stiller' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8494:0:pre' />
+  </node>
+  <node id='-70745' action='modify' visible='true' lat='47.035161' lon='14.495987999999999'>
+    <tag k='alt_name' v='Hitzmannsdorf Abzweigung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8319:0:neu' />
+  </node>
+  <node id='-70744' action='modify' visible='true' lat='47.158424' lon='14.054704'>
+    <tag k='alt_name' v='Ranten Bachbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bachbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5579:0:mu' />
+  </node>
+  <node id='-70743' action='modify' visible='true' lat='47.090352' lon='14.379079'>
+    <tag k='alt_name' v='Vockenberg/Mariahof Kreuz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreuz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7987:0:neu' />
+  </node>
+  <node id='-70742' action='modify' visible='true' lat='47.111157999999996' lon='14.035604'>
+    <tag k='alt_name' v='Bodendorf (Stmk) Wandritschbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wandritschbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5548:0:sch' />
+  </node>
+  <node id='-70741' action='modify' visible='true' lat='47.171399' lon='14.346673000000001'>
+    <tag k='alt_name' v='Fresen (Murau) Fresen bei Murau' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fresen bei Murau' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8730:0:nie' />
+  </node>
+  <node id='-70740' action='modify' visible='true' lat='47.177034' lon='14.336080000000004'>
+    <tag k='alt_name' v='Schiltern (Stmk) Abzw Schönberg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Schönberg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4445:0:oberw' />
+  </node>
+  <node id='-70739' action='modify' visible='true' lat='47.13246999999999' lon='14.334958000000002'>
+    <tag k='alt_name' v='Frojach (Stmk) Grasser' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Grasser' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5525:0:tam' />
+  </node>
+  <node id='-70738' action='modify' visible='true' lat='47.108322' lon='14.138034'>
+    <tag k='alt_name' v='Kaindorf im Murtal Olachgut' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Olachgut' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5140:0:tam' />
+  </node>
+  <node id='-70737' action='modify' visible='true' lat='47.08851899999999' lon='13.982211'>
+    <tag k='alt_name' v='Stadl an der Mur Murbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Murbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5553:0:tam' />
+  </node>
+  <node id='-70736' action='modify' visible='true' lat='47.122673' lon='14.187945'>
+    <tag k='alt_name' v='Stolzalpe Hillberger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hillberger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8450:0:sto' />
+  </node>
+  <node id='-70735' action='modify' visible='true' lat='47.150886' lon='14.112768'>
+    <tag k='alt_name' v='Ranten Gh Löwenwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Löwenwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5561:0:mu' />
+  </node>
+  <node id='-70734' action='modify' visible='true' lat='47.106125' lon='14.3841'>
+    <tag k='alt_name' v='Adendorf Adendorf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Adendorf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8397:0:mu' />
+  </node>
+  <node id='-70733' action='modify' visible='true' lat='46.993379' lon='14.390577000000002'>
+    <tag k='alt_name' v='Dürnstein (Stmk) Gasthaus Brunnwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gasthaus Brunnwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8782:0:ju' />
+  </node>
+  <node id='-70732' action='modify' visible='true' lat='47.252591' lon='14.079368999999998'>
+    <tag k='alt_name' v='Schöder Kreutzerhütte' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreutzerhütte' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7339:0:nik' />
+  </node>
+  <node id='-70731' action='modify' visible='true' lat='47.18066399999999' lon='13.985052000000001'>
+    <tag k='alt_name' v='Brandstatt (Murau) Geiergraben' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Geiergraben' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8484:0:see' />
+  </node>
+  <node id='-70730' action='modify' visible='true' lat='47.145444000000005' lon='14.418706999999998'>
+    <tag k='alt_name' v='Scheifling (Stmk) Kalvarienberg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kalvarienberg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5510:0:ju' />
+  </node>
+  <node id='-70729' action='modify' visible='true' lat='47.136144' lon='14.267867000000003'>
+    <tag k='alt_name' v='Triebendorf (Stmk) Aibl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aibl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5530:0:tam' />
+  </node>
+  <node id='-70728' action='modify' visible='true' lat='47.08074700000001' lon='14.401449000000001'>
+    <tag k='alt_name' v='Baierdorf/Mariahof Hiasbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hiasbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7980:0:ober' />
+  </node>
+  <node id='-70727' action='modify' visible='true' lat='47.201307' lon='14.243148000000001'>
+    <tag k='alt_name' v='Winklern/Oberwölz Winklern bei Oberwölz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Winklern bei Oberwölz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8735:0:poel' />
+  </node>
+  <node id='-70726' action='modify' visible='true' lat='47.11924799999999' lon='14.187134'>
+    <tag k='alt_name' v='Stolzalpe Kinderheim' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kinderheim' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8448:0:sto' />
+  </node>
+  <node id='-70725' action='modify' visible='true' lat='46.96265600000001' lon='13.885538999999998'>
+    <tag k='alt_name' v='Turrach Ort Gh Bergmann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort Gh Bergmann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7926:0:stadl' />
+  </node>
+  <node id='-70724' action='modify' visible='true' lat='47.165804' lon='14.240772'>
+    <tag k='alt_name' v='Althofen (Murau) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5571:0:fro' />
+  </node>
+  <node id='-70723' action='modify' visible='true' lat='47.07985300000001' lon='14.314807'>
+    <tag k='alt_name' v='Heiligenstadt (Stmk) Wohlfahrtersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wohlfahrtersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8403:0:neu' />
+  </node>
+  <node id='-70722' action='modify' visible='true' lat='47.02243300000001' lon='14.415513999999996'>
+    <tag k='alt_name' v='Wildbad Einöd Kurhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kurhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8787:0:kaer' />
+  </node>
+  <node id='-70721' action='modify' visible='true' lat='47.162767' lon='14.425073999999999'>
+    <tag k='alt_name' v='Scheifling (Stmk) Kochgruber' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kochgruber' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5515:0:nm' />
+  </node>
+  <node id='-70720' action='modify' visible='true' lat='47.11142499999999' lon='14.186804'>
+    <tag k='alt_name' v='St Egidi Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5536:0:sch' />
+  </node>
+  <node id='-70719' action='modify' visible='true' lat='47.2192' lon='13.978476'>
+    <tag k='alt_name' v='Krakauhintermühlen Karlhütte' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Karlhütte' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7898:0:kra' />
+  </node>
+  <node id='-70718' action='modify' visible='true' lat='47.118534' lon='14.171665999999997'>
+    <tag k='alt_name' v='Murau Gassenhube' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gassenhube' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4987:0:mu' />
+  </node>
+  <node id='-70717' action='modify' visible='true' lat='47.220344000000004' lon='14.209166'>
+    <tag k='alt_name' v='Eselsberg (Stmk) Kreuzung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreuzung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8740:0:poel' />
+  </node>
+  <node id='-70716' action='modify' visible='true' lat='47.18952' lon='13.991812999999999'>
+    <tag k='alt_name' v='Krakauhintermühlen Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8491:0:mu' />
+  </node>
+  <node id='-70715' action='modify' visible='true' lat='47.06696900000001' lon='14.430029000000001'>
+    <tag k='alt_name' v='St Marein/Neumarkt Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8311:0:kaer' />
+  </node>
+  <node id='-70714' action='modify' visible='true' lat='47.15514799999999' lon='14.096990000000002'>
+    <tag k='alt_name' v='Ranten Trattenbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trattenbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5576:0:mu' />
+  </node>
+  <node id='-70713' action='modify' visible='true' lat='47.048826' lon='14.461116000000002'>
+    <tag k='alt_name' v='Kulm am Zirbitz Kulm am Zirbitz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kulm am Zirbitz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4780:0:mueh' />
+  </node>
+  <node id='-70712' action='modify' visible='true' lat='47.057128' lon='14.218183'>
+    <tag k='alt_name' v='Steirisch Laßnitz Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8408:0:mu' />
+  </node>
+  <node id='-70711' action='modify' visible='true' lat='47.088016' lon='14.381891'>
+    <tag k='alt_name' v='Vockenberg/Mariahof Kapelle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kapelle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7984:0:neu' />
+  </node>
+  <node id='-70710' action='modify' visible='true' lat='47.098746' lon='14.009002000000002'>
+    <tag k='alt_name' v='Falkendorf (Stmk) Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:5591:1:zug' />
+  </node>
+  <node id='-70709' action='modify' visible='true' lat='47.135442' lon='14.362674'>
+    <tag k='alt_name' v='Teufenbach (Bz MU) Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5521:2:sch' />
+  </node>
+  <node id='-70708' action='modify' visible='true' lat='47.113116000000005' lon='14.162978000000003'>
+    <tag k='alt_name' v='Murau Gießhübltor' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gießhübltor' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5541:0:sch' />
+  </node>
+  <node id='-70707' action='modify' visible='true' lat='47.18708' lon='13.896980999999998'>
+    <tag k='alt_name' v='Krakauschatten Gh Stadlober' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Stadlober' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7676:0:kra' />
+  </node>
+  <node id='-70706' action='modify' visible='true' lat='47.073942' lon='14.415626000000001'>
+    <tag k='alt_name' v='Neumarkt (Stmk) Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7474:2:neu' />
+  </node>
+  <node id='-70705' action='modify' visible='true' lat='47.188869000000004' lon='13.958944999999998'>
+    <tag k='alt_name' v='Krakauschatten Preberblick' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Preberblick' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8497:0:kra' />
+  </node>
+  <node id='-70704' action='modify' visible='true' lat='47.164103999999995' lon='14.024810999999998'>
+    <tag k='alt_name' v='Seebach bei Ranten Abzweigung Krakauschatten' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Krakauschatten' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5582:0:kra' />
+  </node>
+  <node id='-70703' action='modify' visible='true' lat='47.042876' lon='14.476313'>
+    <tag k='alt_name' v='Kalsdorf/Neumarkt Kalsdorf bei Neumarkt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kalsdorf bei Neumarkt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8318:0:mueh' />
+  </node>
+  <node id='-70702' action='modify' visible='true' lat='47.089692' lon='14.401651000000003'>
+    <tag k='alt_name' v='Neudorf (Mariahof) Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7989:0:ober' />
+  </node>
+  <node id='-70701' action='modify' visible='true' lat='47.10167' lon='14.087325'>
+    <tag k='alt_name' v='St Lorenzen/Murau Kreischberg Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreischberg Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7887:2:tam' />
+  </node>
+  <node id='-70700' action='modify' visible='true' lat='47.104228' lon='14.012253999999999'>
+    <tag k='alt_name' v='Falkendorf (Stmk) vlg Steiner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='vlg Steiner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5550:0:tam' />
+  </node>
+  <node id='-70699' action='modify' visible='true' lat='47.09936100000001' lon='14.085618'>
+    <tag k='alt_name' v='St Lorenzen/Murau Kreischberg Talstation' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreischberg Talstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7752:2:fuss' />
+  </node>
+  <node id='-70698' action='modify' visible='true' lat='47.070068' lon='13.913164'>
+    <tag k='alt_name' v='Predlitz Steinerwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinerwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5557:0:tam' />
+  </node>
+  <node id='-70697' action='modify' visible='true' lat='47.18575' lon='14.339169999999998'>
+    <tag k='alt_name' v='Schönberg/Niederwölz Sterner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sterner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4447:0:schi' />
+  </node>
+  <node id='-70696' action='modify' visible='true' lat='47.27155499999999' lon='14.079487'>
+    <tag k='alt_name' v='St Nikolai/Sölktal Sölkpass' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sölkpass' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7336:0:schoe' />
+  </node>
+  <node id='-70695' action='modify' visible='true' lat='47.16971399999999' lon='14.015347'>
+    <tag k='alt_name' v='Seebach bei Ranten Jessner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jessner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8481:0:see' />
+  </node>
+  <node id='-70694' action='modify' visible='true' lat='47.09303299999999' lon='14.443324000000002'>
+    <tag k='alt_name' v='Perchau am Sattel Schindlbacher' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schindlbacher' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5503:0:ju' />
+  </node>
+  <node id='-70693' action='modify' visible='true' lat='47.108528' lon='14.180107999999997'>
+    <tag k='alt_name' v='St Egidi Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7481:2:unz' />
+  </node>
+  <node id='-70692' action='modify' visible='true' lat='47.129264' lon='14.334248000000002'>
+    <tag k='alt_name' v='Frojach (Stmk) Wirt in der Lacken' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wirt in der Lacken' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5524:0:sch' />
+  </node>
+  <node id='-70691' action='modify' visible='true' lat='47.065445' lon='14.357703'>
+    <tag k='alt_name' v='Zeutschach Hainzenhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hainzenhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7973:0:neu' />
+  </node>
+  <node id='-70690' action='modify' visible='true' lat='47.22404800000001' lon='13.977575000000002'>
+    <tag k='alt_name' v='Krakauhintermühlen Etrachsee' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Etrachsee' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5149:0:scho' />
+  </node>
+  <node id='-70689' action='modify' visible='true' lat='47.26510600000001' lon='14.16325'>
+    <tag k='alt_name' v='Funklhütte Funklhütte' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Funklhütte' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5406:0:poel' />
+  </node>
+  <node id='-70688' action='modify' visible='true' lat='47.181053000000006' lon='14.112576999999998'>
+    <tag k='alt_name' v='Schöder Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5564:0:fro' />
+  </node>
+  <node id='-70687' action='modify' visible='true' lat='47.102207' lon='14.331745'>
+    <tag k='alt_name' v='Thajagraben Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8400:0:neu' />
+  </node>
+  <node id='-70686' action='modify' visible='true' lat='46.982028' lon='14.391185999999998'>
+    <tag k='alt_name' v='Dürnstein (Stmk) Landesgrenze' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Landesgrenze' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8780:0:kaer' />
+  </node>
+  <node id='-70685' action='modify' visible='true' lat='47.133159' lon='14.435084999999997'>
+    <tag k='alt_name' v='Puchfeld Straßenwärterhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Straßenwärterhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5508:0:nm' />
+  </node>
+  <node id='-70684' action='modify' visible='true' lat='47.12178399999999' lon='14.22529'>
+    <tag k='alt_name' v='Triebendorf (Stmk) Kühbauersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kühbauersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5533:0:sch' />
+  </node>
+  <node id='-70683' action='modify' visible='true' lat='47.077147000000004' lon='14.408808'>
+    <tag k='alt_name' v='Baierdorf/Mariahof Springerhalle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Springerhalle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7979:0:neu' />
+  </node>
+  <node id='-70682' action='modify' visible='true' lat='47.183785' lon='13.958446'>
+    <tag k='alt_name' v='Schatten (Stmk) Schattensee' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schattensee' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4984:0:pre' />
+  </node>
+  <node id='-70681' action='modify' visible='true' lat='47.223341' lon='14.231162999999999'>
+    <tag k='alt_name' v='Hinteregg/Oberwölz Petz im Moos' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Petz im Moos' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8737:0:poel' />
+  </node>
+  <node id='-70680' action='modify' visible='true' lat='46.922782' lon='13.870631'>
+    <tag k='alt_name' v='Turracherhöhe/Stmk Kornockbahn Talstation' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kornockbahn Talstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7928:2:fuss' />
+  </node>
+  <node id='-70679' action='modify' visible='true' lat='47.18479500000001' lon='14.193262999999998'>
+    <tag k='alt_name' v='St Peter/Kammersberg Hauptschule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hauptschule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5569:0:froj' />
+  </node>
+  <node id='-70678' action='modify' visible='true' lat='47.063871999999996' lon='14.291741999999996'>
+    <tag k='alt_name' v='St Lambrecht Paulegger-Kreuz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Paulegger-Kreuz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8405:0:mu' />
+  </node>
+  <node id='-70677' action='modify' visible='true' lat='47.04861999999999' lon='14.432840999999998'>
+    <tag k='alt_name' v='Hammerl/St Georgen Gasthaus Hammerl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gasthaus Hammerl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8790:0:ju' />
+  </node>
+  <node id='-70676' action='modify' visible='true' lat='47.151975' lon='14.384148000000003'>
+    <tag k='alt_name' v='Niederwölz Ost' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ost' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5518:0:sch' />
+  </node>
+  <node id='-70675' action='modify' visible='true' lat='47.113496' lon='14.170671'>
+    <tag k='alt_name' v='Murau Roseggerkreuzung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Roseggerkreuzung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5538:0:tam' />
+  </node>
+  <node id='-70674' action='modify' visible='true' lat='47.215778' lon='14.200174'>
+    <tag k='alt_name' v='Pöllau am Greim Neuwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Neuwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8745:0:obe' />
+  </node>
+  <node id='-70673' action='modify' visible='true' lat='47.086331' lon='14.069018999999997'>
+    <tag k='aerialway' v='station' />
+    <tag k='alt_name' v='St Lorenzen/Murau Seilbahn Mittelstation' />
+    <tag k='name' v='Seilbahn Mittelstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7820:1:bahn' />
+  </node>
+  <node id='-70672' action='modify' visible='true' lat='47.18775399999999' lon='14.008002'>
+    <tag k='alt_name' v='Scharnigl Steinbauernbichl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinbauernbichl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8490:0:kra' />
+  </node>
+  <node id='-70671' action='modify' visible='true' lat='47.055661' lon='14.447398'>
+    <tag k='alt_name' v='Rapottendorf Rapottendorferweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rapottendorferweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8314:0:mueh' />
+  </node>
+  <node id='-70670' action='modify' visible='true' lat='47.158656' lon='14.054588'>
+    <tag k='alt_name' v='Ranten Bachbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bachbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5579:0:kra' />
+  </node>
+  <node id='-70669' action='modify' visible='true' lat='47.095829' lon='14.196033'>
+    <tag k='alt_name' v='Wimml Wimml' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wimml' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8411:0:neu' />
+  </node>
+  <node id='-70668' action='modify' visible='true' lat='47.09046000000001' lon='14.37544'>
+    <tag k='alt_name' v='Vockenberg/Mariahof Spathof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Spathof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7986:0:ober' />
+  </node>
+  <node id='-70667' action='modify' visible='true' lat='47.101403999999995' lon='14.091169999999998'>
+    <tag k='alt_name' v='St Lorenzen/Murau Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5595:2:mu' />
+  </node>
+  <node id='-70666' action='modify' visible='true' lat='47.127934' lon='14.349322999999998'>
+    <tag k='alt_name' v='Teufenbach (Bz MU) Blutgraben' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Blutgraben' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5523:0:sch' />
+  </node>
+  <node id='-70665' action='modify' visible='true' lat='47.104293' lon='14.099058999999999'>
+    <tag k='alt_name' v='St Georgen/Murau St Georgen ob Murau' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='St Georgen ob Murau' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5543:0:tam' />
+  </node>
+  <node id='-70664' action='modify' visible='true' lat='47.16828199999999' lon='14.355231999999999'>
+    <tag k='alt_name' v='Pachern/Niederwölz Pachern bei Niederwölz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pachern bei Niederwölz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8725:0:ober' />
+  </node>
+  <node id='-70663' action='modify' visible='true' lat='47.22087899999999' lon='14.312157'>
+    <tag k='alt_name' v='Salchau Brücke Kogler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brücke Kogler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8753:0:ple' />
+  </node>
+  <node id='-70662' action='modify' visible='true' lat='47.162435' lon='13.976505999999999'>
+    <tag k='alt_name' v='Seebach bei Ranten Abzweigung Fresen' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Fresen' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5584:0:mu' />
+  </node>
+  <node id='-70661' action='modify' visible='true' lat='47.10998299999999' lon='14.022820999999997'>
+    <tag k='alt_name' v='St Ruprecht/Murau Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5549:0:sch' />
+  </node>
+  <node id='-70660' action='modify' visible='true' lat='47.252356' lon='14.365414'>
+    <tag k='aerialway' v='station' />
+    <tag k='alt_name' v='Lachtal Sesselbahn Talstation' />
+    <tag k='name' v='Sesselbahn Talstation' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7914:2:bahn' />
+  </node>
+  <node id='-70659' action='modify' visible='true' lat='47.151098' lon='14.113036000000001'>
+    <tag k='alt_name' v='Ranten Gh Löwenwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Löwenwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5561:0:kra' />
+  </node>
+  <node id='-70658' action='modify' visible='true' lat='47.252461' lon='14.079188999999998'>
+    <tag k='alt_name' v='Schöder Kreutzerhütte' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreutzerhütte' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7339:0:schoe' />
+  </node>
+  <node id='-70657' action='modify' visible='true' lat='47.179398000000006' lon='13.995662999999999'>
+    <tag k='alt_name' v='Oberetrach Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8483:0:pre' />
+  </node>
+  <node id='-70656' action='modify' visible='true' lat='47.103556' lon='14.455768999999998'>
+    <tag k='alt_name' v='Perchau am Sattel Abzweigung Gotthardsdorf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Gotthardsdorf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5505:0:nm' />
+  </node>
+  <node id='-70655' action='modify' visible='true' lat='47.13097299999999' lon='14.326526'>
+    <tag k='alt_name' v='Frojach (Stmk) Graslitz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Graslitz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5526:0:tam' />
+  </node>
+  <node id='-70654' action='modify' visible='true' lat='47.069477' lon='14.385123'>
+    <tag k='alt_name' v='Graslupp Bochmoar' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bochmoar' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7975:0:zeu' />
+  </node>
+  <node id='-70653' action='modify' visible='true' lat='47.121016' lon='14.193639'>
+    <tag k='alt_name' v='Stolzalpe Landeskrankenhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Landeskrankenhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8451:0:mu' />
+  </node>
+  <node id='-70652' action='modify' visible='true' lat='47.190741' lon='14.131663000000001'>
+    <tag k='alt_name' v='Baierdorf/Schöder Gh Neuwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Neuwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5566:0:mu' />
+  </node>
+  <node id='-70651' action='modify' visible='true' lat='47.10535699999999' lon='14.364484999999998'>
+    <tag k='alt_name' v='Mariahof Gut Zedlacher' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gut Zedlacher' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8398:0:mu' />
+  </node>
+  <node id='-70650' action='modify' visible='true' lat='46.994983' lon='14.391282'>
+    <tag k='alt_name' v='Dürnstein (Stmk) Gasthaus Stiegenwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gasthaus Stiegenwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8783:0:ju' />
+  </node>
+  <node id='-70649' action='modify' visible='true' lat='47.135813' lon='14.255053999999998'>
+    <tag k='alt_name' v='Triebendorf (Stmk) Lankenwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lankenwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5531:0:tam' />
+  </node>
+  <node id='-70648' action='modify' visible='true' lat='47.180443' lon='13.990049000000003'>
+    <tag k='alt_name' v='Oberetrach Zitz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Zitz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4983:0:see' />
+  </node>
+  <node id='-70647' action='modify' visible='true' lat='47.220186' lon='14.208881999999997'>
+    <tag k='alt_name' v='Eselsberg (Stmk) Kreuzung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreuzung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8740:0:oberw' />
+  </node>
+  <node id='-70646' action='modify' visible='true' lat='47.16946099999999' lon='14.038033'>
+    <tag k='alt_name' v='Krakaudorf Mösl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mösl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8487:0:kra' />
+  </node>
+</osm>

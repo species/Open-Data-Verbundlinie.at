@@ -1,0 +1,3734 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-73997' action='modify' visible='true' lat='47.083992' lon='15.069114000000004'>
+    <tag k='alt_name' v='Gradenberg Gh Trolp' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Trolp' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1411:0:sall' />
+  </node>
+  <node id='-73996' action='modify' visible='true' lat='47.06355' lon='15.212546'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Aichegg Hubenwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aichegg Hubenwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1373:0:stal' />
+  </node>
+  <node id='-73995' action='modify' visible='true' lat='47.054258' lon='15.117622000000003'>
+    <tag k='alt_name' v='Rosental/Kainach Kaufwelt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kaufwelt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1313:0:aus' />
+  </node>
+  <node id='-73994' action='modify' visible='true' lat='47.02909499999999' lon='15.163725999999999'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) Trafo' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trafo' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:9:0:voit' />
+  </node>
+  <node id='-73993' action='modify' visible='true' lat='47.053883' lon='15.155614999999996'>
+    <tag k='alt_name' v='Tregist Werk Zangtal' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Werk Zangtal' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:483:0:lobm' />
+  </node>
+  <node id='-73992' action='modify' visible='true' lat='47.123365' lon='15.03796'>
+    <tag k='alt_name' v='Graden bei Köflach Kapelle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kapelle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1421:0:koef' />
+  </node>
+  <node id='-73991' action='modify' visible='true' lat='47.077218' lon='15.106221999999999'>
+    <tag k='alt_name' v='Piber bei Köflach Fesselweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fesselweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:493:0:koef' />
+  </node>
+  <node id='-73990' action='modify' visible='true' lat='46.99107899999999' lon='15.009485'>
+    <tag k='alt_name' v='Pack Reinisch Hube' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Reinisch Hube' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1449:0:stam' />
+  </node>
+  <node id='-73989' action='modify' visible='true' lat='46.964111' lon='15.275164'>
+    <tag k='alt_name' v='Kniezenberg Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1557:0:ssst' />
+  </node>
+  <node id='-73988' action='modify' visible='true' lat='47.101755999999995' lon='15.175041'>
+    <tag k='alt_name' v='Södingberg Ort Schule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1378:0:geis' />
+  </node>
+  <node id='-73987' action='modify' visible='true' lat='47.04286799999999' lon='15.131000000000002'>
+    <tag k='alt_name' v='Kowald Bienengasse' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bienengasse' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:15:0:kowa' />
+  </node>
+  <node id='-73986' action='modify' visible='true' lat='46.987285' lon='15.202209'>
+    <tag k='alt_name' v='Ligist Pignitter' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pignitter' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3567:0:grab' />
+  </node>
+  <node id='-73985' action='modify' visible='true' lat='47.041449' lon='15.088372000000001'>
+    <tag k='alt_name' v='Pichling bei Köflach Weggersdlg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Weggersdlg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1426:0:koef' />
+  </node>
+  <node id='-73984' action='modify' visible='true' lat='46.994697' lon='15.297960000000002'>
+    <tag k='alt_name' v='Söding Packer Straße 6' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Packer Straße 6' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4406:0:ein' />
+  </node>
+  <node id='-73983' action='modify' visible='true' lat='47.04388800000001' lon='15.064733999999998'>
+    <tag k='alt_name' v='Pichling bei Köflach Braungasse' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Braungasse' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1461:0:pack' />
+  </node>
+  <node id='-73982' action='modify' visible='true' lat='46.9878' lon='15.228146999999998'>
+    <tag k='alt_name' v='Grabenwarth Abzw Hallersdorf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Hallersdorf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3575:0:ligi' />
+  </node>
+  <node id='-73981' action='modify' visible='true' lat='47.16647600000001' lon='15.167182000000002'>
+    <tag k='alt_name' v='Geistthal Gh Linde' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Linde' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1384:0:stal' />
+  </node>
+  <node id='-73980' action='modify' visible='true' lat='47.16118' lon='15.097980999999999'>
+    <tag k='alt_name' v='Gallmannsegg Gh Sauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Sauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:465:0:schl' />
+  </node>
+  <node id='-73979' action='modify' visible='true' lat='47.048592' lon='15.069622999999998'>
+    <tag k='alt_name' v='Pichling bei Köflach Volksbank' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Volksbank' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:230:0:pack' />
+  </node>
+  <node id='-73978' action='modify' visible='true' lat='47.040333000000004' lon='15.232837000000002'>
+    <tag k='alt_name' v='Bernau (Stmk) Abzweigung St Bartholomä' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung St Bartholomä' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1338:0:baus' />
+  </node>
+  <node id='-73977' action='modify' visible='true' lat='47.00938599999999' lon='15.107925000000003'>
+    <tag k='alt_name' v='St Martin/Wöllmißbg Abzweigung Kleinwöllmiß' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Kleinwöllmiß' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1432:0:stma' />
+  </node>
+  <node id='-73976' action='modify' visible='true' lat='47.024784000000004' lon='15.059254999999997'>
+    <tag k='alt_name' v='Edelschrott Finster' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Finster' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1466:0:koef' />
+  </node>
+  <node id='-73975' action='modify' visible='true' lat='47.05672199999999' lon='15.087410999999998'>
+    <tag k='alt_name' v='Pichling bei Köflach Sportplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sportplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3586:0:koef' />
+  </node>
+  <node id='-73974' action='modify' visible='true' lat='46.999840000000006' lon='15.289734999999999'>
+    <tag k='alt_name' v='Söding Gh Zimmermann/Postamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Zimmermann/Postamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1299:0:ein' />
+  </node>
+  <node id='-73973' action='modify' visible='true' lat='47.04281100000001' lon='15.080511000000001'>
+    <tag k='alt_name' v='Pichling bei Köflach Kumpelweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kumpelweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1397:0:puba' />
+  </node>
+  <node id='-73972' action='modify' visible='true' lat='47.11596200000001' lon='15.113947000000001'>
+    <tag k='alt_name' v='Kohlschwarz Gallaun' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gallaun' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:471:0:voit' />
+  </node>
+  <node id='-73971' action='modify' visible='true' lat='47.047922' lon='15.226982'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Guasen' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Guasen' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3511:0:links' />
+  </node>
+  <node id='-73970' action='modify' visible='true' lat='47.019999000000006' lon='15.221207'>
+    <tag k='alt_name' v='Kleingaisfeld Abzw Muggau' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Muggau' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3549:0:klga' />
+  </node>
+  <node id='-73969' action='modify' visible='true' lat='47.064492' lon='15.079067'>
+    <tag k='alt_name' v='Köflach Kfh Berdnik' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kfh Berdnik' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1407:0:sall' />
+  </node>
+  <node id='-73968' action='modify' visible='true' lat='47.05253600000001' lon='15.195799'>
+    <tag k='alt_name' v='Ruppbauernhöhe Ruppbauernhöhe' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ruppbauernhöhe' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1343:0:bein' />
+  </node>
+  <node id='-73967' action='modify' visible='true' lat='47.007914' lon='15.252664'>
+    <tag k='alt_name' v='Köppling Huber' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Huber' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7704:0:ein' />
+  </node>
+  <node id='-73966' action='modify' visible='true' lat='47.059291' lon='15.082204000000003'>
+    <tag k='alt_name' v='Pichling bei Köflach Kollmann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kollmann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3592:0:voit' />
+  </node>
+  <node id='-73965' action='modify' visible='true' lat='47.00276' lon='15.244142999999998'>
+    <tag k='alt_name' v='Köppling Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:1281:1:zug' />
+  </node>
+  <node id='-73964' action='modify' visible='true' lat='47.046875' lon='15.156439999999998'>
+    <tag k='alt_name' v='Voitsberg Jonasstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jonasstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1309:0:aus' />
+  </node>
+  <node id='-73963' action='modify' visible='true' lat='47.083228' lon='15.12402'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Schlossbad' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schlossbad' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:476:0:kaiv' />
+  </node>
+  <node id='-73962' action='modify' visible='true' lat='47.039427999999994' lon='15.178552'>
+    <tag k='alt_name' v='Lobming (Voitsberg) Am Waldrain' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Am Waldrain' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3516:0:bein' />
+  </node>
+  <node id='-73961' action='modify' visible='true' lat='47.019979' lon='15.199083999999997'>
+    <tag k='alt_name' v='Gaisfeld (Stmk) Kapelle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kapelle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3555:0:krot' />
+  </node>
+  <node id='-73960' action='modify' visible='true' lat='47.097170999999996' lon='15.021394'>
+    <tag k='alt_name' v='Graden bei Köflach Brückenwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brückenwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1414:0:koef' />
+  </node>
+  <node id='-73959' action='modify' visible='true' lat='46.97003599999999' lon='15.297320000000003'>
+    <tag k='alt_name' v='Neudorf/Mooskirchen Neudorf bei Mooskirchen' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Neudorf bei Mooskirchen' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1554:0:moos' />
+  </node>
+  <node id='-73958' action='modify' visible='true' lat='47.089420999999994' lon='15.188137'>
+    <tag k='alt_name' v='Södingberg (Bz VO) Schirgi' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schirgi' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1375:0:geis' />
+  </node>
+  <node id='-73957' action='modify' visible='true' lat='47.05111900000001' lon='15.055824000000001'>
+    <tag k='alt_name' v='Puchbach (Köflach) Altes Gemeindeamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Altes Gemeindeamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3597:0:koef' />
+  </node>
+  <node id='-73956' action='modify' visible='true' lat='47.062293000000004' lon='15.0894'>
+    <tag k='alt_name' v='Köflach Winkelbauer/Unterführung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Winkelbauer/Unterführung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1316:0:baus' />
+  </node>
+  <node id='-73955' action='modify' visible='true' lat='47.032214999999994' lon='15.145383000000004'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) Blickweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Blickweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:12:0:kowa' />
+  </node>
+  <node id='-73954' action='modify' visible='true' lat='47.042987' lon='15.150144'>
+    <tag k='alt_name' v='Voitsberg Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:482:1:zug' />
+  </node>
+  <node id='-73953' action='modify' visible='true' lat='46.99372600000001' lon='15.20674'>
+    <tag k='alt_name' v='Ligist Postamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Postamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3564:0:grab' />
+  </node>
+  <node id='-73952' action='modify' visible='true' lat='47.10754300000001' lon='15.051546000000002'>
+    <tag k='alt_name' v='Graden bei Köflach Steinbruch Steirer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinbruch Steirer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1419:0:sall' />
+  </node>
+  <node id='-73951' action='modify' visible='true' lat='47.070614' lon='15.088574'>
+    <tag k='alt_name' v='Köflach Therme Nova' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Therme Nova' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:497:0:ein' />
+  </node>
+  <node id='-73950' action='modify' visible='true' lat='47.016414' lon='14.971544000000003'>
+    <tag k='alt_name' v='Hirschegg (Stmk) Maier' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Maier' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1458:0:stam' />
+  </node>
+  <node id='-73949' action='modify' visible='true' lat='46.977963' lon='15.222936'>
+    <tag k='alt_name' v='Ligist Steinberg Kern' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinberg Kern' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3572:0:krot' />
+  </node>
+  <node id='-73948' action='modify' visible='true' lat='47.13339' lon='15.159023000000001'>
+    <tag k='alt_name' v='Geistthal Kobererbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kobererbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1381:0:stal' />
+  </node>
+  <node id='-73947' action='modify' visible='true' lat='46.977349000000004' lon='15.214458000000002'>
+    <tag k='alt_name' v='Ligist Schober' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schober' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3570:0:krot' />
+  </node>
+  <node id='-73946' action='modify' visible='true' lat='47.071421' lon='15.086671999999998'>
+    <tag k='alt_name' v='Köflach BRG' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='BRG' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3930:0:koef' />
+  </node>
+  <node id='-73945' action='modify' visible='true' lat='47.025486' lon='15.096098'>
+    <tag k='alt_name' v='Puchbach (Köflach) Sagwölkert' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sagwölkert' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1429:0:puba' />
+  </node>
+  <node id='-73944' action='modify' visible='true' lat='47.122115' lon='15.108917000000002'>
+    <tag k='alt_name' v='Kohlschwarz Murg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Murg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7970:0:kaiv' />
+  </node>
+  <node id='-73943' action='modify' visible='true' lat='47.031267' lon='15.077690000000006'>
+    <tag k='alt_name' v='Puchbach (Köflach) Langmannbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Langmannbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1463:0:koef' />
+  </node>
+  <node id='-73942' action='modify' visible='true' lat='46.992139' lon='15.216397'>
+    <tag k='alt_name' v='Dietenberg Friedhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Friedhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3577:0:grab' />
+  </node>
+  <node id='-73941' action='modify' visible='true' lat='47.021950999999994' lon='15.196594999999999'>
+    <tag k='alt_name' v='Gaisfeld (Stmk) Gh Klampfl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Klampfl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1386:0:teig' />
+  </node>
+  <node id='-73940' action='modify' visible='true' lat='47.156023' lon='15.073059'>
+    <tag k='alt_name' v='Kainach/Voitsberg Gh Neuhäusl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Neuhäusl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:463:0:kaiv' />
+  </node>
+  <node id='-73939' action='modify' visible='true' lat='47.06825400000001' lon='15.207958'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Aichegg Hansbauerweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aichegg Hansbauerweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3546:0:geis' />
+  </node>
+  <node id='-73938' action='modify' visible='true' lat='47.04848299999999' lon='15.220824000000002'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Gh Reinisch' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Reinisch' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1340:0:bein' />
+  </node>
+  <node id='-73937' action='modify' visible='true' lat='47.04871200000001' lon='15.147017000000002'>
+    <tag k='alt_name' v='Voitsberg Kainachsteg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kainachsteg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4358:0:kowa' />
+  </node>
+  <node id='-73936' action='modify' visible='true' lat='46.99542400000001' lon='15.11115'>
+    <tag k='alt_name' v='Langmannsperre Langmannsperre' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Langmannsperre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1434:0:edel' />
+  </node>
+  <node id='-73935' action='modify' visible='true' lat='47.021441' lon='15.023005'>
+    <tag k='alt_name' v='Wartingerschmiede Wartingerschmiede' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wartingerschmiede' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1469:0:pack' />
+  </node>
+  <node id='-73934' action='modify' visible='true' lat='47.054379' lon='15.083753999999999'>
+    <tag k='alt_name' v='Pichling bei Köflach Pfundnerweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pfundnerweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3585:0:koef' />
+  </node>
+  <node id='-73933' action='modify' visible='true' lat='47.005123' lon='15.262899'>
+    <tag k='alt_name' v='Pichling/Mooskirchen Gh Stöcklrausch' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Stöcklrausch' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1301:0:aus' />
+  </node>
+  <node id='-73932' action='modify' visible='true' lat='47.065773' lon='15.086804000000003'>
+    <tag k='alt_name' v='Köflach Friedhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Friedhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1396:0:koef' />
+  </node>
+  <node id='-73931' action='modify' visible='true' lat='47.10212500000001' lon='15.121299'>
+    <tag k='alt_name' v='Afling bei Bärnbach Hausl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hausl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:473:0:kaiv' />
+  </node>
+  <node id='-73930' action='modify' visible='true' lat='46.97873700000001' lon='15.282839'>
+    <tag k='alt_name' v='Mooskirchen Friedhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Friedhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1587:0:lann' />
+  </node>
+  <node id='-73929' action='modify' visible='true' lat='47.052551' lon='15.22757'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Kollmann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kollmann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3513:0:re' />
+  </node>
+  <node id='-73928' action='modify' visible='true' lat='47.055657' lon='15.084619000000002'>
+    <tag k='alt_name' v='Pichling bei Köflach Dillacher' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dillacher' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3157:0:puba' />
+  </node>
+  <node id='-73927' action='modify' visible='true' lat='47.027558' lon='15.205895'>
+    <tag k='alt_name' v='Kleingaisfeld Fuchssiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fuchssiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3552:0:krot' />
+  </node>
+  <node id='-73926' action='modify' visible='true' lat='47.083792' lon='15.068934'>
+    <tag k='alt_name' v='Gradenberg Gh Trolp' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Trolp' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1411:0:koef' />
+  </node>
+  <node id='-73925' action='modify' visible='true' lat='47.02251600000001' lon='15.055178999999999'>
+    <tag k='alt_name' v='Edelschrott Schulzentrum' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schulzentrum' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3942:0:koef' />
+  </node>
+  <node id='-73924' action='modify' visible='true' lat='47.03683199999999' lon='15.177174000000004'>
+    <tag k='alt_name' v='Krems in Steiermark Gh Pock' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Pock' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1346:0:ein' />
+  </node>
+  <node id='-73923' action='modify' visible='true' lat='47.05655099999999' lon='15.240386'>
+    <tag k='alt_name' v='Kalchberg (Stmk) Pickerhansl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pickerhansl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1368:0:bein' />
+  </node>
+  <node id='-73922' action='modify' visible='true' lat='46.978035' lon='14.983981999999997'>
+    <tag k='alt_name' v='Pack Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1474:0:koef' />
+  </node>
+  <node id='-73921' action='modify' visible='true' lat='47.04406' lon='15.078679000000001'>
+    <tag k='alt_name' v='Pichling bei Köflach Ringstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ringstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3594:0:puba' />
+  </node>
+  <node id='-73920' action='modify' visible='true' lat='47.043741' lon='15.160443999999998'>
+    <tag k='alt_name' v='Voitsberg Vorstadtgasse' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vorstadtgasse' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1307:0:ein' />
+  </node>
+  <node id='-73919' action='modify' visible='true' lat='47.04961000000001' lon='15.149497'>
+    <tag k='alt_name' v='Voitsberg Hauptplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hauptplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:2:1:ein' />
+  </node>
+  <node id='-73918' action='modify' visible='true' lat='47.070599' lon='15.130914999999998'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Oberglas Kantine' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oberglas Kantine' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:479:0:voit' />
+  </node>
+  <node id='-73917' action='modify' visible='true' lat='47.01371' lon='15.206437'>
+    <tag k='alt_name' v='Krottendorf/Ligist Fastian' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fastian' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3557:0:klga' />
+  </node>
+  <node id='-73916' action='modify' visible='true' lat='47.11271' lon='15.010008999999998'>
+    <tag k='alt_name' v='Graden bei Köflach Katzbachbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Katzbachbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1416:0:sall' />
+  </node>
+  <node id='-73915' action='modify' visible='true' lat='47.01204700000001' lon='15.064963999999996'>
+    <tag k='alt_name' v='Wöllmiß Hubenbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hubenbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1438:0:stma' />
+  </node>
+  <node id='-73914' action='modify' visible='true' lat='46.965295' lon='15.308253000000002'>
+    <tag k='alt_name' v='Gießenberg Abzweigung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1553:0:lieb' />
+  </node>
+  <node id='-73913' action='modify' visible='true' lat='47.04796399999999' lon='15.071389'>
+    <tag k='alt_name' v='Pichling bei Köflach Alois-Geißler Straße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Alois-Geißler Straße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4369:0:koef' />
+  </node>
+  <node id='-73912' action='modify' visible='true' lat='47.074501' lon='15.202940999999996'>
+    <tag k='alt_name' v='Södingberg (Bz VO) Mühlhuber' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mühlhuber' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1374:0:stal' />
+  </node>
+  <node id='-73911' action='modify' visible='true' lat='47.031357' lon='15.156309'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) Gh Wagner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Wagner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:10:0:voit' />
+  </node>
+  <node id='-73910' action='modify' visible='true' lat='47.063047000000005' lon='15.158084'>
+    <tag k='alt_name' v='Tregist Hausmann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hausmann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:484:0:lobm' />
+  </node>
+  <node id='-73909' action='modify' visible='true' lat='46.99371' lon='15.208738999999996'>
+    <tag k='alt_name' v='Ligist Hauptplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hauptplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3563:0:krot' />
+  </node>
+  <node id='-73908' action='modify' visible='true' lat='46.991168' lon='14.992445000000002'>
+    <tag k='alt_name' v='Pack Schadenbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schadenbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4059:0:pack' />
+  </node>
+  <node id='-73907' action='modify' visible='true' lat='47.131639' lon='15.033856999999998'>
+    <tag k='alt_name' v='Graden bei Köflach Dorfplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dorfplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1422:0:koef' />
+  </node>
+  <node id='-73906' action='modify' visible='true' lat='47.07681699999999' lon='15.102346999999998'>
+    <tag k='alt_name' v='Piber bei Köflach Schloss' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schloss' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:494:0:koef' />
+  </node>
+  <node id='-73905' action='modify' visible='true' lat='47.004169' lon='14.994158'>
+    <tag k='alt_name' v='Hirschegg (Stmk) Grabenschmied' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Grabenschmied' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1456:0:hirs' />
+  </node>
+  <node id='-73904' action='modify' visible='true' lat='46.985944' lon='15.227764999999998'>
+    <tag k='alt_name' v='Grabenwarth Gh Feichter' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Feichter' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3574:0:stai' />
+  </node>
+  <node id='-73903' action='modify' visible='true' lat='47.005959' lon='15.305907999999999'>
+    <tag k='alt_name' v='Stein/Attendorf Küberlweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Küberlweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4376:0:tobd' />
+  </node>
+  <node id='-73902' action='modify' visible='true' lat='47.154740000000004' lon='15.160371'>
+    <tag k='alt_name' v='Geistthal Gh Kreuzwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Kreuzwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1383:0:geis' />
+  </node>
+  <node id='-73901' action='modify' visible='true' lat='47.055732' lon='15.130171'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:461:1:zug' />
+  </node>
+  <node id='-73900' action='modify' visible='true' lat='47.023979000000004' lon='15.216165000000002'>
+    <tag k='alt_name' v='Kleingaisfeld Trafo' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trafo' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3645:0:klga' />
+  </node>
+  <node id='-73899' action='modify' visible='true' lat='46.972684' lon='14.981068'>
+    <tag k='alt_name' v='Pack Feuerwehrhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Feuerwehrhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:6466:0:koef' />
+  </node>
+  <node id='-73898' action='modify' visible='true' lat='47.037608' lon='15.089159'>
+    <tag k='alt_name' v='Pichling bei Köflach Ungerhofer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ungerhofer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1427:0:puba' />
+  </node>
+  <node id='-73897' action='modify' visible='true' lat='47.024863' lon='15.059068999999997'>
+    <tag k='alt_name' v='Edelschrott Finster' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Finster' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1466:0:pack' />
+  </node>
+  <node id='-73896' action='modify' visible='true' lat='47.004663' lon='15.213032'>
+    <tag k='alt_name' v='Krottendorf/Ligist Gh Haas' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Haas' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1389:0:ligi' />
+  </node>
+  <node id='-73895' action='modify' visible='true' lat='47.154829' lon='15.093013'>
+    <tag k='alt_name' v='Kainach/Voitsberg Gh Pongritz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Pongritz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:466:0:kaiv' />
+  </node>
+  <node id='-73894' action='modify' visible='true' lat='47.045080000000006' lon='15.227054000000003'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Kollegger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kollegger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1339:0:baus' />
+  </node>
+  <node id='-73893' action='modify' visible='true' lat='47.006792' lon='15.074582999999999'>
+    <tag k='alt_name' v='Wöllmiß Abzweigung Guglweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Guglweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1437:0:stma' />
+  </node>
+  <node id='-73892' action='modify' visible='true' lat='46.99460500000001' lon='14.998604'>
+    <tag k='alt_name' v='Pack Fritzkreuz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fritzkreuz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1471:0:koef' />
+  </node>
+  <node id='-73891' action='modify' visible='true' lat='47.057726' lon='15.089638'>
+    <tag k='alt_name' v='Pichling bei Köflach Gh Großschädl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Großschädl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3587:0:koef' />
+  </node>
+  <node id='-73890' action='modify' visible='true' lat='46.99583899999999' lon='15.285067000000002'>
+    <tag k='alt_name' v='Söding Söding-Mooskirchen Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Söding-Mooskirchen Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1280:3:schl' />
+  </node>
+  <node id='-73889' action='modify' visible='true' lat='47.009775' lon='15.216055'>
+    <tag k='alt_name' v='Krottendorf/Ligist Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1304:2:ein' />
+  </node>
+  <node id='-73888' action='modify' visible='true' lat='47.002536' lon='15.019365999999998'>
+    <tag k='alt_name' v='Edelsch Packerstraße Schmolli' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schmolli' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4430:0:pack' />
+  </node>
+  <node id='-73887' action='modify' visible='true' lat='47.04354200000001' lon='15.078191'>
+    <tag k='alt_name' v='Pichling bei Köflach Dammweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dammweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1398:0:puba' />
+  </node>
+  <node id='-73886' action='modify' visible='true' lat='47.108745' lon='15.120462999999999'>
+    <tag k='alt_name' v='Afling bei Bärnbach Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:472:0:voit' />
+  </node>
+  <node id='-73885' action='modify' visible='true' lat='47.051026' lon='15.228917999999998'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Prettenthaler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Prettenthaler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3512:0:li' />
+  </node>
+  <node id='-73884' action='modify' visible='true' lat='47.02398899999999' lon='15.198894'>
+    <tag k='alt_name' v='Gaisfeld (Stmk) Gh Fandl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Fandl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3554:0:krot' />
+  </node>
+  <node id='-73883' action='modify' visible='true' lat='47.06515999999999' lon='15.075154999999999'>
+    <tag k='alt_name' v='Köflach Gh Stangl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Stangl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1409:0:sall' />
+  </node>
+  <node id='-73882' action='modify' visible='true' lat='47.029657' lon='15.090909999999997'>
+    <tag k='alt_name' v='Puchbach (Köflach) Rainer Mühle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rainer Mühle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3833:0:edel' />
+  </node>
+  <node id='-73881' action='modify' visible='true' lat='47.066028' lon='15.073186000000002'>
+    <tag k='alt_name' v='Köflach Abzweigung Maria Lankowitz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Maria Lankowitz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:2112:0:koef' />
+  </node>
+  <node id='-73880' action='modify' visible='true' lat='47.052722' lon='15.141728999999998'>
+    <tag k='alt_name' v='Voitsberg Landeskrankenhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Landeskrankenhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1311:0:aus' />
+  </node>
+  <node id='-73879' action='modify' visible='true' lat='47.031999' lon='15.169766999999998'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) Koppn Kapelle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Koppn Kapelle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5:0:voit' />
+  </node>
+  <node id='-73878' action='modify' visible='true' lat='47.046348' lon='15.155031000000001'>
+    <tag k='alt_name' v='Voitsberg Schulzentrum' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schulzentrum' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:481:0:baer' />
+  </node>
+  <node id='-73877' action='modify' visible='true' lat='47.009205' lon='15.215684999999999'>
+    <tag k='alt_name' v='Krottendorf/Ligist Raika' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Raika' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3560:0:ligi' />
+  </node>
+  <node id='-73876' action='modify' visible='true' lat='47.107369999999996' lon='15.051325999999998'>
+    <tag k='alt_name' v='Graden bei Köflach Steinbruch Steirer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinbruch Steirer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1419:0:koef' />
+  </node>
+  <node id='-73875' action='modify' visible='true' lat='47.07045699999999' lon='15.119122'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Karellystraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Karellystraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:491:0:koef' />
+  </node>
+  <node id='-73874' action='modify' visible='true' lat='47.021444' lon='15.050943'>
+    <tag k='alt_name' v='Edelschrott Gasthof Acham' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gasthof Acham' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1440:0:koef' />
+  </node>
+  <node id='-73873' action='modify' visible='true' lat='46.97425700000001' lon='15.284780000000003'>
+    <tag k='alt_name' v='Fluttendorf/Mooskchn Gh Gundolf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Gundolf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1555:0:moos' />
+  </node>
+  <node id='-73872' action='modify' visible='true' lat='47.093728999999996' lon='15.182722999999998'>
+    <tag k='alt_name' v='Södingberg (Bz VO) Roanabrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Roanabrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1376:0:geis' />
+  </node>
+  <node id='-73871' action='modify' visible='true' lat='47.06421799999999' lon='15.085286999999996'>
+    <tag k='alt_name' v='Köflach Sparkasse/Hauptplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sparkasse/Hauptplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1318:0:ein' />
+  </node>
+  <node id='-73870' action='modify' visible='true' lat='47.038647' lon='15.13078'>
+    <tag k='alt_name' v='Kowald Gh Waldseppl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Waldseppl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:13:0:kowa' />
+  </node>
+  <node id='-73869' action='modify' visible='true' lat='47.064125' lon='15.164024'>
+    <tag k='alt_name' v='Lobmingberg Gh Katzler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Katzler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:486:0:voit' />
+  </node>
+  <node id='-73868' action='modify' visible='true' lat='46.99202300000001' lon='15.205527'>
+    <tag k='alt_name' v='Ligist Viehplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Viehplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3565:0:grab' />
+  </node>
+  <node id='-73867' action='modify' visible='true' lat='47.052045' lon='15.082597999999999'>
+    <tag k='alt_name' v='Pichling bei Köflach Cafe Mochart' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cafe Mochart' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1424:0:puba' />
+  </node>
+  <node id='-73866' action='modify' visible='true' lat='47.061455' lon='15.082653'>
+    <tag k='alt_name' v='Köflach Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:498:1:zug' />
+  </node>
+  <node id='-73865' action='modify' visible='true' lat='47.020225' lon='14.957753999999996'>
+    <tag k='alt_name' v='Hirschegg (Stmk) Dorfplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dorfplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1459:0:stam' />
+  </node>
+  <node id='-73864' action='modify' visible='true' lat='46.98238' lon='15.226681999999997'>
+    <tag k='alt_name' v='Ligist Steinberg Abzw Rauchegg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinberg Abzw Rauchegg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3573:0:krot' />
+  </node>
+  <node id='-73863' action='modify' visible='true' lat='47.143461' lon='15.158722'>
+    <tag k='alt_name' v='Geistthal Picksima' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Picksima' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1382:0:stal' />
+  </node>
+  <node id='-73862' action='modify' visible='true' lat='47.155874000000004' lon='15.073393000000001'>
+    <tag k='alt_name' v='Kainach/Voitsberg Gh Neuhäusl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Neuhäusl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:463:0:voit' />
+  </node>
+  <node id='-73861' action='modify' visible='true' lat='46.98486100000001' lon='15.281707'>
+    <tag k='alt_name' v='Mooskirchen Gh Hochstrasser' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Hochstrasser' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1575:0:ssst' />
+  </node>
+  <node id='-73860' action='modify' visible='true' lat='47.041701999999994' lon='15.236769'>
+    <tag k='alt_name' v='Bernau (Stmk) Ehgartner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ehgartner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3533:0:baus' />
+  </node>
+  <node id='-73859' action='modify' visible='true' lat='47.035078999999996' lon='15.252601'>
+    <tag k='alt_name' v='Hausdorf (Stmk) Gradwohl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gradwohl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1336:0:baus' />
+  </node>
+  <node id='-73858' action='modify' visible='true' lat='47.013684' lon='15.094450999999998'>
+    <tag k='alt_name' v='St Martin/Wöllmißbg Sohar' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sohar' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1430:0:stma' />
+  </node>
+  <node id='-73857' action='modify' visible='true' lat='47.02306399999999' lon='15.078606999999998'>
+    <tag k='alt_name' v='Mattlkehre Mattlkehre' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mattlkehre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1464:0:koef' />
+  </node>
+  <node id='-73856' action='modify' visible='true' lat='46.99469299999999' lon='15.212688999999997'>
+    <tag k='alt_name' v='Ligist Abzweigung Grabenwarth' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Grabenwarth' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1393:0:grab' />
+  </node>
+  <node id='-73855' action='modify' visible='true' lat='47.132698999999995' lon='15.099433999999999'>
+    <tag k='alt_name' v='Kohlschwarz Gh Lind' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Lind' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:469:0:voit' />
+  </node>
+  <node id='-73854' action='modify' visible='true' lat='47.01153000000001' lon='15.21803'>
+    <tag k='alt_name' v='Krottendorf/Ligist Rieglersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rieglersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3547:0:klga' />
+  </node>
+  <node id='-73853' action='modify' visible='true' lat='47.021173999999995' lon='15.173883'>
+    <tag k='alt_name' v='Teigitschgraben Goldschmied' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Goldschmied' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3975:0:voit' />
+  </node>
+  <node id='-73852' action='modify' visible='true' lat='47.051905999999995' lon='15.065899'>
+    <tag k='alt_name' v='Puchbach (Köflach) Piberstein Dibon' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Piberstein Dibon' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1405:0:puba' />
+  </node>
+  <node id='-73851' action='modify' visible='true' lat='47.05316899999999' lon='15.218910000000001'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Bauernkammer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bauernkammer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1341:0:bein' />
+  </node>
+  <node id='-73850' action='modify' visible='true' lat='47.021487' lon='15.029357'>
+    <tag k='alt_name' v='Edelschrott Reinthalersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Reinthalersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4359:0:pack' />
+  </node>
+  <node id='-73849' action='modify' visible='true' lat='46.99025199999999' lon='15.101133'>
+    <tag k='alt_name' v='Wöllmiß Vallantkreuz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vallantkreuz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1435:0:edel' />
+  </node>
+  <node id='-73848' action='modify' visible='true' lat='46.977852000000006' lon='14.983723999999999'>
+    <tag k='alt_name' v='Pack Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1474:0:pack' />
+  </node>
+  <node id='-73847' action='modify' visible='true' lat='47.051624999999994' lon='15.106060000000003'>
+    <tag k='alt_name' v='Rosental/Kainach Walter-Kauffhold-Straße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Walter-Kauffhold-Straße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3590:0:voit' />
+  </node>
+  <node id='-73846' action='modify' visible='true' lat='47.03937500000001' lon='15.165382'>
+    <tag k='alt_name' v='Voitsberg Rittlersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rittlersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1306:0:aus' />
+  </node>
+  <node id='-73845' action='modify' visible='true' lat='47.06176299999999' lon='15.064940999999997'>
+    <tag k='alt_name' v='Maria Lankowitz Gemeinde' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeinde' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1401:0:puba' />
+  </node>
+  <node id='-73844' action='modify' visible='true' lat='47.09338100000001' lon='15.120431'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Abzweigung Freisinggraben' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Freisinggraben' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:474:0:kaiv' />
+  </node>
+  <node id='-73843' action='modify' visible='true' lat='46.99747899999999' lon='15.289280999999999'>
+    <tag k='alt_name' v='Söding Schulplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schulplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1588:0:lieb' />
+  </node>
+  <node id='-73842' action='modify' visible='true' lat='47.054464' lon='15.225346000000002'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Abzw Stallhofberg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Stallhofberg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3514:0:re' />
+  </node>
+  <node id='-73841' action='modify' visible='true' lat='47.02545' lon='15.202888'>
+    <tag k='alt_name' v='Kleingaisfeld Fuchsenhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fuchsenhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3553:0:krot' />
+  </node>
+  <node id='-73840' action='modify' visible='true' lat='47.095374' lon='15.058859999999997'>
+    <tag k='alt_name' v='Krenhof Gh Versnjak' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Versnjak' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1412:0:koef' />
+  </node>
+  <node id='-73839' action='modify' visible='true' lat='47.11452500000001' lon='14.929164999999998'>
+    <tag k='alt_name' v='Lederwinkel Abzweigung Wiedneralm' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Wiedneralm' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:2114:0:koef' />
+  </node>
+  <node id='-73838' action='modify' visible='true' lat='47.063811' lon='15.212592999999998'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Aichegg Hubenwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aichegg Hubenwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1373:0:geis' />
+  </node>
+  <node id='-73837' action='modify' visible='true' lat='47.05535' lon='15.114517000000001'>
+    <tag k='alt_name' v='Rosental/Kainach Gemeindeamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeindeamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1314:0:ein' />
+  </node>
+  <node id='-73836' action='modify' visible='true' lat='47.03330199999999' lon='15.072155999999998'>
+    <tag k='alt_name' v='Puchbach (Köflach) Langmann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Langmann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4438:0:pack' />
+  </node>
+  <node id='-73835' action='modify' visible='true' lat='47.03155600000001' lon='15.156369999999999'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) Gh Wagner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Wagner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:10:0:kowa' />
+  </node>
+  <node id='-73834' action='modify' visible='true' lat='47.058546' lon='15.136030999999997'>
+    <tag k='alt_name' v='Voitsberg Friedhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Friedhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:480:0:ein' />
+  </node>
+  <node id='-73833' action='modify' visible='true' lat='47.110417' lon='14.986271'>
+    <tag k='alt_name' v='Salla Wecherbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wecherbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1417:0:sall' />
+  </node>
+  <node id='-73832' action='modify' visible='true' lat='47.076704' lon='15.102692000000003'>
+    <tag k='alt_name' v='Piber bei Köflach Schloss' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schloss' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:494:0:baer' />
+  </node>
+  <node id='-73831' action='modify' visible='true' lat='47.00404900000001' lon='14.993937000000003'>
+    <tag k='alt_name' v='Hirschegg (Stmk) Grabenschmied' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Grabenschmied' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1456:0:stam' />
+  </node>
+  <node id='-73830' action='modify' visible='true' lat='46.960432' lon='15.276155999999999'>
+    <tag k='alt_name' v='Griggling Treitlerwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Treitlerwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1558:0:moos' />
+  </node>
+  <node id='-73829' action='modify' visible='true' lat='47.108067999999996' lon='15.172203'>
+    <tag k='alt_name' v='Södingberg Ort Zettl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Zettl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1379:0:stal' />
+  </node>
+  <node id='-73828' action='modify' visible='true' lat='47.036013999999994' lon='15.176284000000003'>
+    <tag k='alt_name' v='Krems in Steiermark Gh Töscher' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Töscher' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1506:0:ein' />
+  </node>
+  <node id='-73827' action='modify' visible='true' lat='47.04279799999999' lon='15.131173000000002'>
+    <tag k='alt_name' v='Kowald Bienengasse' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bienengasse' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:15:0:voit' />
+  </node>
+  <node id='-73826' action='modify' visible='true' lat='46.98803699999999' lon='15.207267999999997'>
+    <tag k='alt_name' v='Ligist Hochstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hochstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3568:0:krot' />
+  </node>
+  <node id='-73825' action='modify' visible='true' lat='47.037596' lon='15.088935999999997'>
+    <tag k='alt_name' v='Pichling bei Köflach Ungerhofer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ungerhofer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1427:0:koef' />
+  </node>
+  <node id='-73824' action='modify' visible='true' lat='46.994743' lon='15.298025'>
+    <tag k='alt_name' v='Söding Packer Straße 6' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Packer Straße 6' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4406:0:aus' />
+  </node>
+  <node id='-73823' action='modify' visible='true' lat='47.043706' lon='15.064568000000001'>
+    <tag k='alt_name' v='Pichling bei Köflach Braungasse' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Braungasse' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1461:0:koef' />
+  </node>
+  <node id='-73822' action='modify' visible='true' lat='46.987592' lon='15.228019999999999'>
+    <tag k='alt_name' v='Grabenwarth Abzw Hallersdorf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Hallersdorf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3575:0:stai' />
+  </node>
+  <node id='-73821' action='modify' visible='true' lat='47.166424000000006' lon='15.167393999999998'>
+    <tag k='alt_name' v='Geistthal Gh Linde' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Linde' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1384:0:geis' />
+  </node>
+  <node id='-73820' action='modify' visible='true' lat='47.05524' lon='15.130419'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:461:2:kaiv' />
+  </node>
+  <node id='-73819' action='modify' visible='true' lat='46.985706' lon='15.283583000000002'>
+    <tag k='alt_name' v='Mooskirchen Schule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1574:0:lann' />
+  </node>
+  <node id='-73818' action='modify' visible='true' lat='47.04026700000001' lon='15.232588000000002'>
+    <tag k='alt_name' v='Bernau (Stmk) Abzweigung St Bartholomä' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung St Bartholomä' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1338:0:bein' />
+  </node>
+  <node id='-73817' action='modify' visible='true' lat='47.00919700000001' lon='15.107929'>
+    <tag k='alt_name' v='St Martin/Wöllmißbg Abzweigung Kleinwöllmiß' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Kleinwöllmiß' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1432:0:edel' />
+  </node>
+  <node id='-73816' action='modify' visible='true' lat='47.07865199999999' lon='15.070227999999998'>
+    <tag k='alt_name' v='Gradenberg Sensenwerk' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sensenwerk' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4413:0:koef' />
+  </node>
+  <node id='-73815' action='modify' visible='true' lat='47.02387699999999' lon='15.053001999999996'>
+    <tag k='alt_name' v='Edelschrott Feuerwehrhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Feuerwehrhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1467:0:pack' />
+  </node>
+  <node id='-73814' action='modify' visible='true' lat='46.999903' lon='15.289825999999998'>
+    <tag k='alt_name' v='Söding Gh Zimmermann/Postamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Zimmermann/Postamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1299:0:aus' />
+  </node>
+  <node id='-73813' action='modify' visible='true' lat='47.00167600000001' lon='15.212963'>
+    <tag k='alt_name' v='Ligist Kapelle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kapelle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1390:0:ligi' />
+  </node>
+  <node id='-73812' action='modify' visible='true' lat='47.11623900000001' lon='15.113822'>
+    <tag k='alt_name' v='Kohlschwarz Gallaun' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gallaun' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:471:0:kaiv' />
+  </node>
+  <node id='-73811' action='modify' visible='true' lat='47.047959' lon='15.227085999999998'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Guasen' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Guasen' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3511:0:re' />
+  </node>
+  <node id='-73810' action='modify' visible='true' lat='47.026039' lon='15.215187999999998'>
+    <tag k='alt_name' v='Kleingaisfeld Zimmermannstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Zimmermannstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3550:0:krot' />
+  </node>
+  <node id='-73809' action='modify' visible='true' lat='47.065071' lon='15.075288999999998'>
+    <tag k='alt_name' v='Köflach Gh Stangl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Stangl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1409:0:koef' />
+  </node>
+  <node id='-73808' action='modify' visible='true' lat='47.047519' lon='15.184339000000001'>
+    <tag k='alt_name' v='Lobming (Voitsberg) Tonipeter' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tonipeter' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1344:0:baus' />
+  </node>
+  <node id='-73807' action='modify' visible='true' lat='46.998009' lon='15.006684'>
+    <tag k='alt_name' v='Pack Oberländer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oberländer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1472:0:koef' />
+  </node>
+  <node id='-73806' action='modify' visible='true' lat='47.008061' lon='15.252977000000003'>
+    <tag k='alt_name' v='Köppling Huber' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Huber' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7704:0:aus' />
+  </node>
+  <node id='-73805' action='modify' visible='true' lat='47.059255' lon='15.082164999999998'>
+    <tag k='alt_name' v='Pichling bei Köflach Kollmann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kollmann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3592:0:koef' />
+  </node>
+  <node id='-73804' action='modify' visible='true' lat='47.00983000000001' lon='15.214317999999999'>
+    <tag k='alt_name' v='Krottendorf/Ligist Krottendorf-Ligist Bahnhof' />
+    <tag k='name' v='Krottendorf-Ligist Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:1282:1:zug' />
+  </node>
+  <node id='-73803' action='modify' visible='true' lat='47.021942' lon='15.198371000000002'>
+    <tag k='alt_name' v='Gaisfeld (Stmk) Trafik' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trafik' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1305:0:ein' />
+  </node>
+  <node id='-73802' action='modify' visible='true' lat='47.07792200000001' lon='15.125839'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Fasangasse' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fasangasse' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:477:0:voit' />
+  </node>
+  <node id='-73801' action='modify' visible='true' lat='47.02003400000001' lon='15.199121999999997'>
+    <tag k='alt_name' v='Gaisfeld (Stmk) Kapelle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kapelle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3555:0:klga' />
+  </node>
+  <node id='-73800' action='modify' visible='true' lat='47.097385' lon='15.021231000000002'>
+    <tag k='alt_name' v='Graden bei Köflach Brückenwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brückenwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1414:0:sall' />
+  </node>
+  <node id='-73799' action='modify' visible='true' lat='47.049778999999994' lon='15.054974000000001'>
+    <tag k='alt_name' v='Puchbach (Köflach) Kolonie' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kolonie' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3598:0:puba' />
+  </node>
+  <node id='-73798' action='modify' visible='true' lat='47.062437' lon='15.089356999999998'>
+    <tag k='alt_name' v='Köflach Winkelbauer/Unterführung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Winkelbauer/Unterführung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1316:0:bein' />
+  </node>
+  <node id='-73797' action='modify' visible='true' lat='47.026616' lon='15.170252000000001'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) ehemaliges Gemeindeamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ehemaliges Gemeindeamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8:0:voit' />
+  </node>
+  <node id='-73796' action='modify' visible='true' lat='47.044087999999995' lon='15.149567000000001'>
+    <tag k='alt_name' v='Voitsberg Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:482:2:lieb' />
+  </node>
+  <node id='-73795' action='modify' visible='true' lat='47.00853899999999' lon='15.214818000000001'>
+    <tag k='alt_name' v='Krottendorf/Ligist Bahnwärterhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnwärterhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3561:0:ligi' />
+  </node>
+  <node id='-73794' action='modify' visible='true' lat='47.113518' lon='15.046935999999999'>
+    <tag k='alt_name' v='Graden bei Köflach Gradnerstraße Säule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gradnerstraße Säule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1420:0:koef' />
+  </node>
+  <node id='-73793' action='modify' visible='true' lat='47.075153' lon='15.112405'>
+    <tag k='alt_name' v='Piber bei Köflach Hagen Knobelbergsiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hagen Knobelbergsiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:492:0:koef' />
+  </node>
+  <node id='-73792' action='modify' visible='true' lat='47.000296' lon='15.014595'>
+    <tag k='alt_name' v='Stampf (Stmk) Stampf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stampf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1447:0:koef' />
+  </node>
+  <node id='-73791' action='modify' visible='true' lat='46.97773599999999' lon='15.222769999999999'>
+    <tag k='alt_name' v='Ligist Steinberg Kern' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinberg Kern' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3572:0:grab' />
+  </node>
+  <node id='-73790' action='modify' visible='true' lat='47.133392' lon='15.159221'>
+    <tag k='alt_name' v='Geistthal Kobererbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kobererbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1381:0:geis' />
+  </node>
+  <node id='-73789' action='modify' visible='true' lat='47.070221' lon='15.128291000000003'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Hauptplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hauptplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:459:1:voit' />
+  </node>
+  <node id='-73788' action='modify' visible='true' lat='46.977413' lon='15.214483'>
+    <tag k='alt_name' v='Ligist Schober' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schober' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3570:0:grab' />
+  </node>
+  <node id='-73787' action='modify' visible='true' lat='47.046266' lon='15.086338999999999'>
+    <tag k='alt_name' v='Pichling bei Köflach Neuer Weg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Neuer Weg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1425:0:puba' />
+  </node>
+  <node id='-73786' action='modify' visible='true' lat='47.023165999999996' lon='15.078867000000002'>
+    <tag k='alt_name' v='Mattlkehre Mattlkehre' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mattlkehre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1464:0:pack' />
+  </node>
+  <node id='-73785' action='modify' visible='true' lat='46.997125' lon='15.221327999999998'>
+    <tag k='alt_name' v='Dietenberg Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3578:0:ligi' />
+  </node>
+  <node id='-73784' action='modify' visible='true' lat='47.021619' lon='15.176938000000002'>
+    <tag k='alt_name' v='Gaisfeld (Stmk) Gh Moitzi' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Moitzi' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1387:0:voit' />
+  </node>
+  <node id='-73783' action='modify' visible='true' lat='47.15496900000001' lon='15.083594'>
+    <tag k='alt_name' v='Kainach/Voitsberg Brücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:464:0:voit' />
+  </node>
+  <node id='-73782' action='modify' visible='true' lat='47.037917' lon='15.240715'>
+    <tag k='alt_name' v='Bernau (Stmk) Gh Dirnberger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Dirnberger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1337:0:baus' />
+  </node>
+  <node id='-73781' action='modify' visible='true' lat='46.99015599999999' lon='15.101450999999999'>
+    <tag k='alt_name' v='Wöllmiß Vallantkreuz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vallantkreuz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1435:0:stma' />
+  </node>
+  <node id='-73780' action='modify' visible='true' lat='47.02149' lon='15.023293'>
+    <tag k='alt_name' v='Wartingerschmiede Wartingerschmiede' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wartingerschmiede' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1469:0:koef' />
+  </node>
+  <node id='-73779' action='modify' visible='true' lat='47.054364' lon='15.084083'>
+    <tag k='alt_name' v='Pichling bei Köflach Pfundnerweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pfundnerweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3585:0:puba' />
+  </node>
+  <node id='-73778' action='modify' visible='true' lat='47.008947000000006' lon='15.244872000000003'>
+    <tag k='alt_name' v='Köppling Gh Holzer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Holzer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1302:0:ein' />
+  </node>
+  <node id='-73777' action='modify' visible='true' lat='47.06583500000001' lon='15.086670999999997'>
+    <tag k='alt_name' v='Köflach Friedhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Friedhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1396:0:graz' />
+  </node>
+  <node id='-73776' action='modify' visible='true' lat='47.126580999999995' lon='15.10436'>
+    <tag k='alt_name' v='Kohlschwarz Gurzn' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gurzn' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:470:0:voit' />
+  </node>
+  <node id='-73775' action='modify' visible='true' lat='47.037452' lon='15.246698000000002'>
+    <tag k='alt_name' v='Bernau (Stmk) Abzw Kalchberg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Kalchberg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3510:0:baus' />
+  </node>
+  <node id='-73774' action='modify' visible='true' lat='47.027603000000006' lon='15.205959999999996'>
+    <tag k='alt_name' v='Kleingaisfeld Fuchssiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fuchssiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3552:0:klga' />
+  </node>
+  <node id='-73773' action='modify' visible='true' lat='47.022966' lon='15.167859000000002'>
+    <tag k='alt_name' v='Teigitschgraben Gh Wiesenpeter' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Wiesenpeter' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3976:0:voit' />
+  </node>
+  <node id='-73772' action='modify' visible='true' lat='47.049238' lon='15.071069000000001'>
+    <tag k='alt_name' v='Pichling bei Köflach Kremser' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kremser' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1406:0:koef' />
+  </node>
+  <node id='-73771' action='modify' visible='true' lat='47.036773' lon='15.176636000000002'>
+    <tag k='alt_name' v='Krems in Steiermark Gh Pock' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Pock' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1346:0:aus' />
+  </node>
+  <node id='-73770' action='modify' visible='true' lat='47.047892999999995' lon='15.24363'>
+    <tag k='alt_name' v='Kalchberg (Stmk) Abzweigung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1369:0:baus' />
+  </node>
+  <node id='-73769' action='modify' visible='true' lat='46.96589199999999' lon='14.978033000000002'>
+    <tag k='alt_name' v='Pack Landesgrenze' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Landesgrenze' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1475:0:pack' />
+  </node>
+  <node id='-73768' action='modify' visible='true' lat='47.057821000000004' lon='15.085094999999999'>
+    <tag k='alt_name' v='Pichling bei Köflach Konsum' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Konsum' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3591:0:voit' />
+  </node>
+  <node id='-73767' action='modify' visible='true' lat='47.043922' lon='15.160585'>
+    <tag k='alt_name' v='Voitsberg Vorstadtgasse' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Vorstadtgasse' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1307:0:aus' />
+  </node>
+  <node id='-73766' action='modify' visible='true' lat='47.048944' lon='15.151249000000002'>
+    <tag k='alt_name' v='Voitsberg Hauptplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hauptplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:2:2:aus' />
+  </node>
+  <node id='-73765' action='modify' visible='true' lat='47.07060299999999' lon='15.131243999999999'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Oberglas Kantine' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oberglas Kantine' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:479:0:koef' />
+  </node>
+  <node id='-73764' action='modify' visible='true' lat='47.01137000000001' lon='15.209971999999999'>
+    <tag k='alt_name' v='Krottendorf/Ligist Trichitsch' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trichitsch' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3558:0:ligi' />
+  </node>
+  <node id='-73763' action='modify' visible='true' lat='47.11037700000001' lon='14.986628000000001'>
+    <tag k='alt_name' v='Salla Wecherbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wecherbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1417:0:koef' />
+  </node>
+  <node id='-73762' action='modify' visible='true' lat='47.012226999999996' lon='15.064921000000002'>
+    <tag k='alt_name' v='Wöllmiß Hubenbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hubenbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1438:0:edel' />
+  </node>
+  <node id='-73761' action='modify' visible='true' lat='46.965430000000005' lon='15.30825'>
+    <tag k='alt_name' v='Gießenberg Abzweigung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1553:0:moos' />
+  </node>
+  <node id='-73760' action='modify' visible='true' lat='47.04814600000001' lon='15.071555000000002'>
+    <tag k='alt_name' v='Pichling bei Köflach Alois-Geißler Straße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Alois-Geißler Straße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4369:0:puba' />
+  </node>
+  <node id='-73759' action='modify' visible='true' lat='47.107469' lon='14.917243000000001'>
+    <tag k='alt_name' v='Gaberl Gaberlhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gaberlhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:2115:0:koef' />
+  </node>
+  <node id='-73758' action='modify' visible='true' lat='47.07465499999999' lon='15.203017000000001'>
+    <tag k='alt_name' v='Södingberg (Bz VO) Mühlhuber' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Mühlhuber' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1374:0:geis' />
+  </node>
+  <node id='-73757' action='modify' visible='true' lat='47.062654' lon='15.102818999999998'>
+    <tag k='alt_name' v='Köflach Karlschacht' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Karlschacht' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1315:0:ein' />
+  </node>
+  <node id='-73756' action='modify' visible='true' lat='47.033164' lon='15.149269999999998'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) Ahornweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ahornweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:11:0:kowa' />
+  </node>
+  <node id='-73755' action='modify' visible='true' lat='47.062802999999995' lon='15.157957999999999'>
+    <tag k='alt_name' v='Tregist Hausmann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hausmann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:484:0:voit' />
+  </node>
+  <node id='-73754' action='modify' visible='true' lat='46.993708' lon='15.208594'>
+    <tag k='alt_name' v='Ligist Hauptplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hauptplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3563:0:grab' />
+  </node>
+  <node id='-73753' action='modify' visible='true' lat='46.991089' lon='14.992592000000002'>
+    <tag k='alt_name' v='Pack Schadenbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schadenbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4059:0:koef' />
+  </node>
+  <node id='-73752' action='modify' visible='true' lat='47.13186799999999' lon='15.034168'>
+    <tag k='alt_name' v='Graden bei Köflach Dorfplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dorfplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1422:0:sall' />
+  </node>
+  <node id='-73751' action='modify' visible='true' lat='47.070417' lon='15.093608'>
+    <tag k='alt_name' v='Köflach Kreuzberg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreuzberg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:496:0:pieb' />
+  </node>
+  <node id='-73750' action='modify' visible='true' lat='47.012220000000006' lon='14.984276'>
+    <tag k='alt_name' v='Hirschegg (Stmk) Wegmacher' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wegmacher' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1457:0:stam' />
+  </node>
+  <node id='-73749' action='modify' visible='true' lat='46.974751' lon='15.220978999999998'>
+    <tag k='alt_name' v='Ligist Steinberg Holzer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinberg Holzer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3571:0:krot' />
+  </node>
+  <node id='-73748' action='modify' visible='true' lat='47.005861' lon='15.305975'>
+    <tag k='alt_name' v='Stein/Attendorf Küberlweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Küberlweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4376:0:hitz' />
+  </node>
+  <node id='-73747' action='modify' visible='true' lat='47.122814' lon='15.162762'>
+    <tag k='alt_name' v='Geistthal Schöberl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schöberl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1380:0:stal' />
+  </node>
+  <node id='-73746' action='modify' visible='true' lat='47.05532800000001' lon='15.130324999999996'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:461:2:voit' />
+  </node>
+  <node id='-73745' action='modify' visible='true' lat='47.046581999999994' lon='15.136049'>
+    <tag k='alt_name' v='Kowald Ziegelwerk' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ziegelwerk' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:16:0:voit' />
+  </node>
+  <node id='-73744' action='modify' visible='true' lat='46.981442' lon='15.210719000000001'>
+    <tag k='alt_name' v='Ligist Abzweigung Mitteregg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Mitteregg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3569:0:krot' />
+  </node>
+  <node id='-73743' action='modify' visible='true' lat='47.03411400000002' lon='15.089622'>
+    <tag k='alt_name' v='Pichling bei Köflach Gh Scherz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Scherz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1428:0:koef' />
+  </node>
+  <node id='-73742' action='modify' visible='true' lat='47.03538999999999' lon='15.064988999999999'>
+    <tag k='alt_name' v='Puchbach (Köflach) Gh Lustiger Bauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Lustiger Bauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1462:0:koef' />
+  </node>
+  <node id='-73741' action='modify' visible='true' lat='47.004763' lon='15.213173999999999'>
+    <tag k='alt_name' v='Krottendorf/Ligist Gh Haas' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Haas' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1389:0:krot' />
+  </node>
+  <node id='-73740' action='modify' visible='true' lat='47.149113' lon='15.092579'>
+    <tag k='alt_name' v='Kainach/Voitsberg Gh Rößl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Rößl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:467:0:voit' />
+  </node>
+  <node id='-73739' action='modify' visible='true' lat='46.997295' lon='15.294819999999996'>
+    <tag k='alt_name' v='Söding Steinstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3507:0:ein' />
+  </node>
+  <node id='-73738' action='modify' visible='true' lat='47.044960999999994' lon='15.226858999999997'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Kollegger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kollegger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1339:0:bein' />
+  </node>
+  <node id='-73737' action='modify' visible='true' lat='47.00046700000001' lon='15.111693'>
+    <tag k='alt_name' v='St Martin/Wöllmißbg Abzweigung Großwöllmiß' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Großwöllmiß' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1433:0:edel' />
+  </node>
+  <node id='-73736' action='modify' visible='true' lat='46.998152000000005' lon='15.006574999999998'>
+    <tag k='alt_name' v='Pack Oberländer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Oberländer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1472:0:pack' />
+  </node>
+  <node id='-73735' action='modify' visible='true' lat='47.057874' lon='15.094992'>
+    <tag k='alt_name' v='Pichling bei Köflach Gh Binderwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Binderwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3588:0:voit' />
+  </node>
+  <node id='-73734' action='modify' visible='true' lat='47.01195100000001' lon='15.214115000000001'>
+    <tag k='alt_name' v='Krottendorf/Ligist Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1304:1:aus' />
+  </node>
+  <node id='-73733' action='modify' visible='true' lat='47.002494' lon='15.01959'>
+    <tag k='alt_name' v='Edelsch Packerstraße Schmolli' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schmolli' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4430:0:koef' />
+  </node>
+  <node id='-73732' action='modify' visible='true' lat='47.04433199999999' lon='15.074804000000002'>
+    <tag k='alt_name' v='Pichling bei Köflach Neubaugasse' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Neubaugasse' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1399:0:koef' />
+  </node>
+  <node id='-73731' action='modify' visible='true' lat='47.10899800000001' lon='15.120548999999999'>
+    <tag k='alt_name' v='Afling bei Bärnbach Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:472:0:kaiv' />
+  </node>
+  <node id='-73730' action='modify' visible='true' lat='46.972716' lon='15.293365000000001'>
+    <tag k='alt_name' v='Fluttendorf/Mooskchn Abzweigung Ungerbach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Ungerbach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1586:0:moos' />
+  </node>
+  <node id='-73729' action='modify' visible='true' lat='47.051072000000005' lon='15.228996'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Prettenthaler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Prettenthaler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3512:0:re' />
+  </node>
+  <node id='-73728' action='modify' visible='true' lat='47.027808' lon='15.211270000000003'>
+    <tag k='alt_name' v='Kleingaisfeld Lukasgraben' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lukasgraben' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3551:0:klga' />
+  </node>
+  <node id='-73727' action='modify' visible='true' lat='47.073443999999995' lon='15.069417'>
+    <tag k='alt_name' v='Gradenberg Felsenkeller' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Felsenkeller' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1410:0:koef' />
+  </node>
+  <node id='-73726' action='modify' visible='true' lat='47.10997699999999' lon='14.945702000000002'>
+    <tag k='alt_name' v='Lederwinkel Puffing' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Puffing' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:2913:0:gab' />
+  </node>
+  <node id='-73725' action='modify' visible='true' lat='47.041501999999994' lon='15.179099000000004'>
+    <tag k='alt_name' v='Lobming (Voitsberg) Müllerferli' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Müllerferli' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1345:0:baus' />
+  </node>
+  <node id='-73724' action='modify' visible='true' lat='47.06605799999999' lon='15.073382999999996'>
+    <tag k='alt_name' v='Köflach Abzweigung Maria Lankowitz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Maria Lankowitz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:2112:0:sall' />
+  </node>
+  <node id='-73723' action='modify' visible='true' lat='47.052814999999995' lon='15.121470999999998'>
+    <tag k='alt_name' v='Rosental/Kainach Schule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1312:0:ein' />
+  </node>
+  <node id='-73722' action='modify' visible='true' lat='47.026618' lon='15.170476'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) ehemaliges Gemeindeamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ehemaliges Gemeindeamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:8:0:kowa' />
+  </node>
+  <node id='-73721' action='modify' visible='true' lat='47.073404' lon='15.12731'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Café Molinari' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Café Molinari' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:478:0:voit' />
+  </node>
+  <node id='-73720' action='modify' visible='true' lat='47.00916899999999' lon='15.215738000000002'>
+    <tag k='alt_name' v='Krottendorf/Ligist Raika' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Raika' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3560:0:krot' />
+  </node>
+  <node id='-73719' action='modify' visible='true' lat='47.10428199999999' lon='15.012365999999998'>
+    <tag k='alt_name' v='Graden bei Köflach Brandtwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brandtwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1415:0:sall' />
+  </node>
+  <node id='-73718' action='modify' visible='true' lat='47.07499' lon='15.11237'>
+    <tag k='alt_name' v='Piber bei Köflach Hagen Knobelbergsiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hagen Knobelbergsiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:492:0:baer' />
+  </node>
+  <node id='-73717' action='modify' visible='true' lat='47.00052099999999' lon='15.014628999999998'>
+    <tag k='alt_name' v='Stampf (Stmk) Stampf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stampf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1447:0:pack' />
+  </node>
+  <node id='-73716' action='modify' visible='true' lat='47.10047999999999' lon='15.176938999999999'>
+    <tag k='alt_name' v='Södingberg (Bz VO) Ambrosbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ambrosbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1377:0:stal' />
+  </node>
+  <node id='-73715' action='modify' visible='true' lat='47.059559' lon='15.061611000000001'>
+    <tag k='alt_name' v='Puchbach (Köflach) Golfanlage Piberstein' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Golfanlage Piberstein' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3599:0:puba' />
+  </node>
+  <node id='-73714' action='modify' visible='true' lat='47.06436' lon='15.085073'>
+    <tag k='alt_name' v='Köflach Sparkasse/Hauptplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sparkasse/Hauptplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1318:0:aus' />
+  </node>
+  <node id='-73713' action='modify' visible='true' lat='47.03857000000001' lon='15.131097'>
+    <tag k='alt_name' v='Kowald Gh Waldseppl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Waldseppl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:13:0:voit' />
+  </node>
+  <node id='-73712' action='modify' visible='true' lat='47.073719999999994' lon='15.167263'>
+    <tag k='alt_name' v='Lobmingberg Gh Schneiderwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Schneiderwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:487:0:lobm' />
+  </node>
+  <node id='-73711' action='modify' visible='true' lat='46.989215' lon='15.204455999999999'>
+    <tag k='alt_name' v='Ligist Nr. 131' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nr. 131' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3566:0:krot' />
+  </node>
+  <node id='-73710' action='modify' visible='true' lat='47.046131' lon='15.086328999999997'>
+    <tag k='alt_name' v='Pichling bei Köflach Neuer Weg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Neuer Weg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1425:0:koef' />
+  </node>
+  <node id='-73709' action='modify' visible='true' lat='47.061527' lon='15.081848999999998'>
+    <tag k='alt_name' v='Köflach Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:498:2:pack' />
+  </node>
+  <node id='-73708' action='modify' visible='true' lat='47.020197' lon='14.957676000000001'>
+    <tag k='alt_name' v='Hirschegg (Stmk) Dorfplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dorfplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1459:0:hirs' />
+  </node>
+  <node id='-73707' action='modify' visible='true' lat='46.98243200000001' lon='15.226443999999997'>
+    <tag k='alt_name' v='Ligist Steinberg Abzw Rauchegg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinberg Abzw Rauchegg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3573:0:grab' />
+  </node>
+  <node id='-73706' action='modify' visible='true' lat='46.9826' lon='15.285247'>
+    <tag k='alt_name' v='Mooskirchen Tanzer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tanzer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4708:0:lieb' />
+  </node>
+  <node id='-73705' action='modify' visible='true' lat='47.143436' lon='15.15888'>
+    <tag k='alt_name' v='Geistthal Picksima' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Picksima' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1382:0:geis' />
+  </node>
+  <node id='-73704' action='modify' visible='true' lat='47.070221' lon='15.127473999999996'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Hauptplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hauptplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:459:1:koef' />
+  </node>
+  <node id='-73703' action='modify' visible='true' lat='47.041674' lon='15.236691'>
+    <tag k='alt_name' v='Bernau (Stmk) Ehgartner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ehgartner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3533:0:bein' />
+  </node>
+  <node id='-73702' action='modify' visible='true' lat='47.03505' lon='15.252391'>
+    <tag k='alt_name' v='Hausdorf (Stmk) Gradwohl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gradwohl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1336:0:bein' />
+  </node>
+  <node id='-73701' action='modify' visible='true' lat='47.013548' lon='15.094323000000001'>
+    <tag k='alt_name' v='St Martin/Wöllmißbg Sohar' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sohar' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1430:0:koef' />
+  </node>
+  <node id='-73700' action='modify' visible='true' lat='47.04643200000001' lon='15.075228'>
+    <tag k='alt_name' v='Pichling bei Köflach Gh Wiedner / Paganal' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Wiedner / Paganal' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4411:0:koef' />
+  </node>
+  <node id='-73699' action='modify' visible='true' lat='47.026621' lon='15.06671'>
+    <tag k='alt_name' v='Edelschrott Kraxner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kraxner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1465:0:pack' />
+  </node>
+  <node id='-73698' action='modify' visible='true' lat='47.061963999999996' lon='15.077362999999998'>
+    <tag k='alt_name' v='Köflach Alleestraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Alleestraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3579:0:smar' />
+  </node>
+  <node id='-73697' action='modify' visible='true' lat='47.023151' lon='15.163040000000002'>
+    <tag k='alt_name' v='Teigitschgraben Brücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1388:0:voit' />
+  </node>
+  <node id='-73696' action='modify' visible='true' lat='47.13295099999999' lon='15.099454000000003'>
+    <tag k='alt_name' v='Kohlschwarz Gh Lind' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Lind' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:469:0:kaiv' />
+  </node>
+  <node id='-73695' action='modify' visible='true' lat='47.068008' lon='15.132579999999999'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Decelak' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Decelak' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3130:0:voit' />
+  </node>
+  <node id='-73694' action='modify' visible='true' lat='47.014924' lon='15.222891000000002'>
+    <tag k='alt_name' v='Kleingaisfeld Schalk' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schalk' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3548:0:krot' />
+  </node>
+  <node id='-73693' action='modify' visible='true' lat='47.020964' lon='15.173572'>
+    <tag k='alt_name' v='Teigitschgraben Goldschmied' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Goldschmied' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3975:0:teig' />
+  </node>
+  <node id='-73692' action='modify' visible='true' lat='47.051680999999995' lon='15.065852'>
+    <tag k='alt_name' v='Puchbach (Köflach) Piberstein Dibon' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Piberstein Dibon' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1405:0:koef' />
+  </node>
+  <node id='-73691' action='modify' visible='true' lat='47.05451' lon='15.205285999999997'>
+    <tag k='alt_name' v='Ruppbauernhöhe Großkalcher' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Großkalcher' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1342:0:baus' />
+  </node>
+  <node id='-73690' action='modify' visible='true' lat='47.021390999999994' lon='15.029609000000002'>
+    <tag k='alt_name' v='Edelschrott Reinthalersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Reinthalersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4359:0:koef' />
+  </node>
+  <node id='-73689' action='modify' visible='true' lat='46.997228' lon='15.087535'>
+    <tag k='alt_name' v='Wöllmiß Abzweigung Hirzmannsperre' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Hirzmannsperre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1436:0:stma' />
+  </node>
+  <node id='-73688' action='modify' visible='true' lat='47.010537' lon='15.022786'>
+    <tag k='alt_name' v='Edelsch Packerstraße Wegmacherhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wegmacherhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1470:0:koef' />
+  </node>
+  <node id='-73687' action='modify' visible='true' lat='47.051653' lon='15.106126000000001'>
+    <tag k='alt_name' v='Rosental/Kainach Walter-Kauffhold-Straße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Walter-Kauffhold-Straße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3590:0:koef' />
+  </node>
+  <node id='-73686' action='modify' visible='true' lat='47.00707299999999' lon='15.230563'>
+    <tag k='alt_name' v='St Johann ob Hohenbg Raika' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Raika' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1303:0:ein' />
+  </node>
+  <node id='-73685' action='modify' visible='true' lat='47.06170199999999' lon='15.065101'>
+    <tag k='alt_name' v='Maria Lankowitz Gemeinde' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeinde' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1401:0:koef' />
+  </node>
+  <node id='-73684' action='modify' visible='true' lat='47.088457' lon='15.122636999999997'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Föhrenstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Föhrenstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:475:0:voit' />
+  </node>
+  <node id='-73683' action='modify' visible='true' lat='46.997432999999994' lon='15.289190000000001'>
+    <tag k='alt_name' v='Söding Schulplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schulplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1588:0:moos' />
+  </node>
+  <node id='-73682' action='modify' visible='true' lat='47.053876' lon='15.221344'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Guggimühle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Guggimühle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3515:0:li' />
+  </node>
+  <node id='-73681' action='modify' visible='true' lat='47.025378999999994' lon='15.202954999999998'>
+    <tag k='alt_name' v='Kleingaisfeld Fuchsenhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fuchsenhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3553:0:klga' />
+  </node>
+  <node id='-73680' action='modify' visible='true' lat='47.095652' lon='15.058839999999998'>
+    <tag k='alt_name' v='Krenhof Gh Versnjak' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Versnjak' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1412:0:sall' />
+  </node>
+  <node id='-73679' action='modify' visible='true' lat='47.10753' lon='14.917044000000004'>
+    <tag k='alt_name' v='Gaberl Gaberlhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gaberlhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:2115:0:gab' />
+  </node>
+  <node id='-73678' action='modify' visible='true' lat='47.054438' lon='15.058981999999999'>
+    <tag k='alt_name' v='Puchbach (Köflach) Piberstein Sportpark' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Piberstein Sportpark' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3596:0:puba' />
+  </node>
+  <node id='-73677' action='modify' visible='true' lat='47.05522599999999' lon='15.115573'>
+    <tag k='alt_name' v='Rosental/Kainach Gemeindeamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeindeamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1314:0:aus' />
+  </node>
+  <node id='-73676' action='modify' visible='true' lat='47.033061000000004' lon='15.072359'>
+    <tag k='alt_name' v='Puchbach (Köflach) Langmann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Langmann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4438:0:koef' />
+  </node>
+  <node id='-73675' action='modify' visible='true' lat='47.040221' lon='15.154021000000002'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) Gustibar' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gustibar' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4:0:voit' />
+  </node>
+  <node id='-73674' action='modify' visible='true' lat='47.058927999999995' lon='15.135600999999998'>
+    <tag k='alt_name' v='Voitsberg Friedhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Friedhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:480:0:aus' />
+  </node>
+  <node id='-73673' action='modify' visible='true' lat='47.008247' lon='15.211602000000001'>
+    <tag k='alt_name' v='Krottendorf/Ligist Schulweg Abzw' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schulweg Abzw' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3559:0:ligi' />
+  </node>
+  <node id='-73672' action='modify' visible='true' lat='47.108388999999995' lon='14.972976'>
+    <tag k='alt_name' v='Salla Postamt/Gh Zach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Postamt/Gh Zach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1418:0:koef' />
+  </node>
+  <node id='-73671' action='modify' visible='true' lat='47.073510000000006' lon='15.167018'>
+    <tag k='alt_name' v='Lobmingberg Gh Schneiderwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Schneiderwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:487:0:voit' />
+  </node>
+  <node id='-73670' action='modify' visible='true' lat='47.016102' lon='15.057528999999999'>
+    <tag k='alt_name' v='Edelschrott Lukasedersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lukasedersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1439:0:edel' />
+  </node>
+  <node id='-73669' action='modify' visible='true' lat='46.960289' lon='15.276197999999999'>
+    <tag k='alt_name' v='Griggling Treitlerwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Treitlerwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1558:0:ssst' />
+  </node>
+  <node id='-73668' action='modify' visible='true' lat='47.04021600000001' lon='15.082546000000002'>
+    <tag k='alt_name' v='Pichling bei Köflach Gewerbepark' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gewerbepark' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4370:0:puba' />
+  </node>
+  <node id='-73667' action='modify' visible='true' lat='47.10808900000001' lon='15.172465999999998'>
+    <tag k='alt_name' v='Södingberg Ort Zettl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Zettl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1379:0:geis' />
+  </node>
+  <node id='-73666' action='modify' visible='true' lat='47.036027' lon='15.176731'>
+    <tag k='alt_name' v='Krems in Steiermark Gh Töscher' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Töscher' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1506:0:aus' />
+  </node>
+  <node id='-73665' action='modify' visible='true' lat='47.046715' lon='15.135808999999998'>
+    <tag k='alt_name' v='Kowald Ziegelwerk' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ziegelwerk' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:16:0:kowa' />
+  </node>
+  <node id='-73664' action='modify' visible='true' lat='47.073708' lon='15.159099999999999'>
+    <tag k='alt_name' v='Tregist Schule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:485:0:voit' />
+  </node>
+  <node id='-73663' action='modify' visible='true' lat='46.987983' lon='15.207256000000001'>
+    <tag k='alt_name' v='Ligist Hochstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hochstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3568:0:grab' />
+  </node>
+  <node id='-73662' action='modify' visible='true' lat='47.053416999999996' lon='15.080551999999999'>
+    <tag k='alt_name' v='Pichling bei Köflach Gh Edler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Edler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1423:0:koef' />
+  </node>
+  <node id='-73661' action='modify' visible='true' lat='47.035564' lon='15.065248'>
+    <tag k='alt_name' v='Puchbach (Köflach) Gh Lustiger Bauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Lustiger Bauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1462:0:pack' />
+  </node>
+  <node id='-73660' action='modify' visible='true' lat='46.989073' lon='15.222073999999996'>
+    <tag k='alt_name' v='Grabenwarth Trafo' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trafo' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3576:0:ligi' />
+  </node>
+  <node id='-73659' action='modify' visible='true' lat='47.170983' lon='15.164563000000001'>
+    <tag k='alt_name' v='Geistthal Gh Kollmann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Kollmann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1385:0:stal' />
+  </node>
+  <node id='-73658' action='modify' visible='true' lat='47.052878' lon='15.130867'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Einkaufszentrum' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Einkaufszentrum' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:462:0:ein' />
+  </node>
+  <node id='-73657' action='modify' visible='true' lat='46.985883' lon='15.283343'>
+    <tag k='alt_name' v='Mooskirchen Schule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1574:0:ssst' />
+  </node>
+  <node id='-73656' action='modify' visible='true' lat='47.043369000000006' lon='15.242747999999997'>
+    <tag k='alt_name' v='Kalchberg (Stmk) Sonegg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sonegg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3532:0:baus' />
+  </node>
+  <node id='-73655' action='modify' visible='true' lat='47.031361000000004' lon='15.257978'>
+    <tag k='alt_name' v='Hausdorf (Stmk) Kühlhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kühlhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1335:0:baus' />
+  </node>
+  <node id='-73654' action='modify' visible='true' lat='47.00056699999999' lon='15.111809000000001'>
+    <tag k='alt_name' v='St Martin/Wöllmißbg Abzweigung Großwöllmiß' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Großwöllmiß' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1433:0:stma' />
+  </node>
+  <node id='-73653' action='modify' visible='true' lat='47.078707' lon='15.070278999999998'>
+    <tag k='alt_name' v='Gradenberg Sensenwerk' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sensenwerk' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4413:0:sall' />
+  </node>
+  <node id='-73652' action='modify' visible='true' lat='47.023747' lon='15.053373999999996'>
+    <tag k='alt_name' v='Edelschrott Feuerwehrhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Feuerwehrhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1467:0:koef' />
+  </node>
+  <node id='-73651' action='modify' visible='true' lat='47.002112000000004' lon='15.274726999999999'>
+    <tag k='alt_name' v='Söding Wohnheim Lebenshilfe' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wohnheim Lebenshilfe' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1300:0:ein' />
+  </node>
+  <node id='-73650' action='modify' visible='true' lat='47.001794' lon='15.213118'>
+    <tag k='alt_name' v='Ligist Kapelle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kapelle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1390:0:krot' />
+  </node>
+  <node id='-73649' action='modify' visible='true' lat='47.140687' lon='15.091971000000001'>
+    <tag k='alt_name' v='Kainach/Voitsberg Dorfplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dorfplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:468:0:voit' />
+  </node>
+  <node id='-73648' action='modify' visible='true' lat='47.016037' lon='15.208835000000002'>
+    <tag k='alt_name' v='Krottendorf/Ligist Haberneggsiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Haberneggsiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3508:0:ein' />
+  </node>
+  <node id='-73647' action='modify' visible='true' lat='47.026049' lon='15.215306'>
+    <tag k='alt_name' v='Kleingaisfeld Zimmermannstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Zimmermannstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3550:0:klga' />
+  </node>
+  <node id='-73646' action='modify' visible='true' lat='47.06287799999999' lon='15.067336999999998'>
+    <tag k='alt_name' v='Maria Lankowitz Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1402:0:puba' />
+  </node>
+  <node id='-73645' action='modify' visible='true' lat='47.047475' lon='15.184471'>
+    <tag k='alt_name' v='Lobming (Voitsberg) Tonipeter' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tonipeter' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1344:0:bein' />
+  </node>
+  <node id='-73644' action='modify' visible='true' lat='47.066742' lon='15.245930000000001'>
+    <tag k='alt_name' v='Raßberg Milchhütte' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Milchhütte' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1367:0:baus' />
+  </node>
+  <node id='-73643' action='modify' visible='true' lat='46.98711900000001' lon='14.979336000000004'>
+    <tag k='alt_name' v='Pack Gressenberger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gressenberger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1473:0:pack' />
+  </node>
+  <node id='-73642' action='modify' visible='true' lat='47.009077' lon='15.237781'>
+    <tag k='alt_name' v='St Johann ob Hohenbg Spechtlersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Spechtlersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7705:0:ein' />
+  </node>
+  <node id='-73641' action='modify' visible='true' lat='47.05450100000001' lon='15.103309'>
+    <tag k='alt_name' v='Rosental/Kainach Karlschacht Einfahrt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Karlschacht Einfahrt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3589:0:voit' />
+  </node>
+  <node id='-73640' action='modify' visible='true' lat='47.0096' lon='15.213823'>
+    <tag k='alt_name' v='Krottendorf/Ligist Krottendorf-Ligist Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Krottendorf-Ligist Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1282:4:schl' />
+  </node>
+  <node id='-73639' action='modify' visible='true' lat='47.06688499999999' lon='15.252522999999998'>
+    <tag k='alt_name' v='St Bartholomä Gh Guggi' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Guggi' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:2978:0:baus' />
+  </node>
+  <node id='-73638' action='modify' visible='true' lat='47.02199699999999' lon='15.198448999999998'>
+    <tag k='alt_name' v='Gaisfeld (Stmk) Trafik' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trafik' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1305:0:aus' />
+  </node>
+  <node id='-73637' action='modify' visible='true' lat='47.047185000000006' lon='15.074131000000003'>
+    <tag k='alt_name' v='Pichling bei Köflach Heimgasse' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Heimgasse' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1400:0:puba' />
+  </node>
+  <node id='-73636' action='modify' visible='true' lat='47.07814799999999' lon='15.125939000000002'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Fasangasse' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fasangasse' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:477:0:kaiv' />
+  </node>
+  <node id='-73635' action='modify' visible='true' lat='47.017332' lon='15.201508'>
+    <tag k='alt_name' v='Gaisfeld (Stmk) Jugendherberge Vollger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jugendherberge Vollger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3556:0:kro' />
+  </node>
+  <node id='-73634' action='modify' visible='true' lat='47.104020000000006' lon='15.012306999999998'>
+    <tag k='alt_name' v='Graden bei Köflach Brandtwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brandtwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1415:0:koef' />
+  </node>
+  <node id='-73633' action='modify' visible='true' lat='47.103204' lon='14.951661000000001'>
+    <tag k='alt_name' v='Salla Almbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Almbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:2113:0:koef' />
+  </node>
+  <node id='-73632' action='modify' visible='true' lat='47.04978700000001' lon='15.219007000000003'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Busbahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Busbahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3279:0:schl' />
+  </node>
+  <node id='-73631' action='modify' visible='true' lat='47.049857' lon='15.054748'>
+    <tag k='alt_name' v='Puchbach (Köflach) Kolonie' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kolonie' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3598:0:koef' />
+  </node>
+  <node id='-73630' action='modify' visible='true' lat='47.05410500000001' lon='15.117571999999997'>
+    <tag k='alt_name' v='Rosental/Kainach Kaufwelt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kaufwelt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1313:0:ein' />
+  </node>
+  <node id='-73629' action='modify' visible='true' lat='47.029195' lon='15.163868'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) Trafo' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trafo' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:9:0:kowa' />
+  </node>
+  <node id='-73628' action='modify' visible='true' lat='47.044179' lon='15.14971'>
+    <tag k='alt_name' v='Voitsberg Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:482:2:baer' />
+  </node>
+  <node id='-73627' action='modify' visible='true' lat='47.00845999999999' lon='15.214950999999996'>
+    <tag k='alt_name' v='Krottendorf/Ligist Bahnwärterhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnwärterhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3561:0:krot' />
+  </node>
+  <node id='-73626' action='modify' visible='true' lat='47.113762' lon='15.046996'>
+    <tag k='alt_name' v='Graden bei Köflach Gradnerstraße Säule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gradnerstraße Säule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1420:0:sall' />
+  </node>
+  <node id='-73625' action='modify' visible='true' lat='47.077129' lon='15.106264'>
+    <tag k='alt_name' v='Piber bei Köflach Fesselweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fesselweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:493:0:baer' />
+  </node>
+  <node id='-73624' action='modify' visible='true' lat='46.99094600000001' lon='15.009633'>
+    <tag k='alt_name' v='Pack Reinisch Hube' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Reinisch Hube' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1449:0:modr' />
+  </node>
+  <node id='-73623' action='modify' visible='true' lat='46.964266' lon='15.275371000000002'>
+    <tag k='alt_name' v='Kniezenberg Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1557:0:moos' />
+  </node>
+  <node id='-73622' action='modify' visible='true' lat='47.10158400000001' lon='15.174953'>
+    <tag k='alt_name' v='Södingberg Ort Schule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1378:0:stal' />
+  </node>
+  <node id='-73621' action='modify' visible='true' lat='47.07074500000001' lon='15.128489000000002'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Hauptplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hauptplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:459:2:voit2' />
+  </node>
+  <node id='-73620' action='modify' visible='true' lat='47.042015' lon='15.128572'>
+    <tag k='alt_name' v='Kowald Falkenweg Schweigler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Falkenweg Schweigler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:14:0:voit' />
+  </node>
+  <node id='-73619' action='modify' visible='true' lat='46.987323' lon='15.202353'>
+    <tag k='alt_name' v='Ligist Pignitter' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pignitter' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3567:0:krot' />
+  </node>
+  <node id='-73618' action='modify' visible='true' lat='47.041576' lon='15.088421999999998'>
+    <tag k='alt_name' v='Pichling bei Köflach Weggersdlg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Weggersdlg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1426:0:puba' />
+  </node>
+  <node id='-73617' action='modify' visible='true' lat='47.040426' lon='15.063290000000002'>
+    <tag k='alt_name' v='Pichling bei Köflach Trattnerhöhe' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trattnerhöhe' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1460:0:koef' />
+  </node>
+  <node id='-73616' action='modify' visible='true' lat='46.99713500000001' lon='15.221380999999997'>
+    <tag k='alt_name' v='Dietenberg Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3578:0:grab' />
+  </node>
+  <node id='-73615' action='modify' visible='true' lat='47.021744' lon='15.176869'>
+    <tag k='alt_name' v='Gaisfeld (Stmk) Gh Moitzi' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Moitzi' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1387:0:teig' />
+  </node>
+  <node id='-73614' action='modify' visible='true' lat='47.15504599999999' lon='15.083235999999996'>
+    <tag k='alt_name' v='Kainach/Voitsberg Brücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:464:0:kaiv' />
+  </node>
+  <node id='-73613' action='modify' visible='true' lat='47.037854' lon='15.240743000000002'>
+    <tag k='alt_name' v='Bernau (Stmk) Gh Dirnberger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Dirnberger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1337:0:bein' />
+  </node>
+  <node id='-73612' action='modify' visible='true' lat='47.010316' lon='15.104116000000001'>
+    <tag k='alt_name' v='St Martin/Wöllmißbg Gemeindeamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeindeamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1431:0:koef' />
+  </node>
+  <node id='-73611' action='modify' visible='true' lat='47.010542' lon='15.022508999999998'>
+    <tag k='alt_name' v='Edelsch Packerstraße Wegmacherhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wegmacherhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1470:0:pack' />
+  </node>
+  <node id='-73610' action='modify' visible='true' lat='47.056858000000005' lon='15.087526'>
+    <tag k='alt_name' v='Pichling bei Köflach Sportplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sportplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3586:0:voit' />
+  </node>
+  <node id='-73609' action='modify' visible='true' lat='47.009135' lon='15.244815'>
+    <tag k='alt_name' v='Köppling Gh Holzer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Holzer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1302:0:aus' />
+  </node>
+  <node id='-73608' action='modify' visible='true' lat='47.04251599999999' lon='15.08061'>
+    <tag k='alt_name' v='Pichling bei Köflach Kumpelweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kumpelweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1397:0:koef' />
+  </node>
+  <node id='-73607' action='modify' visible='true' lat='47.126352000000004' lon='15.104787000000002'>
+    <tag k='alt_name' v='Kohlschwarz Gurzn' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gurzn' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:470:0:kaiv' />
+  </node>
+  <node id='-73606' action='modify' visible='true' lat='47.037335' lon='15.246661'>
+    <tag k='alt_name' v='Bernau (Stmk) Abzw Kalchberg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Kalchberg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3510:0:bein' />
+  </node>
+  <node id='-73605' action='modify' visible='true' lat='47.01998' lon='15.221116000000004'>
+    <tag k='alt_name' v='Kleingaisfeld Abzw Muggau' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Muggau' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3549:0:krot' />
+  </node>
+  <node id='-73604' action='modify' visible='true' lat='47.022767' lon='15.167758000000001'>
+    <tag k='alt_name' v='Teigitschgraben Gh Wiesenpeter' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Wiesenpeter' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3976:0:teig' />
+  </node>
+  <node id='-73603' action='modify' visible='true' lat='47.064475' lon='15.07916'>
+    <tag k='alt_name' v='Köflach Kfh Berdnik' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kfh Berdnik' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1407:0:keof' />
+  </node>
+  <node id='-73602' action='modify' visible='true' lat='47.052552' lon='15.195601'>
+    <tag k='alt_name' v='Ruppbauernhöhe Ruppbauernhöhe' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ruppbauernhöhe' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1343:0:baus' />
+  </node>
+  <node id='-73601' action='modify' visible='true' lat='47.04766800000001' lon='15.243595000000001'>
+    <tag k='alt_name' v='Kalchberg (Stmk) Abzweigung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1369:0:bein' />
+  </node>
+  <node id='-73600' action='modify' visible='true' lat='46.96587699999999' lon='14.978269999999998'>
+    <tag k='alt_name' v='Pack Landesgrenze' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Landesgrenze' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1475:0:prei' />
+  </node>
+  <node id='-73599' action='modify' visible='true' lat='47.05774799999999' lon='15.085070000000004'>
+    <tag k='alt_name' v='Pichling bei Köflach Konsum' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Konsum' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3591:0:koef' />
+  </node>
+  <node id='-73598' action='modify' visible='true' lat='47.046392' lon='15.156701000000002'>
+    <tag k='alt_name' v='Voitsberg Jonasstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jonasstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1309:0:ein' />
+  </node>
+  <node id='-73597' action='modify' visible='true' lat='47.040156' lon='15.153799'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) Gustibar' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gustibar' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4:0:kowa' />
+  </node>
+  <node id='-73596' action='modify' visible='true' lat='47.08346199999999' lon='15.124027000000002'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Schlossbad' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schlossbad' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:476:0:voit' />
+  </node>
+  <node id='-73595' action='modify' visible='true' lat='47.03929' lon='15.178252000000004'>
+    <tag k='alt_name' v='Lobming (Voitsberg) Am Waldrain' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Am Waldrain' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3516:0:baus' />
+  </node>
+  <node id='-73594' action='modify' visible='true' lat='47.011407' lon='15.210063'>
+    <tag k='alt_name' v='Krottendorf/Ligist Trichitsch' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trichitsch' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3558:0:klga' />
+  </node>
+  <node id='-73593' action='modify' visible='true' lat='47.091834999999996' lon='15.035368000000002'>
+    <tag k='alt_name' v='Graden bei Köflach Hammerwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hammerwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1413:0:sall' />
+  </node>
+  <node id='-73592' action='modify' visible='true' lat='47.015968' lon='15.057598'>
+    <tag k='alt_name' v='Edelschrott Lukasedersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lukasedersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1439:0:stma' />
+  </node>
+  <node id='-73591' action='modify' visible='true' lat='46.969947' lon='15.297439999999998'>
+    <tag k='alt_name' v='Neudorf/Mooskirchen Neudorf bei Mooskirchen' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Neudorf bei Mooskirchen' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1554:0:lieb' />
+  </node>
+  <node id='-73590' action='modify' visible='true' lat='47.039972' lon='15.082432999999998'>
+    <tag k='alt_name' v='Pichling bei Köflach Gewerbepark' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gewerbepark' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4370:0:koef' />
+  </node>
+  <node id='-73589' action='modify' visible='true' lat='47.089347000000004' lon='15.187980999999999'>
+    <tag k='alt_name' v='Södingberg (Bz VO) Schirgi' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schirgi' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1375:0:stal' />
+  </node>
+  <node id='-73588' action='modify' visible='true' lat='47.05109499999999' lon='15.056060999999998'>
+    <tag k='alt_name' v='Puchbach (Köflach) Altes Gemeindeamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Altes Gemeindeamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3597:0:puba' />
+  </node>
+  <node id='-73587' action='modify' visible='true' lat='47.062956' lon='15.102429999999998'>
+    <tag k='alt_name' v='Köflach Karlschacht' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Karlschacht' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1315:0:aus' />
+  </node>
+  <node id='-73586' action='modify' visible='true' lat='47.03305799999999' lon='15.149404'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) Ahornweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ahornweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:11:0:voit' />
+  </node>
+  <node id='-73585' action='modify' visible='true' lat='47.07396200000001' lon='15.159279'>
+    <tag k='alt_name' v='Tregist Schule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:485:0:lobm' />
+  </node>
+  <node id='-73584' action='modify' visible='true' lat='46.99368200000001' lon='15.206807000000001'>
+    <tag k='alt_name' v='Ligist Postamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Postamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3564:0:krot' />
+  </node>
+  <node id='-73583' action='modify' visible='true' lat='47.05349' lon='15.080655000000002'>
+    <tag k='alt_name' v='Pichling bei Köflach Gh Edler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Edler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1423:0:stma' />
+  </node>
+  <node id='-73582' action='modify' visible='true' lat='47.07056099999999' lon='15.093630999999998'>
+    <tag k='alt_name' v='Köflach Kreuzberg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kreuzberg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:496:0:koef' />
+  </node>
+  <node id='-73581' action='modify' visible='true' lat='47.01241799999999' lon='14.984298'>
+    <tag k='alt_name' v='Hirschegg (Stmk) Wegmacher' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wegmacher' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1457:0:hirs' />
+  </node>
+  <node id='-73580' action='modify' visible='true' lat='46.974712999999994' lon='15.220861'>
+    <tag k='alt_name' v='Ligist Steinberg Holzer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinberg Holzer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3571:0:grab' />
+  </node>
+  <node id='-73579' action='modify' visible='true' lat='47.123110999999994' lon='15.162807999999998'>
+    <tag k='alt_name' v='Geistthal Schöberl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schöberl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1380:0:geis' />
+  </node>
+  <node id='-73578' action='modify' visible='true' lat='46.98138699999999' lon='15.210615'>
+    <tag k='alt_name' v='Ligist Abzweigung Mitteregg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Mitteregg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3569:0:grab' />
+  </node>
+  <node id='-73577' action='modify' visible='true' lat='47.034411000000006' lon='15.089642000000003'>
+    <tag k='alt_name' v='Pichling bei Köflach Gh Scherz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Scherz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1428:0:puba' />
+  </node>
+  <node id='-73576' action='modify' visible='true' lat='47.122166' lon='15.108626'>
+    <tag k='alt_name' v='Kohlschwarz Murg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Murg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7970:0:voit' />
+  </node>
+  <node id='-73575' action='modify' visible='true' lat='47.03134' lon='15.077845999999997'>
+    <tag k='alt_name' v='Puchbach (Köflach) Langmannbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Langmannbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1463:0:pack' />
+  </node>
+  <node id='-73574' action='modify' visible='true' lat='46.99220199999999' lon='15.216396'>
+    <tag k='alt_name' v='Dietenberg Friedhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Friedhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3577:0:ligi' />
+  </node>
+  <node id='-73573' action='modify' visible='true' lat='47.021916000000004' lon='15.196636'>
+    <tag k='alt_name' v='Gaisfeld (Stmk) Gh Klampfl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Klampfl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1386:0:voit' />
+  </node>
+  <node id='-73572' action='modify' visible='true' lat='47.149392' lon='15.092665'>
+    <tag k='alt_name' v='Kainach/Voitsberg Gh Rößl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Rößl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:467:0:kaiv' />
+  </node>
+  <node id='-73571' action='modify' visible='true' lat='46.99741399999999' lon='15.295015000000001'>
+    <tag k='alt_name' v='Söding Steinstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Steinstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3507:0:aus' />
+  </node>
+  <node id='-73570' action='modify' visible='true' lat='47.068291' lon='15.208062000000002'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Aichegg Hansbauerweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aichegg Hansbauerweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3546:0:stal' />
+  </node>
+  <node id='-73569' action='modify' visible='true' lat='47.048503' lon='15.221008000000001'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Gh Reinisch' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Reinisch' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1340:0:baus' />
+  </node>
+  <node id='-73568' action='modify' visible='true' lat='46.99541899999999' lon='15.111571'>
+    <tag k='alt_name' v='Langmannsperre Langmannsperre' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Langmannsperre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1434:0:stma' />
+  </node>
+  <node id='-73567' action='modify' visible='true' lat='47.02219' lon='15.032641'>
+    <tag k='alt_name' v='Edelschrott Stiegenwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stiegenwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1468:0:koef' />
+  </node>
+  <node id='-73566' action='modify' visible='true' lat='47.05799799999999' lon='15.094751999999998'>
+    <tag k='alt_name' v='Pichling bei Köflach Gh Binderwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Binderwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3588:0:koef' />
+  </node>
+  <node id='-73565' action='modify' visible='true' lat='47.004899' lon='15.262942'>
+    <tag k='alt_name' v='Pichling/Mooskirchen Gh Stöcklrausch' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Stöcklrausch' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1301:0:ein' />
+  </node>
+  <node id='-73564' action='modify' visible='true' lat='47.044358' lon='15.074764000000004'>
+    <tag k='alt_name' v='Pichling bei Köflach Neubaugasse' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Neubaugasse' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1399:0:puba' />
+  </node>
+  <node id='-73563' action='modify' visible='true' lat='47.101889' lon='15.121119000000002'>
+    <tag k='alt_name' v='Afling bei Bärnbach Hausl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hausl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:473:0:voit' />
+  </node>
+  <node id='-73562' action='modify' visible='true' lat='46.972618' lon='15.293432999999999'>
+    <tag k='alt_name' v='Fluttendorf/Mooskchn Abzweigung Ungerbach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Ungerbach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1586:0:lann' />
+  </node>
+  <node id='-73561' action='modify' visible='true' lat='47.052524' lon='15.227505'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Kollmann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kollmann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3513:0:li' />
+  </node>
+  <node id='-73560' action='modify' visible='true' lat='47.055717' lon='15.084354'>
+    <tag k='alt_name' v='Pichling bei Köflach Dillacher' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dillacher' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3157:0:koef' />
+  </node>
+  <node id='-73559' action='modify' visible='true' lat='47.027719' lon='15.211324999999999'>
+    <tag k='alt_name' v='Kleingaisfeld Lukasgraben' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lukasgraben' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3551:0:krot' />
+  </node>
+  <node id='-73558' action='modify' visible='true' lat='47.07370699999999' lon='15.069594999999998'>
+    <tag k='alt_name' v='Gradenberg Felsenkeller' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Felsenkeller' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1410:0:sall' />
+  </node>
+  <node id='-73557' action='modify' visible='true' lat='47.11017100000001' lon='14.945393999999999'>
+    <tag k='alt_name' v='Lederwinkel Puffing' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Puffing' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:2913:0:koef' />
+  </node>
+  <node id='-73556' action='modify' visible='true' lat='47.041459' lon='15.179270999999998'>
+    <tag k='alt_name' v='Lobming (Voitsberg) Müllerferli' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Müllerferli' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1345:0:bein' />
+  </node>
+  <node id='-73555' action='modify' visible='true' lat='47.022605' lon='15.055072000000001'>
+    <tag k='alt_name' v='Edelschrott Schulzentrum' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schulzentrum' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3942:0:pack' />
+  </node>
+  <node id='-73554' action='modify' visible='true' lat='47.103439' lon='14.951774000000002'>
+    <tag k='alt_name' v='Salla Almbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Almbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:2113:0:gab' />
+  </node>
+  <node id='-73553' action='modify' visible='true' lat='47.056929999999994' lon='15.240484000000002'>
+    <tag k='alt_name' v='Kalchberg (Stmk) Pickerhansl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Pickerhansl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1368:0:baus' />
+  </node>
+  <node id='-73552' action='modify' visible='true' lat='47.043781' lon='15.078738000000001'>
+    <tag k='alt_name' v='Pichling bei Köflach Ringstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ringstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3594:0:koef' />
+  </node>
+  <node id='-73551' action='modify' visible='true' lat='47.03302' lon='15.175532999999996'>
+    <tag k='alt_name' v='Krems in Steiermark Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:1284:1:zug' />
+  </node>
+  <node id='-73550' action='modify' visible='true' lat='47.05297999999999' lon='15.121703999999998'>
+    <tag k='alt_name' v='Rosental/Kainach Schule' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schule' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1312:0:aus' />
+  </node>
+  <node id='-73549' action='modify' visible='true' lat='47.05104299999999' lon='15.144543'>
+    <tag k='alt_name' v='Voitsberg Josefskirche' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Josefskirche' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1:0:aus' />
+  </node>
+  <node id='-73548' action='modify' visible='true' lat='47.07365699999999' lon='15.127397000000002'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Café Molinari' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Café Molinari' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:478:0:kaiv' />
+  </node>
+  <node id='-73547' action='modify' visible='true' lat='47.01368300000001' lon='15.206359'>
+    <tag k='alt_name' v='Krottendorf/Ligist Fastian' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fastian' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3557:0:ligi' />
+  </node>
+  <node id='-73546' action='modify' visible='true' lat='47.11237499999999' lon='15.009873'>
+    <tag k='alt_name' v='Graden bei Köflach Katzbachbrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Katzbachbrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1416:0:koef' />
+  </node>
+  <node id='-73545' action='modify' visible='true' lat='47.007009' lon='15.074682999999997'>
+    <tag k='alt_name' v='Wöllmiß Abzweigung Guglweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Guglweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1437:0:edel' />
+  </node>
+  <node id='-73544' action='modify' visible='true' lat='47.100777' lon='15.176945999999997'>
+    <tag k='alt_name' v='Södingberg (Bz VO) Ambrosbauer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ambrosbauer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1377:0:geis' />
+  </node>
+  <node id='-73543' action='modify' visible='true' lat='47.05948' lon='15.061850000000002'>
+    <tag k='alt_name' v='Puchbach (Köflach) Golfanlage Piberstein' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Golfanlage Piberstein' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3599:0:koef' />
+  </node>
+  <node id='-73542' action='modify' visible='true' lat='47.04216699999999' lon='15.12845'>
+    <tag k='alt_name' v='Kowald Falkenweg Schweigler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Falkenweg Schweigler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:14:0:kowa' />
+  </node>
+  <node id='-73541' action='modify' visible='true' lat='47.053943999999994' lon='15.155388999999998'>
+    <tag k='alt_name' v='Tregist Werk Zangtal' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Werk Zangtal' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:483:0:voit' />
+  </node>
+  <node id='-73540' action='modify' visible='true' lat='46.98922199999999' lon='15.204245000000004'>
+    <tag k='alt_name' v='Ligist Nr. 131' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Nr. 131' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3566:0:grab' />
+  </node>
+  <node id='-73539' action='modify' visible='true' lat='47.123717' lon='15.038018000000003'>
+    <tag k='alt_name' v='Graden bei Köflach Kapelle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kapelle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1421:0:sall' />
+  </node>
+  <node id='-73538' action='modify' visible='true' lat='47.061564' lon='15.081926999999999'>
+    <tag k='alt_name' v='Köflach Bahnhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:498:2:voit' />
+  </node>
+  <node id='-73537' action='modify' visible='true' lat='47.040671' lon='15.063469'>
+    <tag k='alt_name' v='Pichling bei Köflach Trattnerhöhe' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trattnerhöhe' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1460:0:pack' />
+  </node>
+  <node id='-73536' action='modify' visible='true' lat='46.985982' lon='15.227975000000002'>
+    <tag k='alt_name' v='Grabenwarth Gh Feichter' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Feichter' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3574:0:ligi' />
+  </node>
+  <node id='-73535' action='modify' visible='true' lat='46.982347' lon='15.28516'>
+    <tag k='alt_name' v='Mooskirchen Tanzer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Tanzer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4708:0:ssst' />
+  </node>
+  <node id='-73534' action='modify' visible='true' lat='47.154684' lon='15.160226999999999'>
+    <tag k='alt_name' v='Geistthal Gh Kreuzwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Kreuzwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1383:0:stal' />
+  </node>
+  <node id='-73533' action='modify' visible='true' lat='47.07074599999999' lon='15.128634'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Hauptplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hauptplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:459:2:kai' />
+  </node>
+  <node id='-73532' action='modify' visible='true' lat='47.023925000000006' lon='15.216086999999995'>
+    <tag k='alt_name' v='Kleingaisfeld Trafo' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trafo' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3645:0:krot' />
+  </node>
+  <node id='-73531' action='modify' visible='true' lat='46.97263500000001' lon='14.980701'>
+    <tag k='alt_name' v='Pack Feuerwehrhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Feuerwehrhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:6466:0:prei' />
+  </node>
+  <node id='-73530' action='modify' visible='true' lat='47.01036100000001' lon='15.104063'>
+    <tag k='alt_name' v='St Martin/Wöllmißbg Gemeindeamt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gemeindeamt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1431:0:stma' />
+  </node>
+  <node id='-73529' action='modify' visible='true' lat='47.046702' lon='15.075195000000003'>
+    <tag k='alt_name' v='Pichling bei Köflach Gh Wiedner / Paganal' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Wiedner / Paganal' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4411:0:puba' />
+  </node>
+  <node id='-73528' action='modify' visible='true' lat='47.02648000000001' lon='15.06699'>
+    <tag k='alt_name' v='Edelschrott Kraxner' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kraxner' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1465:0:koef' />
+  </node>
+  <node id='-73527' action='modify' visible='true' lat='47.061973' lon='15.077428999999999'>
+    <tag k='alt_name' v='Köflach Alleestraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Alleestraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3579:0:koef' />
+  </node>
+  <node id='-73526' action='modify' visible='true' lat='47.023123999999996' lon='15.163120000000001'>
+    <tag k='alt_name' v='Teigitschgraben Brücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Brücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1388:0:teig' />
+  </node>
+  <node id='-73525' action='modify' visible='true' lat='47.068108' lon='15.132643'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Decelak' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Decelak' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3130:0:koef' />
+  </node>
+  <node id='-73524' action='modify' visible='true' lat='47.154747' lon='15.092869000000002'>
+    <tag k='alt_name' v='Kainach/Voitsberg Gh Pongritz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Pongritz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:466:0:voit' />
+  </node>
+  <node id='-73523' action='modify' visible='true' lat='47.014907' lon='15.222984'>
+    <tag k='alt_name' v='Kleingaisfeld Schalk' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schalk' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3548:0:klga' />
+  </node>
+  <node id='-73522' action='modify' visible='true' lat='47.054412000000006' lon='15.205328'>
+    <tag k='alt_name' v='Ruppbauernhöhe Großkalcher' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Großkalcher' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1342:0:bein' />
+  </node>
+  <node id='-73521' action='modify' visible='true' lat='46.99741800000001' lon='15.087635999999996'>
+    <tag k='alt_name' v='Wöllmiß Abzweigung Hirzmannsperre' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Hirzmannsperre' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1436:0:edel' />
+  </node>
+  <node id='-73520' action='modify' visible='true' lat='46.994665' lon='14.998353'>
+    <tag k='alt_name' v='Pack Fritzkreuz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Fritzkreuz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1471:0:pack' />
+  </node>
+  <node id='-73519' action='modify' visible='true' lat='47.057663999999995' lon='15.089745000000004'>
+    <tag k='alt_name' v='Pichling bei Köflach Gh Großschädl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Großschädl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3587:0:voit' />
+  </node>
+  <node id='-73518' action='modify' visible='true' lat='46.996849' lon='15.282431000000003'>
+    <tag k='alt_name' v='Söding Söding-Mooskirchen Bahnhof' />
+    <tag k='name' v='Söding-Mooskirchen Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:1280:1:zug' />
+  </node>
+  <node id='-73517' action='modify' visible='true' lat='47.007113999999994' lon='15.230140999999998'>
+    <tag k='alt_name' v='St Johann ob Hohenbg Raika' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Raika' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1303:0:aus' />
+  </node>
+  <node id='-73516' action='modify' visible='true' lat='47.043506' lon='15.078218'>
+    <tag k='alt_name' v='Pichling bei Köflach Dammweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dammweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1398:0:koefK' />
+  </node>
+  <node id='-73515' action='modify' visible='true' lat='47.088710000000006' lon='15.122710000000001'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Föhrenstraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Föhrenstraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:475:0:kaiv' />
+  </node>
+  <node id='-73514' action='modify' visible='true' lat='47.053884' lon='15.221250999999999'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Guggimühle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Guggimühle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3515:0:re' />
+  </node>
+  <node id='-73513' action='modify' visible='true' lat='47.02389' lon='15.198869000000002'>
+    <tag k='alt_name' v='Gaisfeld (Stmk) Gh Fandl' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Fandl' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3554:0:klga' />
+  </node>
+  <node id='-73512' action='modify' visible='true' lat='47.09167599999999' lon='15.035596000000004'>
+    <tag k='alt_name' v='Graden bei Köflach Hammerwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Hammerwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1413:0:koef' />
+  </node>
+  <node id='-73511' action='modify' visible='true' lat='47.029693' lon='15.090948999999998'>
+    <tag k='alt_name' v='Puchbach (Köflach) Rainer Mühle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rainer Mühle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3833:0:stma' />
+  </node>
+  <node id='-73510' action='modify' visible='true' lat='47.054345999999995' lon='15.05876'>
+    <tag k='alt_name' v='Puchbach (Köflach) Piberstein Sportpark' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Piberstein Sportpark' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3596:0:koef' />
+  </node>
+  <node id='-73509' action='modify' visible='true' lat='47.05263800000001' lon='15.141414999999999'>
+    <tag k='alt_name' v='Voitsberg Landeskrankenhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Landeskrankenhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1311:0:ein' />
+  </node>
+  <node id='-73508' action='modify' visible='true' lat='47.03201399999999' lon='15.169503000000002'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) Koppn Kapelle' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Koppn Kapelle' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:5:0:kowa' />
+  </node>
+  <node id='-73507' action='modify' visible='true' lat='47.046392' lon='15.154964'>
+    <tag k='alt_name' v='Voitsberg Schulzentrum' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schulzentrum' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:481:0:lieb' />
+  </node>
+  <node id='-73506' action='modify' visible='true' lat='47.008284' lon='15.211667'>
+    <tag k='alt_name' v='Krottendorf/Ligist Schulweg Abzw' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Schulweg Abzw' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3559:0:krot' />
+  </node>
+  <node id='-73505' action='modify' visible='true' lat='47.108551' lon='14.972946000000002'>
+    <tag k='alt_name' v='Salla Postamt/Gh Zach' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Postamt/Gh Zach' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1418:0:sall' />
+  </node>
+  <node id='-73504' action='modify' visible='true' lat='47.070368' lon='15.119202999999999'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Karellystraße' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Karellystraße' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:491:0:voit' />
+  </node>
+  <node id='-73503' action='modify' visible='true' lat='47.021648' lon='15.050701'>
+    <tag k='alt_name' v='Edelschrott Gasthof Acham' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gasthof Acham' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1440:0:pack' />
+  </node>
+  <node id='-73502' action='modify' visible='true' lat='46.97413099999999' lon='15.284769000000002'>
+    <tag k='alt_name' v='Fluttendorf/Mooskchn Gh Gundolf' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Gundolf' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1555:0:lieb' />
+  </node>
+  <node id='-73501' action='modify' visible='true' lat='47.093476' lon='15.182662999999998'>
+    <tag k='alt_name' v='Södingberg (Bz VO) Roanabrücke' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Roanabrücke' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1376:0:stal' />
+  </node>
+  <node id='-73500' action='modify' visible='true' lat='47.032423' lon='15.145418000000003'>
+    <tag k='alt_name' v='Arnstein (Voitsberg) Blickweg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Blickweg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:12:0:voit' />
+  </node>
+  <node id='-73499' action='modify' visible='true' lat='47.064387' lon='15.16415'>
+    <tag k='alt_name' v='Lobmingberg Gh Katzler' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Katzler' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:486:0:lobm' />
+  </node>
+  <node id='-73498' action='modify' visible='true' lat='46.992033' lon='15.205606'>
+    <tag k='alt_name' v='Ligist Viehplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Viehplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3565:0:krot' />
+  </node>
+  <node id='-73497' action='modify' visible='true' lat='47.052116' lon='15.082517000000001'>
+    <tag k='alt_name' v='Pichling bei Köflach Cafe Mochart' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Cafe Mochart' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1424:0:koef' />
+  </node>
+  <node id='-73496' action='modify' visible='true' lat='47.071231' lon='15.088283'>
+    <tag k='alt_name' v='Köflach Therme Nova' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Therme Nova' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:497:0:aus' />
+  </node>
+  <node id='-73495' action='modify' visible='true' lat='47.016549999999995' lon='14.971672'>
+    <tag k='alt_name' v='Hirschegg (Stmk) Maier' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Maier' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1458:0:hirsc' />
+  </node>
+  <node id='-73494' action='modify' visible='true' lat='46.989018' lon='15.222036000000001'>
+    <tag k='alt_name' v='Grabenwarth Trafo' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Trafo' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3576:0:stai' />
+  </node>
+  <node id='-73493' action='modify' visible='true' lat='47.17082099999999' lon='15.164606999999998'>
+    <tag k='alt_name' v='Geistthal Gh Kollmann' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Kollmann' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1385:0:geis' />
+  </node>
+  <node id='-73492' action='modify' visible='true' lat='47.053254' lon='15.129832000000002'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Einkaufszentrum' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Einkaufszentrum' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:462:0:aus' />
+  </node>
+  <node id='-73491' action='modify' visible='true' lat='46.985087' lon='15.281794000000001'>
+    <tag k='alt_name' v='Mooskirchen Gh Hochstrasser' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Hochstrasser' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1575:0:lann' />
+  </node>
+  <node id='-73490' action='modify' visible='true' lat='47.04343200000001' lon='15.242681'>
+    <tag k='alt_name' v='Kalchberg (Stmk) Sonegg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sonegg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3532:0:bein' />
+  </node>
+  <node id='-73489' action='modify' visible='true' lat='47.03107399999999' lon='15.258075999999999'>
+    <tag k='alt_name' v='Hausdorf (Stmk) Kühlhaus' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kühlhaus' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1335:0:bein' />
+  </node>
+  <node id='-73488' action='modify' visible='true' lat='47.07145' lon='15.086855999999997'>
+    <tag k='alt_name' v='Köflach BRG' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='BRG' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3930:0:graz' />
+  </node>
+  <node id='-73487' action='modify' visible='true' lat='47.02524199999999' lon='15.095985'>
+    <tag k='alt_name' v='Puchbach (Köflach) Sagwölkert' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Sagwölkert' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1429:0:koef' />
+  </node>
+  <node id='-73486' action='modify' visible='true' lat='47.02201800000001' lon='15.032514'>
+    <tag k='alt_name' v='Edelschrott Stiegenwirt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Stiegenwirt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1468:0:pack' />
+  </node>
+  <node id='-73485' action='modify' visible='true' lat='47.002215' lon='15.275133000000002'>
+    <tag k='alt_name' v='Söding Wohnheim Lebenshilfe' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Wohnheim Lebenshilfe' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1300:0:aus' />
+  </node>
+  <node id='-73484' action='modify' visible='true' lat='46.994793' lon='15.212805000000001'>
+    <tag k='alt_name' v='Ligist Abzweigung Grabenwarth' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Grabenwarth' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1393:0:krot' />
+  </node>
+  <node id='-73483' action='modify' visible='true' lat='47.140912' lon='15.092058000000002'>
+    <tag k='alt_name' v='Kainach/Voitsberg Dorfplatz' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Dorfplatz' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:468:0:kaiv' />
+  </node>
+  <node id='-73482' action='modify' visible='true' lat='47.016209999999994' lon='15.209107000000001'>
+    <tag k='alt_name' v='Krottendorf/Ligist Haberneggsiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Haberneggsiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3508:0:aus' />
+  </node>
+  <node id='-73481' action='modify' visible='true' lat='47.011538' lon='15.217898'>
+    <tag k='alt_name' v='Krottendorf/Ligist Rieglersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rieglersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3547:0:ligi' />
+  </node>
+  <node id='-73480' action='modify' visible='true' lat='47.06268200000001' lon='15.067446999999998'>
+    <tag k='alt_name' v='Maria Lankowitz Ort' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Ort' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1402:0:koef' />
+  </node>
+  <node id='-73479' action='modify' visible='true' lat='47.053360000000005' lon='15.219183'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Bauernkammer' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Bauernkammer' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1341:0:baus' />
+  </node>
+  <node id='-73478' action='modify' visible='true' lat='47.04855599999999' lon='15.146744'>
+    <tag k='alt_name' v='Voitsberg Kainachsteg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Kainachsteg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:4358:0:voit' />
+  </node>
+  <node id='-73477' action='modify' visible='true' lat='47.066734' lon='15.246036'>
+    <tag k='alt_name' v='Raßberg Milchhütte' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Milchhütte' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1367:0:bein' />
+  </node>
+  <node id='-73476' action='modify' visible='true' lat='46.98701200000001' lon='14.979457000000002'>
+    <tag k='alt_name' v='Pack Gressenberger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gressenberger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1473:0:koef' />
+  </node>
+  <node id='-73475' action='modify' visible='true' lat='47.009212' lon='15.237831'>
+    <tag k='alt_name' v='St Johann ob Hohenbg Spechtlersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Spechtlersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:7705:0:aus' />
+  </node>
+  <node id='-73474' action='modify' visible='true' lat='47.054529' lon='15.103361000000001'>
+    <tag k='alt_name' v='Rosental/Kainach Karlschacht Einfahrt' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Karlschacht Einfahrt' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3589:0:koef' />
+  </node>
+  <node id='-73473' action='modify' visible='true' lat='47.02132600000001' lon='15.197029999999998'>
+    <tag k='alt_name' v='Gaisfeld (Stmk) Bahnhof' />
+    <tag k='name' v='Bahnhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='railway' v='station' />
+    <tag k='ref:IFOPT' v='at:46:1283:1:zug' />
+  </node>
+  <node id='-73472' action='modify' visible='true' lat='47.066733000000006' lon='15.252565999999996'>
+    <tag k='alt_name' v='St Bartholomä Gh Guggi' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Gh Guggi' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:2978:0:bein' />
+  </node>
+  <node id='-73471' action='modify' visible='true' lat='47.039094999999996' lon='15.165296'>
+    <tag k='alt_name' v='Voitsberg Rittlersiedlung' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Rittlersiedlung' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1306:0:ein' />
+  </node>
+  <node id='-73470' action='modify' visible='true' lat='47.04694299999999' lon='15.074176'>
+    <tag k='alt_name' v='Pichling bei Köflach Heimgasse' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Heimgasse' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1400:0:koef' />
+  </node>
+  <node id='-73469' action='modify' visible='true' lat='47.050959' lon='15.144269000000001'>
+    <tag k='alt_name' v='Voitsberg Josefskirche' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Josefskirche' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1:0:ein' />
+  </node>
+  <node id='-73468' action='modify' visible='true' lat='47.09325299999999' lon='15.120249000000003'>
+    <tag k='alt_name' v='Bärnbach (Stmk) Abzweigung Freisinggraben' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzweigung Freisinggraben' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:474:0:voit' />
+  </node>
+  <node id='-73467' action='modify' visible='true' lat='46.978528' lon='15.282645999999998'>
+    <tag k='alt_name' v='Mooskirchen Friedhof' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Friedhof' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:1587:0:ssst' />
+  </node>
+  <node id='-73466' action='modify' visible='true' lat='47.054427' lon='15.225267'>
+    <tag k='alt_name' v='Stallhofen (Stmk) Abzw Stallhofberg' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Abzw Stallhofberg' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3514:0:li' />
+  </node>
+  <node id='-73465' action='modify' visible='true' lat='47.017368' lon='15.201545999999999'>
+    <tag k='alt_name' v='Gaisfeld (Stmk) Jugendherberge Vollger' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Jugendherberge Vollger' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref:IFOPT' v='at:46:3556:0:klga' />
+  </node>
+</osm>
